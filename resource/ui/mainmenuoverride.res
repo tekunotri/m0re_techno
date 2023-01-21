@@ -1017,7 +1017,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"Notifications_CountLabel"
-			"font"									"m0refont15Shadow"
+			"font"									"m0refont12Shadow"
 			"labelText"								"%noticount%"
 			"textAlignment"							"east"
 			"xpos"									"0"
