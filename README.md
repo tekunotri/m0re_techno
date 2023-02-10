@@ -7,6 +7,5 @@ Download: https://github.com/TechnoSL/dqz_m0re_edit/archive/refs/heads/master.zi
 This version is entirely based on [dqz's edit](https://github.com/irodionr/dqz_hud/tree/m0re) of [Hypnootize's m0rehud](https://github.com/Hypnootize/m0rehud) while retaining mostly the same
 
 inventory bits from FlawHud: https://github.com/CriticalFlaw/flawhud
-SourceScheme from InsomniaHUD: https://github.com/p3tr1ch0r/insomniaHUD
 
 big thanks to the huds.tf discord for helping me whenever i asked
