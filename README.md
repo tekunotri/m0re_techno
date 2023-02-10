@@ -1,4 +1,4 @@
-# dqz_m0re_edit
+# m0re_technohud
 
 ![Screenshot](https://b.catgirlsare.sexy/LWiuZymoqIWo.jpg)
 
