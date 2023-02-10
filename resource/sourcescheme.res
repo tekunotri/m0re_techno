@@ -1,179 +1,282 @@
-#base "SourceSchemeBase.res"
+"#base"		"SourceSchemeBase.res"
+"#base"		"scheme/colors.res"
+"#base"		"../customization/colors/custom_colors.res"
 
 "Scheme"
 {
-	"Colors"
-	{
-		"White"												"255 255 255 255"
-		"OffWhite"											"200 200 200 255"
-		"DullWhite"											"142 142 142 255"
-
-		"Black"												"10 10 10 255"
-		"Blank"												"0 0 0 0"
-
-		"TransparentBlack"									"20 20 20 210"
-		"TransparentBlackInactive"							"15 15 15 125"
-		"LightTransparentBlack"								"35 35 35 210"
-		"LightTransparentBlackInactive"						"35 35 35 125"
-
-		"MainTheme"											"0 210 215 255"
-	}
-
 	"BaseSettings"
 	{
-		Border.Bright										"Blank"
-		Border.Dark											"Blank"
-		Border.Selection									"Blank"
-		Border.DarkSolid									"Black"
+		"Border.Bright"								"Blank"
+		"Border.Dark"								"Blank"
+		"Border.Selection"							"Blank"
+		"Button.TextColor"							"Text2"
+		"Button.BgColor"							"PanelO3"
+		"Button.ArmedTextColor"						"Text0"
+		"Button.ArmedBgColor"						"PanelO4"
+		"Button.DepressedTextColor"					"Text1"
+		"Button.DepressedBgColor"					"PanelO4"
+		"Button.FocusBorderColor"					"Blank"
 
-		Button.TextColor									"White"
-		Button.BgColor										"TransparentBlack"
-		Button.ArmedTextColor								"White"
-		Button.ArmedBgColor									"MainTheme"
-		Button.DepressedTextColor							"White"
-		Button.DepressedBgColor								"Blank"
-		Button.FocusBorderColor								"White"
+		"CheckButton.TextColor"						"Text2"
+		"CheckButton.SelectedTextColor"				"Text1"
+		"CheckButton.BgColor"						"PanelO1"
+		"CheckButton.HighlightFgColor"				"Text0"
+		"CheckButton.ArmedBgColor"					"Blank"
+		"CheckButton.DepressedBgColor"				"Blank"
+		"CheckButton.Border1"						"White"
+		"CheckButton.Border2"						"White"
+		"CheckButton.Check"							"AccentMain"
+		"CheckButton.DisabledBgColor"				"PanelO0"
 
-		CheckButton.TextColor								"OffWhite"
-		CheckButton.SelectedTextColor						"White"
-		CheckButton.BgColor									"TransparentBlack"
-		CheckButton.HighlightFgColor						"MainTheme"
-		CheckButton.ArmedBgColor							"Blank"
-		CheckButton.DepressedBgColor						"Blank"
-		CheckButton.Border1  								"Blank"
-		CheckButton.Border2  								"Blank"
-		CheckButton.Check									"White"
-		CheckButton.DisabledBgColor	   						"Blank"
+		"ToggleButton.SelectedTextColor"			"Text0"
 
-		ToggleButton.SelectedTextColor						"OffWhite"
+		"ComboBoxButton.ArrowColor"					"Text1"
+		"ComboBoxButton.ArmedArrowColor"			"Text0"
+		"ComboBoxButton.BgColor"					"Blank"
+		"ComboBoxButton.DisabledBgColor"			"Blank"
 
-		ComboBoxButton.ArrowColor							"DullWhite"
-		ComboBoxButton.ArmedArrowColor						"White"
-		ComboBoxButton.BgColor								"Blank"
-		ComboBoxButton.DisabledBgColor						"Blank"
+		"RadioButton.TextColor"						"Text1"
+		"RadioButton.SelectedTextColor"				"Text0"
+		"RadioButton.ArmedTextColor"				"Text0"
 
-		RadioButton.TextColor								"DullWhite"
-		RadioButton.SelectedTextColor						"White"
-		RadioButton.ArmedTextColor							"DullWhite"
+		"Frame.BgColor"								"PanelO1"
+		"Frame.OutOfFocusBgColor"					"PanelO2"
 
-		Frame.BgColor										"LightTransparentBlack"
-		Frame.OutOfFocusBgColor								"LightTransparentBlackInactive"
-		FrameGrip.Color1									"65 65 65 255"
-		FrameGrip.Color2									"0 0 0 0"
-		FrameTitleButton.FgColor							"200 200 200 196"
-		FrameTitleBar.Font									"UiBold"
-		FrameTitleBar.TextColor								"MainTheme"
-		FrameTitleBar.DisabledTextColor						"255 255 255 192"
+		"FrameGrip.Color1"							"Blank"
+		"FrameGrip.Color2"							"Blank"
 
-		Label.TextDullColor									"DullWhite"
-		Label.TextColor										"OffWhite"
-		Label.TextBrightColor								"White"
-		Label.SelectedTextColor								"White"
-		Label.BgColor										"Blank"
-		Label.DisabledFgColor1								"0 0 0 0"
-		Label.DisabledFgColor2								"30 30 30 255"
+		"FrameTitleButton.FgColor"					"Text0"
+		"FrameTitleBar.Font"						"DefaultLarge"
+		"FrameTitleBar.TextColor"					"Text0"
+		"FrameTitleBar.DisabledTextColor"			"Text1"
 
-		ListPanel.TextColor									"OffWhite"
-		ListPanel.BgColor									"TransparentBlack"
-		ListPanel.SelectedBgColor							"MainTheme"
-		ListPanel.SelectedOutOfFocusBgColor					"TransparentBlackIanctive"
+		"Label.TextDullColor"						"TFTextDull"
+		"Label.TextColor"							"TFTextBright"
+		"Label.TextBrightColor"						"TFTextBright"
+		"Label.SelectedTextColor"					"TFTextBright"
+		"Label.BgColor"								"Blank"
+		"Label.DisabledFgColor1"					"TFTextDull"
+		"Label.DisabledFgColor2"					"Blank"
 
-		MainMenu.TextColor									"White"
-		MainMenu.ArmedTextColor								"MainTheme"
+		"ListPanel.TextColor"						"Text0"
+		"ListPanel.BgColor"							"PanelO0"
+		"ListPanel.SelectedBgColor"					"AccentMain"
+		"ListPanel.SelectedOutOfFocusBgColor"		"PanelO3"
 
-		Menu.FgColor										"White"
-		Menu.BgColor										"17 17 17 255"
-		Menu.ArmedFgColor									"MainTheme"
-		Menu.ArmedBgColor									"MainTheme"
-		Menu.DividerColor									"BorderDark"
+		"MainMenu.TextColor"						"Text1"
+		"MainMenu.ArmedTextColor"					"Text0"
+		"MainMenu.Inset"							"32"
 
-		ScrollBarButton.FgColor								"White"
-		ScrollBarButton.BgColor								"Blank"
-		ScrollBarButton.ArmedFgColor						"White"
-		ScrollBarButton.ArmedBgColor						"Blank"
-		ScrollBarButton.DepressedFgColor					"White"
-		ScrollBarButton.DepressedBgColor					"Blank"
+		"Menu.TextInset"							"6"
+		"Menu.FgColor"								"Text0"
+		"Menu.BgColor"								"PanelO0"
+		"Menu.ArmedFgColor"							"Text0"
+		"Menu.ArmedBgColor"							"PanelO2"
+		"Menu.DividerColor"							"Blank"
 
-		ScrollBarSlider.FgColor								"55 55 55 255"
-		ScrollBarSlider.BgColor								"0 0 0 0"
+		"ScrollBarButton.FgColor"					"White"
+		"ScrollBarButton.BgColor"					"PanelO4"
+		"ScrollBarButton.ArmedFgColor"				"White"
+		"ScrollBarButton.ArmedBgColor"				"PanelO5"
+		"ScrollBarButton.DepressedFgColor"			"White"
+		"ScrollBarButton.DepressedBgColor"			"PanelO5"
 
-		Slider.NobColor										"108 108 108 255"
-		Slider.TextColor									"180 180 180 255"
-		Slider.TrackColor									"31 31 31 255"
-		Slider.DisabledTextColor1							"117 117 117 255"
-		Slider.DisabledTextColor2							"30 30 30 255"
+		"ScrollBarSlider.BgColor"					"PanelO3"
+		"ScrollBarSlider.FgColor"					"PanelO5"
 
-		TextEntry.TextColor									"MainTheme"
-		TextEntry.DisabledTextColor							"MainTheme"
-		TextEntry.SelectedBgColor							"MainTheme"
+		"Slider.NobColor"							"White"
+		"Slider.TextColor"							"Text0"
+		"Slider.TrackColor"							"Text2"
+		"Slider.DisabledTextColor1"					"Text3"
+		"Slider.DisabledTextColor2"					"Text4"
 
-		RichText.SelectedBgColor							"MainTheme"
-
-		SectionedListPanel.SelectedBgColor					"MainTheme"
-
-		Tooltip.BgColor										"MainTheme"
-
-		Console.TextColor									"MainTheme"
+		"TextEntry.TextColor"						"Text0"
+		"TextEntry.DisabledTextColor"				"Text2"
+		"TextEntry.SelectedBgColor"					"AccentMain"
 	}
-
-	"Borders"
+	"Fonts"
 	{
-		"FrameBorder"
+		"MainMenuFont"
 		{
-			"Left"
+			"1" [$WIN32]
 			{
-				"1"
-				{
-					"color" 								"Border.DarkSolid"
-					"offset" 								"0 0"
-				}
-				"2"
-				{
-					"color" 								"Border.DarkSolid"
-					"offset" 								"0 0"
-				}
+				"name"			"Verdana"
+				"tall"			"18"
+				"weight"		"500"
+				"additive"		"0"
 			}
-
-			"Right"
+		}
+		"MenuLarge"
+		{
+			"1" [$X360]
 			{
-				"1"
-				{
-					"color" 								"Border.DarkSolid"
-					"offset" 								"0 0"
-				}
-				"2"
-				{
-					"color" 								"Border.DarkSolid"
-					"offset" 								"0 0"
-				}
+				"tall_hidef"		"24"
 			}
-
-			"Top"
+		}
+		"ServerBrowserTitle"
+		{
+			"1"
 			{
-				"1"
-				{
-					"color" 								"Border.DarkSolid"
-					"offset" 								"0 0"
-				}
-				"2"
-				{
-					"color" 								"Border.DarkSolid"
-					"offset" 								"0 0"
-				}
+				"name"				"Verdana"
+				"tall"				"35"
+				"tall_lodef"		"40"
+				"weight"			"500"
+				"additive"			"0"
 			}
-
-			"Bottom"
+		}
+		"Default" [$OSX]
+		{
+			"1"
 			{
-				"1"
-				{
-					"color" 								"Border.DarkSolid"
-					"offset" 								"0 0"
-				}
-				"2"
-				{
-					"color"									"Border.DarkSolid"
-					"offset" 								"0 0"
-				}
+				"name"			"Verdana"
+				"tall"			"14"
+				"weight"		"500"
+			}
+		}
+		"ServerBrowserSmall"
+		{
+			"1"
+			{
+				"name"			"Verdana"
+				"tall"			"16"
+				"weight"		"0"
+				"range"			"0x0000 0x017F"	// Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"			"480 599"
+			}
+			"2"
+			{
+				"name"			"Verdana"
+				"tall"			"16"
+				"weight"		"0"
+				"range"			"0x0000 0x017F"	// Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"			"600 767"
+			}
+			"3"
+			{
+				"name"			"Verdana"
+				"tall"			"16"
+				"weight"		"0"
+				"range"			"0x0000 0x017F"	// Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"			"768 1023"
+				"antialias"		"1"
+			}
+			"4"
+			{
+				"name"			"Verdana"
+				"tall"			"19"
+				"weight"		"0"
+				"range"			"0x0000 0x017F"	// Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"			"1024 1199"
+				"antialias"		"1"
+			}
+			"5"
+			{
+				"name"			"Verdana"
+				"tall"			"19"
+				"weight"		"0"
+				"range"			"0x0000 0x017F"	// Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"			"1200 6000"
+				"antialias"		"1"
+			}
+		}
+		"AchievementItemTitle" [$WIN32]
+		{
+			"1"
+			{
+				"name"			"Verdana" [!$OSX]
+				"name"			"Verdana" [$OSX]
+				"weight"		"1500"
+				"tall"			"16" [!$OSX]
+				"tall"			"18" [$OSX]
+				"antialias"		"1"
+			}
+		}
+		"AchievementItemTitleLarge" [$WIN32]
+		{
+			"1"
+			{
+				"name"			"Verdana" [!$OSX]
+				"name"			"Verdana" [$OSX]
+				"weight"		"1500"
+				"tall"			"18" [!$OSX]
+				"tall"			"19" [$OSX]
+				"antialias"		"1"
+			}
+		}
+		"AchievementItemDescription" [$WIN32]
+		{
+			"1"
+			{
+				"name"			"Verdana" [!$OSX]
+				"name"			"Verdana" [$OSX]
+				"weight"		"1000"
+				"tall"			"14" [!$OSX]
+				"tall"			"12" [$OSX]
+				"antialias"		"1" [!$OSX]
+			}
+		}
+	}
+	"CustomFontFiles"
+	{
+		"6"
+		{
+			"font"		"resource/TF2Build.ttf"
+			"name"		"TF2 Build"
+			"turkish"
+			{
+				"range"		"0x0000 0x015F"
+			}
+			"swedish"
+			{
+				"range"		"0x0000 0x00F6"
+			}
+			"spanish"
+			{
+				"range"		"0x0000 0x00FC"
+			}
+			"romanian"
+			{
+				"range"		"0x0000 0x021B"
+			}
+			"polish"
+			{
+				"range"		"0x0000 0x017C"
+			}
+			"norwegian"
+			{
+				"range"		"0x0000 0x00F8"
+			}
+			"danish"
+			{
+				"range"		"0x0000 0x00F8"
+			}
+			"hungarian"
+			{
+				"range"		"0x0000 0x0171"
+			}
+			"german"
+			{
+				"range"		"0x0000 0x00FC"
+			}
+			"french"
+			{
+				"range"		"0x0000 0x0178"
+			}
+			"finnish"
+			{
+				"range"		"0x0000 0x017E"
+			}
+			"czech"
+			{
+				"range"		"0x0000 0x017E"
+			}
+			"bulgarian"
+			{
+				"range"		"0x0000 0x0451"
+			}
+			"russian"
+			{
+				"range"		"0x0000 0x0451"
 			}
 		}
 	}
