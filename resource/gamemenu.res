@@ -7,7 +7,7 @@
 	"Version"
 	{
 		"label" 									"m0rehud 6.35"
-		"command" 									"engine showconsole; clear; echo original edit by dqz, further edits by techno, loadout/backpack bits from FlawHud by CriticalFlaw"
+		"command" 									"engine showconsole; clear; echo m0re_techno v1.11; echo by techno, based on a edit of m0rehud by dqz; echo with inventory bits taken from FlawHUD by CriticalFlaw"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
