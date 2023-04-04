@@ -206,6 +206,17 @@
 				"antialias" 								"1"
 			}
 		}
+		"m0refont20Bold"
+		{
+			"1"
+			{
+				"name"										"AvenirLTStd-Black"
+				"tall"										"20"
+				"antialias" 								"1"
+				"weight"									"500"
+				"additive"									"0"
+			}
+		}
 		"m0refont22"
 		{
 			"1"
