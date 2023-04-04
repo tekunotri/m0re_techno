@@ -603,6 +603,17 @@
 				"antialias"		"1"
 			}
 		}
+		"CustomIcons"
+		{
+			"1"
+			{
+				"name"			"FlawHUDIcons"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+	}
 		"CloseCaption_Small"
 		{
 			"1"
