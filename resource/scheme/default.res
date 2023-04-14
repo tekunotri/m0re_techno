@@ -668,12 +668,11 @@
 		{
 			"1"
 			{
-				"name"										"Trebuchet MS" 	[!$OSX]
-				"name"										"Helvetica" 	[$OSX]
-				"tall"										"18"
-				"weight"									"900"
+				"name"										"AvenirLTStd-Black" 	[!$OSX]
+				"name"										"AvenirLTStd-Black" 	[$OSX]
+				"tall"										"14"
 				"antialias" 								"1"
-				"additive"									"1"
+				"additive"									"0"
 			}
 		}
 
