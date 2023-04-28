@@ -339,7 +339,7 @@
 			"wide"									"f0"
 			"tall"									"f0"
 			"visible"								"0"
-			"enabled"								"1"
+			"enabled"								"0"
 			"proportionaltoparent"					"1"
 			"use_proportional_insets" 				"1"
 			"font"									"VerdanaMenu"
