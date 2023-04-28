@@ -1008,7 +1008,6 @@
 		"wide"										"150"
 		"tall"										"14"
 		"visible"									"1"
-
 		"pin_to_sibling" 							"QuitGame"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 					"PIN_BOTTOMLEFT"
