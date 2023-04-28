@@ -896,6 +896,15 @@
 			"font" 		"resource/scheme/fonts/avenirmedium.otf"
 			"name" 		"AvenirLTStd-Medium"
 		}
-		
+		"16"
+		{
+			"font"		"resource/scheme/fonts/ja-jp.ttf"
+			"name"		"SDK_JP_Web Regular"
+		}
+		"17"
+		{
+			"font"		"resource/scheme/fonts/genshin.ttf"
+			"name"		"SDK_JP_Web 85W"
+		}
 	}
   }
