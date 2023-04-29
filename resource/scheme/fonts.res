@@ -898,7 +898,7 @@
 		}
 		"16"
 		{
-			"font"		"resource/scheme/fonts/ja-jp.ttf"
+			"font"		"resource/scheme/fonts/honkai.ttf"
 			"name"		"SDK_JP_Web Regular"
 		}
 		"17"
