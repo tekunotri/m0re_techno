@@ -6,7 +6,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -15,7 +15,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -24,7 +24,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -33,7 +33,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"10"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -43,7 +43,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -52,7 +52,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -63,7 +63,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"11"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -73,7 +73,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"12"
 				"antialias" 								"1"
 			}
@@ -82,7 +82,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
@@ -93,7 +93,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"12"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -113,7 +113,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -122,7 +122,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"15"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -132,7 +132,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -143,7 +143,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
@@ -152,7 +152,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -163,7 +163,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"16"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -173,7 +173,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -182,7 +182,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -193,7 +193,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"18"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -203,7 +203,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"18"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -223,7 +223,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"20"
 				"antialias" 								"1"
 			}
@@ -232,7 +232,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"20"
 				"antialias" 								"1"
 				"weight"									"500"
@@ -243,7 +243,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"22"
 				"antialias" 								"1"
 			}
@@ -252,7 +252,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"22"
 				"antialias" 								"1"
 				"weight"									"500"
@@ -263,7 +263,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"22"
 				"antialias" 								"1"
 			}
@@ -272,7 +272,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"22"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -282,7 +282,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"22"
 				"weight"									"500"
 				"additive" 									"0"
@@ -293,7 +293,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"22"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -313,7 +313,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -322,7 +322,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"28"
 				"antialias" 								"1"
 			}
@@ -331,7 +331,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"28"
 				"weight"									"500"
 				"additive"									"0"
@@ -342,7 +342,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"28"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -362,7 +362,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"30"
 				"antialias" 								"1"
 			}
@@ -371,7 +371,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"30"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -381,7 +381,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"32"
 				"antialias" 								"1"
 			}
@@ -390,7 +390,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"32"
 				"weight"									"500"
 				"additive"									"0"
@@ -401,7 +401,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"42"
 				"antialias" 								"1"
 			}
@@ -410,7 +410,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"42"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -420,7 +420,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"50"
 				"antialias" 								"1"
 			}
@@ -429,7 +429,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"50"
 				"antialias" 								"1"
 				"outline"									"1"
@@ -477,7 +477,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"15"
 				"antialias" 								"1"
 			}
@@ -525,21 +525,21 @@
 		{
 			"1"
 			{
-				"name"		  								"SDK_JP_Web 85W"
+				"name"		  								"VL Gothic Regular"
 				"tall"      								"14"
 				"weight"									"0"
 				"antialias" 								"1"
 			}
 			"2"
 			{
-				"name"		 								"SDK_JP_Web 85W"
+				"name"		 								"VL Gothic Regular"
 				"tall"      								"18"
 				"weight"									"0"
 				"antialias" 								"1"
 			}
 			"3"
 			{
-				"name"		  								"SDK_JP_Web 85W"
+				"name"		  								"VL Gothic Regular"
 				"tall"      								"22"
 				"weight"									"0"
 				"antialias" 								"1"
@@ -553,7 +553,7 @@
 			}
 			"5"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"24"
 				"weight"									"0"
 				"antialias"									"1"
@@ -564,7 +564,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"24"
 				"weight"									"0"
 				"antialias" 								"1"
@@ -574,7 +574,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"24"
 				"weight"									"0"
 				"italic"									"0"
@@ -585,7 +585,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"24"
 				"weight"									"0"
 				"antialias" 								"1"
@@ -595,7 +595,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"24"
 				"weight"									"0"
 				"italic"									"0"
@@ -640,7 +640,7 @@
 		{
 			"1"
 			{
-				"name"										"SDK_JP_Web 85W"
+				"name"										"VL Gothic Regular"
 				"tall"										"16"
 				"weight"									"0"
 				"antialias" 								"1"
@@ -650,7 +650,7 @@
 		{
 			"1"
 			{
-				"name"			"SDK_JP_Web 85W"
+				"name"			"VL Gothic Regular"
 				"tall"			"12"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -712,7 +712,7 @@
 		{
 			"1"
 			{
-				"name"			"SDK_JP_Web 85W"
+				"name"			"VL Gothic Regular"
 				"tall"			"8"
 				"weight"		"500"
 				"additive"		"0"
@@ -723,7 +723,7 @@
 		{
 			"1"
 			{
-				"name"			"SDK_JP_Web 85W"
+				"name"			"VL Gothic Regular"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -734,7 +734,7 @@
 		{
 			"1"
 			{
-				"name"			"SDK_JP_Web 85W"
+				"name"			"VL Gothic Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -745,7 +745,7 @@
 		{
 			"1"
 			{
-				"name"			"SDK_JP_Web 85W"
+				"name"			"VL Gothic Regular"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -756,7 +756,7 @@
 		{
 			"1"
 			{
-				"name"			"SDK_JP_Web 85W"
+				"name"			"VL Gothic Regular"
 				"tall"			"8"
 				"weight"		"500"
 				"additive"		"0"
@@ -767,7 +767,7 @@
 		{
 			"1"
 			{
-				"name"			"SDK_JP_Web 85W"
+				"name"			"VL Gothic Regular"
 				"tall"			"8"
 				"antialias"		"1"
 				"weight"		"500"
@@ -777,7 +777,7 @@
 		{
 			"1"
 			{
-				"name"			"SDK_JP_Web 85W"
+				"name"			"VL Gothic Regular"
 				"tall"			"8"
 				"weight"		"500"
 				"additive"		"0"
@@ -788,7 +788,7 @@
 		{
 			"1"
 			{
-				"name"			"SDK_JP_Web 85W"
+				"name"			"VL Gothic Regular"
 				"tall"			"11"
 				"weight"		"500"
 				"additive"		"0"
@@ -799,7 +799,7 @@
 		{
 			"1"
 			{
-				"name"			"SDK_JP_Web 85W"
+				"name"			"VL Gothic Regular"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
