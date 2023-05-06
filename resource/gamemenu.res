@@ -45,6 +45,11 @@
 		"label"										"DemoUI"
 		"command"									"engine demoui"
 	}
+	"Friends"
+	{
+		"label"										"Friends"
+		"command"									"engine cl_mainmenu_safemode 1"
+	}
 	"Contracker"
 	{
 		"label"										"Contracker"
