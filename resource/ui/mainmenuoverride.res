@@ -1365,10 +1365,10 @@
 		}
 	}
 
-	"Disable Captions"
+	"Toggle Voice"
 	{
 		"ControlName"								"EditablePanel"
-		"fieldname"									"Disable Captions"
+		"fieldname"									"Toggle Voice"
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"16"
@@ -1416,7 +1416,7 @@
 		"wide"										"20"
 		"tall"										"20"
 
-		"pin_to_sibling" 							"Disable Captions"
+		"pin_to_sibling" 							"Toggle Voice"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
 
