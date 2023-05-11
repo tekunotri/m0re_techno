@@ -1400,7 +1400,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"255 100 100 255"
+			"defaultFgColor_override" 				"White"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}

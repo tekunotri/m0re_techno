@@ -168,13 +168,13 @@
 	{
 		"label"										"VC"
 		"command"									"engine toggle voice_enable 0 1"
-		"tooltip"									"Toggle Voice"
+		"tooltip"									"Enable/Disable Voice"
 		"OnlyInGame"								"1"
 	}
 	"Toggle Chat"
 	{
 		"label"										"TC"
-		"command"									"engine toggle hud_saytext_time 0 2"
+		"command"									"engine toggle hud_saytext_time 0 10"
 		"tooltip"									"Enable/Disable Chat"
 		"OnlyInGame"								"1"
 	}
