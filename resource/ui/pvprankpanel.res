@@ -204,7 +204,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"NameLabel"
-			"xpos"									"0"		//0
+			"xpos"									"9999"		//0 to reenable
 			"ypos"									"0"
 			"wide"									"f0"
 			"zpos"									"100"
@@ -228,7 +228,7 @@
 		{
 			"ControlName"							"CAutoFittingLabel"
 			"fieldName"								"Desc1MainMenu"
-			"xpos"									"9999"
+			"xpos"									"0"
 			"ypos"									"0"
 			"wide"									"f0"
 			"zpos"									"100"
