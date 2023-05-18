@@ -80,7 +80,7 @@
 	"Disconnect"
 	{
 		"label" 									"Disconnect"
-		"command" 									"engine disconnect"
+		"command" 									"engine disconnect;"
 		"OnlyInGame" 								"1"
 	}
 	"QuitGame"
