@@ -299,7 +299,7 @@
 		"tall"										"11"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"									"&4  Demoman"
+		"labelText"									"&4  Demo"
 		"textAlignment"								"west"
 		"Command"									"joinclass demoman"
 		"Default"									"0"
