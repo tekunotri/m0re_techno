@@ -859,7 +859,7 @@
 		"8"
 		{
 			"font" 		"resource/scheme/fonts/Avenir.otf"
-			"name" 		"AvenirLTStd-Black"
+			"name" 		"AvenirLT-StdBlack"
 		}
 		"9"
 		{
@@ -890,31 +890,6 @@
 		{
 			"font"		"resource/scheme/fonts/surface_medium.ttf"
 			"name"		"Surface-Medium"
-		}
-		"15"
-		{
-			"font" 		"resource/scheme/fonts/avenirmedium.otf"
-			"name" 		"AvenirLTStd-Medium"
-		}
-		"16"
-		{
-			"font"		"resource/scheme/fonts/honkai.ttf"
-			"name"		"SDK_JP_Web Regular"
-		}
-		"17"
-		{
-			"font"		"resource/scheme/fonts/genshin.ttf"
-			"name"		"SDK_JP_Web 85W"
-		}
-		"18"
-		{
-			"font" 		"resource/scheme/fonts/UtsukushiFONT.otf"
-			"name" 		"02UtsukushiMincho"
-		}
-		"19"
-		{
-			"font" 		"resource/scheme/fonts/VL-Gothic-Regular.ttf"
-			"name" 		"VL Gothic Regular"
 		}
 	}
   }
