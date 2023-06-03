@@ -859,7 +859,7 @@
 		"8"
 		{
 			"font" 		"resource/scheme/fonts/Avenir.otf"
-			"name" 		"AvenirLT-StdBlack"
+			"name" 		"AvenirLTStd-Black"
 		}
 		"9"
 		{
