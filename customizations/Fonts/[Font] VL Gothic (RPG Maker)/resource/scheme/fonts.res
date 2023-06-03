@@ -421,7 +421,7 @@
 			"1"
 			{
 				"name"										"VL Gothic Regular"
-				"tall"										"50"
+				"tall"										"72"
 				"antialias" 								"1"
 			}
 		}
@@ -430,7 +430,7 @@
 			"1"
 			{
 				"name"										"VL Gothic Regular"
-				"tall"										"50"
+				"tall"										"72"
 				"antialias" 								"1"
 				"outline"									"1"
 			}
