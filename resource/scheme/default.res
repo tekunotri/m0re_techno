@@ -668,8 +668,8 @@
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular" 	[!$OSX]
-				"name"										"DIN2014TFRegular" 	[$OSX]
+				"name"										"AvenirLTStd-Black" 	[!$OSX]
+				"name"										"AvenirLTStd-Black" 	[$OSX]
 				"tall"										"14"
 				"antialias" 								"1"
 				"additive"									"0"
@@ -2219,7 +2219,7 @@
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"9"
 				"weight"									"0"
 				"additive"									"0"
@@ -2231,7 +2231,7 @@
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"0"
 				"additive"									"0"
@@ -2243,7 +2243,7 @@
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"0"
 				"additive"									"0"
@@ -2255,7 +2255,7 @@
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"0"
 				"additive"									"0"
@@ -2267,7 +2267,7 @@
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"7"
 				"weight"									"0"
 				"additive"									"0"
@@ -2279,7 +2279,7 @@
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"8"
 				"antialias" 								"1"
 				"weight"									"500"
@@ -2290,7 +2290,7 @@
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"8"
 				"weight"									"0"
 				"additive"									"0"
@@ -2302,7 +2302,7 @@
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"11"
 				"weight"									"0"
 				"additive"									"0"
@@ -2314,7 +2314,7 @@
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"0"
 				"additive"									"0"
