@@ -106,7 +106,7 @@
 
 		"HTMLBackground"									"95 92 101 255"
 
-		"ItemAttribLevel"									"255 215 0 255"
+		"ItemAttribLevel"									"117 107 94 255"
 		"ItemAttribNeutral"									"235 226 202 255"
 		"ItemAttribPositive"								"153 204 255 255"
 		"ItemAttribNegative"								"255 64 64 255"
@@ -131,7 +131,7 @@
 		"QualityColorDeveloper"								"165 15 121 255"
 		"QualityColorSelfMade"								"112 176 74 255"
 		"QualityColorCustomized"							"71 98 145 255"
-		"QualityColorStrange"								"207 106 50 255"
+		"QualityColorStrange"								"205 155 29 255"
 		"QualityColorCompleted"								"134 80 172 255"
 		"QualityColorHaunted"								"56 243 171 255"
 		"QualityColorCollectors"							"170 0 0 255"
@@ -668,8 +668,8 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black" 	[!$OSX]
-				"name"										"AvenirLTStd-Black" 	[$OSX]
+				"name"										"DIN2014TFRegular" 	[!$OSX]
+				"name"										"DIN2014TFRegular" 	[$OSX]
 				"tall"										"14"
 				"antialias" 								"1"
 				"additive"									"0"
@@ -2219,7 +2219,7 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"DIN2014TFRegular"
 				"tall"										"9"
 				"weight"									"0"
 				"additive"									"0"
@@ -2231,7 +2231,7 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"DIN2014TFRegular"
 				"tall"										"10"
 				"weight"									"0"
 				"additive"									"0"
@@ -2243,7 +2243,7 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"DIN2014TFRegular"
 				"tall"										"12"
 				"weight"									"0"
 				"additive"									"0"
@@ -2255,7 +2255,7 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"DIN2014TFRegular"
 				"tall"										"18"
 				"weight"									"0"
 				"additive"									"0"
@@ -2267,7 +2267,7 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"DIN2014TFRegular"
 				"tall"										"7"
 				"weight"									"0"
 				"additive"									"0"
@@ -2279,7 +2279,7 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"DIN2014TFRegular"
 				"tall"										"8"
 				"antialias" 								"1"
 				"weight"									"500"
@@ -2290,7 +2290,7 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"DIN2014TFRegular"
 				"tall"										"8"
 				"weight"									"0"
 				"additive"									"0"
@@ -2302,7 +2302,7 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"DIN2014TFRegular"
 				"tall"										"11"
 				"weight"									"0"
 				"additive"									"0"
@@ -2314,7 +2314,7 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"DIN2014TFRegular"
 				"tall"										"14"
 				"weight"									"0"
 				"additive"									"0"
