@@ -5,7 +5,7 @@
 		"ControlName"								"ContinuousProgressBar"
 		"fieldName"									"ChargeMeter"
 		"xpos"										"cs-0.5"
-		"ypos"										"r68"
+		"ypos"										"r90"
 		"zpos"										"2"
 		"wide"										"140"
 		"tall"										"4"
