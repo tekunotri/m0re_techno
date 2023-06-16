@@ -1,4 +1,4 @@
-# m0re_technohud
+# m0re_techno
 
 ![screenshot](https://user-images.githubusercontent.com/41777800/220428142-b445cf63-f35b-4142-8b56-8285d3229e1b.jpg)
 
