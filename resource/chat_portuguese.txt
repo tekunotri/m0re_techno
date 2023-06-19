@@ -1,6 +1,6 @@
 "lang"
 {
-	"Language" "English"
+	"Language" "Portuguese"
 
 	"Tokens"
 	{
@@ -62,7 +62,7 @@
 		"TF_Arena_NoRespawning"						"No Respawn"
 
 		//=========================================================================================
-		// TEAM STUFF
+		// TEAM/CHAT STUFF
 		//=========================================================================================
 
 		"game_player_joined_game"	"+ %s1"
@@ -71,6 +71,34 @@
 		"game_player_joined_team_party_leader"	"%s1 >> %s2"
 		"game_player_joined_autoteam" "%s1 >> %s2"
 		"game_player_joined_autoteam_party_leader" "%s1 >> %s2"
+		"TF_Chat_Team_Loc"		"[Team] %s1 @ %s3 :  %s2"
+		"TF_Chat_Team"			"[Team] %s1 :  %s2"
+		"TF_Chat_Team_Dead"		"[Dead/Team] %s1 :  %s2"
+		"TF_Chat_Spec"			"[Spec] %s1 :  %s2"
+		"TF_Chat_All"			"%s1 :  %s2"
+		"TF_Chat_AllDead"		"[Dead] %s1 :  %s2"
+		"TF_Chat_AllSpec"		"[Spec] %s1 :  %s2"
+		"TF_Chat_Coach"			"[Coach] %s1 :  %s2"
+		"TF_Name_Change"		"* %s1 changed name to %s2"
+		"TF_Class_Change"		"* %s1 changed class to %s2"
 		
+		
+		//=========================================================================================
+		// OBITUARY FEED SETTINGS (from bothud)
+		//=========================================================================================
+		"DeathMsg_Suicide"		"died"				//"bid farewell, cruel world!"
+		"DeathMsg_AssistedSuicide"	"ended"
+		"DeathMsg_AssistedSuicide_Multiple"	"ended"
+		"DeathMsg_Fall"			"found the ground"			//"fell to a clumsy, painful death"
+		"Msg_Captured"			"capped"			//"captured"
+		"Msg_Captured_Multiple"	"capped"			//"captured"
+		"Msg_Defended"			"blocked"			//"defended"
+		
+		//=========================================================================================
+		// MISC
+		//=========================================================================================
+
+		"TF_Competitive_LevelTier1"					"LV: %s1 - 1"
+		"TF_Competitive_Level"						"LV: %s1 - T: %s2"
 	}
 }
