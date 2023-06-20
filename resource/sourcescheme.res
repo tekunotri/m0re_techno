@@ -112,6 +112,30 @@
 
 		Console.TextColor									"MainTheme"
 	}
+//////////////////////// FONTS /////////////////////////////
+	//
+	// describes all the fonts
+	Fonts
+	{
+		// fonts are used in order that they are listed
+		// fonts listed later in the order will only be used if they fulfill a range not already filled
+		// if a font fails to load then the subsequent fonts will replace
+		// fonts are used in order that they are listed
+		"ConsoleText"
+		{
+			"1"
+			{
+				"name"		"Hack Regular"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		CustomFontFiles	
+	{	
+		"20"	{	"font" "resource/scheme/fonts/Hack-Regular.ttf"	"name" "Hack Regular"	}	
+	}	
+}
 
 	"Borders"
 	{
