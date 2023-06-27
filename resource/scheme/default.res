@@ -131,7 +131,7 @@
 		"QualityColorDeveloper"								"165 15 121 255"
 		"QualityColorSelfMade"								"112 176 74 255"
 		"QualityColorCustomized"							"71 98 145 255"
-		"QualityColorStrange"								"205 155 29 255"
+		"QualityColorStrange"								"207 106 50 255"
 		"QualityColorCompleted"								"134 80 172 255"
 		"QualityColorHaunted"								"56 243 171 255"
 		"QualityColorCollectors"							"170 0 0 255"
