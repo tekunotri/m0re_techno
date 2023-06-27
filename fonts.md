@@ -20,3 +20,6 @@
 ![](https://raw.githubusercontent.com/TechnoSL/m0re_techno/master/customizations/Fonts/%5BFont%5D%20VL%20Gothic%20(RPG%20Maker)/VL%20Gothic%20Preview.png)
 # IBM Plex
 ![](https://raw.githubusercontent.com/TechnoSL/m0re_techno/master/customizations/Fonts/%5BFont%5D%20IBM%20Plex/IBM%20Plex%20Preview.png)
+
+# Helvetica Neue LT
+![](https://raw.githubusercontent.com/TechnoSL/m0re_techno/master/customizations/Fonts/%5BFont%5D%20Helvetica%20Neue%20LT/Helvetica%20LT%20Preview.png)
