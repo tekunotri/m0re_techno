@@ -20,7 +20,7 @@
 		"nemesis_width"		"20"
 		"class_width"		"20"
 		"score_width"		"25"
-		"ping_width"		"20"
+		"ping_width"		"25"
 		"killstreak_width"	"15"
 		"killstreak_image_width" "15"
 		"medal_width_minmode"	 "0"
