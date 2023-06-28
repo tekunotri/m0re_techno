@@ -22,7 +22,7 @@
 		"fieldName"									"PlayerStatusHealthValueKiller"
 		"xpos"										"cs-0.5"
 		"ypos"										"cs-0.5-1"
-		"zpos"										"20"
+		"zpos"										"25"
 		"wide"										"f0"
 		"tall"										"f0"
 		"visible"									"1"
