@@ -35,13 +35,15 @@
 
 
 		//=========================================================================================
-		// SHORTER MEDIGUN NAME
+		// SHORTER MEDIGUN NAME + ENGINEER BUILDINGS
 		//=========================================================================================
 
 		"TF_playerid_mediccharge"					"%s1%"
 		"TF_playerid_mediccharge_wpn"				"%s1% (%s2)"
 		"TF_playerid_object_upgrading"				"%s1"
 		"TF_playerid_object_upgrading_level"		"(Level %s1) %s2"
+		"TF_playerid_object"			"%s1 by %s2"
+		"TF_playerid_object_mini"		"Mini-%s1 by %s2"
 
 		//=========================================================================================
 		// REMOVES "HEALING" LABEL

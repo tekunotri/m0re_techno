@@ -189,8 +189,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"IndividualChargesLabel"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"cs-0.5"
+		"ypos"										"348"
 		"zpos"										"3"
 		"wide"										"100"
 		"tall"										"20"
