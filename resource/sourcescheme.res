@@ -125,7 +125,7 @@
 		{
 			"1"
 			{
-				"name"		"Hack Regular"
+				"name"		"Terminus"
 				"tall"		"15"
 				"weight"	"500"
 				"antialias"	"1"
@@ -133,7 +133,7 @@
 		}
 		CustomFontFiles	
 	{	
-		"20"	{	"font" "resource/scheme/fonts/Hack-Regular.ttf"	"name" "Hack Regular"	}	
+		"20"	{	"font" "resource/scheme/fonts/terminus.fon"	"name" "Terminus"	}	
 	}	
 }
 
