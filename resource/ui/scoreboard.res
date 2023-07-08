@@ -23,7 +23,7 @@
 		"ping_width"		"30"
 		"killstreak_width"	"15"
 		"killstreak_image_width" "15"
-		"medal_width_minmode"	 "0"
+		"medal_width_minmode"	 "25"
 
 		if_mvm
 		{
@@ -92,7 +92,7 @@
 		"enabled"			"1"
 		"bgcolor_override"	"25 25 25 200"
 		"PaintBackgroundType"	"2"
-		"visible_minmode"		"0"
+		"visible_minmode"		"1"
 
 		"pin_to_sibling"		"BlueBG"
 		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
@@ -255,7 +255,7 @@
 		"enabled"			"1"
 		"bgcolor_override"	"25 25 25 200"
 		"PaintBackgroundType"	"2"
-		"visible_minmode"		"0"
+		"visible_minmode"		"1"
 
 		"pin_to_sibling"		"RedBG"
 		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
@@ -392,7 +392,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"visible_minmode"	"0"
+		"visible_minmode"	"1"
 
 		"pin_to_sibling"		"ServerBackground"
 		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
@@ -463,7 +463,7 @@
 		"zpos"				"20"
 		"wide"				"288"
 		"tall"				"188"
-		"wide_minmode"		"0"
+		"wide_minmode"		"288"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
@@ -486,7 +486,7 @@
 		"zpos"				"20"
 		"wide"				"288"
 		"tall"				"188"
-		"wide_minmode"		"0"
+		"wide_minmode"		"288"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
@@ -516,7 +516,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"visible_minmode"	"0"
+		"visible_minmode"	"1"
 
 		"pin_to_sibling"		"ShadedBar"
 		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -535,7 +535,7 @@
 		"fieldName"			"ShadedBar"
 		"xpos"				"0"
 		"ypos"				"280"
-		"ypos_minmode"		"80"
+		"ypos_minmode"		"280"
 		"zpos"				"2"
 		"wide"				"585"
 		"tall"				"50"
@@ -568,7 +568,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"visible_minmode"	"0"
+		"visible_minmode"	"1"
 
 		"pin_to_sibling"		"ShadedBar"
 		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -957,7 +957,7 @@
 		"fieldName"			"LocalPlayerStatsPanel"
 		"xpos"				"0"
 		"ypos"				"282"
-		"ypos_minmode"		"82"
+		"ypos_minmode"		"282"
 		"zpos"				"3"
 		"wide"				"600"
 		"tall"				"50"
