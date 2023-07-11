@@ -477,33 +477,6 @@
 		}
 	}
 
-	"CountdownLabel"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"CountdownLabel"
-		"xpos"										"cs-0.5"
-		"ypos"										"150"
-		"wide"										"32"
-		"tall"										"18"
-		"zpos"										"2"
-		"visible"									"0"
-		"enabled"									"1"
-		"font"										"m0refont18Shadow"
-		"labelText"									"%tournamentstatelabel%"
-		"textAlignment"								"center"
-		"fgcolor"									"White"
-		"proportionaltoparent"						"1"
-
-		"if_competitive"
-		{
-			"font"									"m0refont18Shadow"
-		}
-		"if_readymode"
-		{
-			"font"									"m0refont18Shadow"
-		}
-	}
-
 
 
 	//==================================================================================================================================================
@@ -538,6 +511,12 @@
 		"tall"										"0"
 		"visible"									"0"
 		"enabled"									"0"
+	}
+	"CountdownLabel"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"CountdownLabel"
+		"xpos"										"9999"
 	}
 	"CountdownLabelShadow"
 	{

@@ -9,29 +9,7 @@
 		"horiz_inset"								"2"
 	}
 
-	"CountdownLabel"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"CountdownLabel"
-		"font"										"m0refont24Shadow"
-		"xpos"										"cs-0.5"
-		"ypos"										"cs-0.1"
-		"wide"										"40"
-		"tall"										"40"
-		"zpos"										"5"
-		"visible"									"0"
-		"enabled"									"1"
-		"labelText"									"%countdown%"
-		"textAlignment"								"center"
-		"proportionaltoparent"						"1"
-		"fgcolor"									"White"
-
-		"if_readymode"
-		{
-			"xpos"									"300"
-			"ypos"									"130"
-		}
-	}
+	
 
 	"FrontParticlePanel"
 	{
@@ -676,6 +654,12 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"RankUpShadowLabel"
+		"xpos"										"9999"
+	}
+	"CountdownLabel"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"CountdownLabel"
 		"xpos"										"9999"
 	}
 }
