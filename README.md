@@ -11,3 +11,6 @@ This version is entirely based on [dqz's edit](https://github.com/irodionr/dqz_h
 inventory bits, scoreboard, winpanel and some other minor things are taken from FlawHud by CriticalFlaw: https://github.com/CriticalFlaw/flawhud
 
 big thanks to the huds.tf discord for helping me whenever i asked
+
+
+asa
