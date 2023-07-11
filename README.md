@@ -13,4 +13,3 @@ inventory bits, scoreboard, winpanel and some other minor things are taken from 
 big thanks to the huds.tf discord for helping me whenever i asked
 
 
-asa
