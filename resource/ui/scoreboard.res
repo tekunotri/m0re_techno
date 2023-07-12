@@ -13,10 +13,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"medal_width"		"2"
-		"avatar_width"		"2"
+		"medal_width"		"0" // 25 to reenable medals
+		"avatar_width"		"2" // 55 to reenable avatars
 		"spacer"			"5"
-		"name_width"		"150"
+		"name_width"		"0"
 		"nemesis_width"		"15"
 		"class_width"		"18"
 		"score_width"		"25"
