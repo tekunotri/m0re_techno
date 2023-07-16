@@ -100,7 +100,7 @@
 		// MISC
 		//=========================================================================================
 
-		"TF_Competitive_LevelTier1"					"LV: %s1 - 1"
+		"TF_Competitive_LevelTier1"					"LV: %s1 - T: 1"
 		"TF_Competitive_Level"						"LV: %s1 - T: %s2"
 	}
 }
