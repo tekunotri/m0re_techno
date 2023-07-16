@@ -883,7 +883,7 @@
 		}
 		"13"
 		{
-			"font"		"resource/fonts/FlawHUDIcons.otf"
+			"font"		"resource/scheme/fonts/FlawHUDIcons.otf"
 			"name"		"FlawHUDIcons"
 		}
 		"14"
