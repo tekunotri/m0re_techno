@@ -421,7 +421,7 @@
 			"1"
 			{
 				"name"										"AvenirLTStd-Black"
-				"tall"										"72"
+				"tall"										"50"
 				"antialias" 								"1"
 			}
 		}
@@ -430,7 +430,7 @@
 			"1"
 			{
 				"name"										"AvenirLTStd-Black"
-				"tall"										"72"
+				"tall"										"50"
 				"antialias" 								"1"
 				"outline"									"1"
 			}
