@@ -130,6 +130,38 @@
 		"TextColor"											"117 107 94 255"
 		"NeutralWhite"										"235 226 202 255"
 		"HoverWhite"										"214 206 200 255"
+		//---------------------------------------------
+		// COLORS USED BY TF2C
+		//---------------------------------------------		
+		TextEntry.BgColor			"TransparentBlack"
+		
+		SectionedListPanel.HeaderTextColor	"TanLight"
+		SectionedListPanel.HeaderBgColor	"Blank"
+		SectionedListPanel.DividerColor		"TanLight"
+		SectionedListPanel.TextColor		"TanLight"
+		SectionedListPanel.BrightTextColor	"White"
+		SectionedListPanel.BgColor			"TransparentLightBlack"
+		SectionedListPanel.SelectedTextColor			"Black"
+		SectionedListPanel.SelectedBgColor				"Orange"
+		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
+		SectionedListPanel.OutOfFocusSelectedBgColor	"OrangeDim"
+		
+		"TeamGreen"					"8 174 0 255"
+		"TeamYellow"				"255 160 0 255"
+		
+		"HUDGreenTeam"				"99 147 70 127"
+		"HUDYellowTeam"				"209 150 46 127"
+		"HUDGreenTeamSolid"			"88 147 70 255"
+		"HUDYellowTeamSolid"		"209 150 46 255"
+		
+		"FriendStatusTF2C"			"230 125 55 255"
+		"FriendStatusIdleTF2C"		"181 84 10 255"
+		"FriendStatusInGame"		"143 185 59 255"
+		"FriendStatusIdle"			"100 142 2 255"
+		"FriendStatusOnline"		"83 164 196 255"
+		"FriendStatusAway"			"30 122 152 255"
+		"FriendStatusOffline"		"106 106 106 255"
+		"FriendBackground"			"50 50 50 255"
 	}
 
 	"BaseSettings"

@@ -852,6 +852,174 @@
 				"antialias"	"1"
 			}
 		}
+		// =================================================
+		// TF2C FONTS
+		// =================================================
+		"TF2CMenuTitleMediumBig"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"30"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		// General title font.
+		"TF2CMenuTitle"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"18"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		// Used by game type label on the loading screen.
+		"TF2CMenuTitleSmall"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"11"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		// Used for category names in the options menu.
+		"TF2CMenuHeader"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"14"
+				"range" 		"0x0000 0x00FF"
+				"weight"		"300"
+				"weight_lodef"	"600"
+				"antialias"		"1"
+			}
+		}
+		
+		// General menu font.
+		"TF2CMenuNormal"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"11"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		
+		// Main menu friends status.
+		"TF2CMenuFriendName"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"10"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		
+		// Main menu friends status.
+		"TF2CMenuFriendStatus"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"8"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		
+		// Main menu friends small.
+		"TF2CMenuFriendSmall"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"7"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		
+		// Main menu button font.
+		"TF2CMainMenuButton"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"15"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		// General button font.
+		"TF2CMenuButton"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"11"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		// Used for playtime label on the loading screen.
+		"TF2CPlaytime"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"54"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"TF2CVersion"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"14"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"TF2CClockSubTextVIP"
+		{
+			"1"
+			{
+				"name"		"Helvetica Neue LT"
+				"tall"		"9"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 	}
 
 	"CustomFontFiles"
