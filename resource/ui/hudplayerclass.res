@@ -2,82 +2,155 @@
 
 "Resource/UI/HudPlayerClass.res"
 {
+	// Player Class Data
 	"HudPlayerClass"
 	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"HudPlayerClass"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"1"
-		"wide"										"f0"
-		"tall"										"480"
-		"visible"									"1"
-		"enabled"									"1"
+		"ControlName"	"EditablePanel"
+		"fieldName"		"HudPlayerClass"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"			"f0"//"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
 	}
-
 	"PlayerStatusClassImage"
 	{
-		"ControlName"								"CTFClassImage"
-		"fieldName"									"PlayerStatusClassImage"
-		"xpos"										"20"
-		"ypos"										"r48"
-		"zpos"										"2"
-		"wide"										"48"
-		"tall"										"48"
-		"visible"									"1"
-		"enabled"									"1"
-		"image"										"../hud/class_scoutred"
-		"scaleImage"								"1"
-		"alpha"										"0"			// 255 to enable
+		"ControlName"	"CTFClassImage"
+		"fieldName"		"PlayerStatusClassImage"
+		"xpos"			"c210"
+		"ypos"			"r60"
+		"zpos"			"2"
+		"wide"			"60"
+		"tall"			"60"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/class_scoutred"
+		"scaleImage"	"1"
 	}
-
+	"PlayerStatusSpyImage"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"PlayerStatusSpyImage"
+		"xpos"			"9999"
+	}
 	"PlayerStatusSpyOutlineImage"
 	{
-		"ControlName"								"CTFImagePanel"
-		"fieldName"									"PlayerStatusSpyOutlineImage"
-		"xpos"										"-5"
-		"ypos"										"r44"
-		"zpos"										"7"
-		"wide"										"27"
-		"tall"										"27"
-		"visible"									"0"
-		"enabled"									"1"
-		"image"										"../hud/class_spy_outline"
-		"scaleImage"								"1"
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"PlayerStatusSpyOutlineImage"
+		"xpos"			"3"
+		"ypos"			"r67"
+		"xpos_minmode"	"-5"
+		"ypos_minmode"	"r44"
+		"zpos"			"7"
+		"wide"			"55"
+		"tall"			"55"
+		"wide_minmode"	"27"
+		"tall_minmode"	"27"
+		"visible"		"0"
+		"enabled"		"1"
+		"image"			"../hud/class_spy_outline"
+		"scaleImage"	"1"
+	}
+	"PlayerStatusClassImageBG"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"PlayerStatusClassImageBG"
+		"xpos"			"9999"
+	}
+
+	"classmodelpanelBG"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"classmodelpanelBG"
+		"xpos"			"9999"
 	}
 
 	"classmodelpanel"
 	{
-		"ControlName"								"CTFPlayerModelPanel"
-		"fieldName"									"classmodelpanel"
-		"xpos"										"10"
-		"ypos"										"r130"
-		"zpos"										"2"
-		"wide"										"65"
-		"tall"										"130"
-		"visible"									"1"
-		"enabled"									"1"
-
-		"render_texture"							"0"
-		"fov"										"12"
-		"allow_rot"									"1"
+		
+		"ControlName"	"CTFPlayerModelPanel"
+		"fieldName"		"classmodelpanel"
+		"xpos"			"10"
+		"ypos"			"r150"
+		"zpos"			"2"
+		"wide"			"80"
+		"tall"			"150"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"render_texture"	"0"
+		"fov"			"12"
+		"allow_rot"		"1"
 
 		"model"
 		{
-			"force_pos"								"1"
+			"force_pos"		"1"
+			"angles_x" 		"0"
+			"angles_y" 		"172"
+			"angles_z" 		"0"
+			"origin_x" 		"200"
+			"origin_y" 		"0"
+			"origin_z" 		"-60"
+			"frame_origin_x" "0"
+			"frame_origin_y" "0"
+			"frame_origin_z" "0"
+			"spotlight" 	"1"
+			"modelname"		""
 
-			"angles_x" 								"0"
-			"angles_y" 								"172"
-			"angles_z" 								"0"
-			"origin_x" 								"200"
-			"origin_y" 								"0"
-			"origin_z" 								"-60"
-			"frame_origin_x"						"0"
-			"frame_origin_y"						"0"
-			"frame_origin_z"						"0"
-			"spotlight" 							"1"
-
-			"modelname"								""
+			"animation"
+			{
+				"name"		"PRIMARY"
+				"activity"	"ACT_MP_STAND_PRIMARY"
+				"default"	"1"
+			}
+			"animation"
+			{
+				"name"		"SECONDARY"
+				"activity"	"ACT_MP_STAND_SECONDARY"
+			}
+			"animation"
+			{
+				"name"		"MELEE"
+				"activity"	"ACT_MP_STAND_MELEE"
+			}
+			"animation"
+			{
+				"name"		"BUILDING"
+				"activity"	"ACT_MP_STAND_BUILDING"
+			}
+			"animation"
+			{
+				"name"		"PDA"
+				"activity"	"ACT_MP_STAND_PDA"
+			}
+			"animation"
+			{
+				"name"		"ITEM1"
+				"activity"	"ACT_MP_STAND_ITEM1"
+			}
+			"animation"
+			{
+				"name"		"ITEM2"
+				"activity"	"ACT_MP_STAND_ITEM2"
+			}
+			"animation"
+			{
+				"name"		"MELEE_ALLCLASS"
+				"activity"	"ACT_MP_STAND_MELEE_ALLCLASS"
+			}
+			"animation"
+			{
+				"name"		"PRIMARY2"
+				"activity"	"ACT_MP_STAND_PRIMARY"
+			}
+			"animation"
+			{
+				"name"		"SECONDARY2"
+				"activity"	"ACT_MP_STAND_SECONDARY2"
+			}
 		}
 
 		"customclassdata"
@@ -178,108 +251,111 @@
 		}
 	}
 
+
 	"CarryingWeapon"
 	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"CarryingWeapon"
-		"xpos"										"0"
-		"ypos"										"9999"		//r25 to enable
-		"zpos"										"100"
-		"wide"										"500"
-		"tall"	 									"28"
+		"ControlName"			"EditablePanel"
+		"fieldName"				"CarryingWeapon"
+		"xpos"					"r250"
+		"ypos"					"r20"
+		"zpos"					"100"
+		"wide"					"500"
+		"tall"	 				"28"
+		"bgcolor_override"		"Transparent"
+		"PaintBackgroundType"	"2"
 
 		"CarryingBackground"
 		{
-			"ControlName"							"CTFImagePanel"
-			"fieldName"								"CarryingBackground"
-			"xpos"									"0"
-			"ypos"									"0"
-			"zpos"									"0"
-			"wide"									"f0"
-			"tall"	 								"f0"
-			"visible"								"1"
-			"enabled"								"1"
-			"proportionaltoparent"					"1"
+			"ControlName"			"CTFImagePanel"
+			"fieldName"				"CarryingBackground"
+			"xpos"					"0"
+			"ypos"					"0"
+			"zpos"					"0"
+			"wide"					"p1"
+			"tall"	 				"f0"
+			"autoResize"			"0"
+			"pinCorner"				"0"
+			"visible"				"1"
+			"enabled"				"1"
+			"image"					"../hud/color_panel_brown"
+			"scaleImage"			"1"
+			"teambg_1"				"../hud/color_panel_brown"
+			"teambg_2"				"../hud/color_panel_red"
+			"teambg_3"				"../hud/color_panel_blu"
+			"proportionaltoparent"	"1"
 
-			"image"									"../HUD/tournament_panel_tan"
-			"scaleImage"							"1"
-			"teambg_1"								"../HUD/tournament_panel_tan"
-			"teambg_2"								"../HUD/tournament_panel_red"
-			"teambg_3"								"../HUD/tournament_panel_blu"
-			"src_corner_height"						"15"
-			"src_corner_width"						"15"
-			"draw_corner_width"						"0"
-			"draw_corner_height" 					"0"
-
+			"src_corner_height"		"23"
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"
+			"draw_corner_height" 	"5"
 		}
 
 		"CarryingLabel"
 		{
-			"ControlName"							"CExLabel"
-			"fieldName"								"CarryingLabel"
-			"font"									"m0refont11"
-			"xpos"									"3"
-			"ypos"									"0"
-			"zpos"									"1"
-			"wide"									"200"
-			"tall"	 								"f0"
-			"visible"								"1"
-			"enabled"								"1"
-			"textAlignment"							"North-West"
-			"proportionaltoparent"					"1"
-			"auto_wide_tocontents"					"1"
-			"labelText"								"%carrying%"
-			"fgcolor"								"White"
-		}
-
-		"OwnerLabel"
-		{
-			"ControlName"							"CExLabel"
-			"fieldName"								"OwnerLabel"
-			"font"									"m0refont10"
-			"xpos"									"3"
-			"ypos"									"10"
-			"zpos"									"0"
-			"wide"									"200"
-			"tall"	 								"f0"
-			"visible"								"1"
-			"enabled"								"1"
-			"textAlignment"							"North-West"
-			"proportionaltoparent"					"1"
-			"auto_wide_tocontents"					"1"
-			"fgcolor"								"White"
+			"ControlName"		"CExLabel"
+			"fieldName"			"CarryingLabel"
+			"font"				"ReplayBrowserSmallest"
+			"xpos"				"5"
+			"ypos"				"3"
+			"zpos"				"1"
+			"wide"				"200"
+			"tall"	 			"f0"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"1"
+			"textAlignment"		"North-West"
+			"dulltext"			"0"
+			"brighttext"		"0"
+			"proportionaltoparent"	"1"
+			"auto_wide_tocontents"	"1"
+			"labelText"			"%carrying%"
 		}
 
 		"CarryingLabelDropShadow"
 		{
-			"ControlName"							"CExLabel"
-			"fieldName"								"CarryingLabelDropShadow"
-			"xpos"									"9999"
+			"ControlName"		"CExLabel"
+			"fieldName"			"CarryingLabelDropShadow"
+			"font"				"ReplayBrowserSmallest"
+			"xpos"				"p0.011"
+			"ypos"				"p0.12"
+			"zpos"				"0"
+			"wide"				"200"
+			"tall"	 			"f0"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"0"
+			"enabled"			"0"
+			"textAlignment"		"North-West"
+			"dulltext"			"0"
+			"brighttext"		"0"
+			"proportionaltoparent"	"1"
+			"auto_wide_tocontents"	"1"
+			"fgcolor_override"	"Black"
+			"labelText"			"%carrying%"
 		}
-	}
 
-
-
-	//==================================================================================================================================================
-	// REMOVED ELEMENTS
-	//==================================================================================================================================================
-
-	"PlayerStatusSpyImage"
-	{
-		"ControlName"								"CTFImagePanel"
-		"fieldName"									"PlayerStatusSpyImage"
-		"xpos"										"9999"
-	}
-	"PlayerStatusClassImageBG"
-	{
-		"ControlName"								"CTFImagePanel"
-		"fieldName"									"PlayerStatusClassImageBG"
-		"xpos"										"9999"
-	}
-	"classmodelpanelBG"
-	{
-		"ControlName"								"CTFImagePanel"
-		"fieldName"									"classmodelpanelBG"
-		"xpos"										"9999"
+		"OwnerLabel"
+		{
+			"ControlName"		"Label"
+			"fieldName"			"OwnerLabel"
+			"font"				"FontStoreOriginalPrice"
+			"xpos"				"5"
+			"ypos"				"14"
+			"zpos"				"0"
+			"wide"				"200"
+			"tall"	 			"f0"
+			"wide_minmode"		"0"
+			"tall_minmode"		"0"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"1"
+			"textAlignment"		"North-West"
+			"dulltext"			"0"
+			"brighttext"		"0"
+			"proportionaltoparent"	"1"
+			"auto_wide_tocontents"	"1"
+		}
 	}
 }

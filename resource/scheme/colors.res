@@ -162,6 +162,7 @@
 		"FriendStatusAway"			"30 122 152 255"
 		"FriendStatusOffline"		"106 106 106 255"
 		"FriendBackground"			"50 50 50 255"
+		"ColorCyan"					"72 255 255 255"
 	}
 
 	"BaseSettings"
