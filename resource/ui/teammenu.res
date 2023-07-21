@@ -87,6 +87,7 @@
 		"use_proportional_insets" 					"1"
 		"proportionaltoparent"						"1"
 		"RoundedCorners"							"0"
+		"team"										"3"		// Blue Team
 		"sound_depressed"							"UI/buttonclick.wav"
 
 		"paintbackground"							"1"
@@ -155,6 +156,7 @@
 		"default"									"1"
 		"proportionaltoparent"						"1"
 		"RoundedCorners"							"0"
+		"team"										"2"		// Red Team
 		"sound_depressed"							"UI/buttonclick.wav"
 
 		"paintbackground"							"1"
