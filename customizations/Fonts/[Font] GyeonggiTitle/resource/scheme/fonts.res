@@ -858,7 +858,7 @@
 	{
 		"8"
 		{
-			"font" 		"resource/scheme/fonts/GyeonggiTitle.ttf"
+			"font" 		"resource/scheme/fonts/GyeonggiTitleEdited.ttf"
 			"name" 		"GyeonggiTitle Medium"
 		}
 		"9"
