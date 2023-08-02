@@ -14,7 +14,7 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"medal_width"		"0" // 25 to reenable medals
-		"avatar_width"		"2" // 55 to reenable avatars
+		"avatar_width"		"55" // 55 to reenable avatars
 		"spacer"			"5"
 		"name_width"		"0"
 		"nemesis_width"		"15"
