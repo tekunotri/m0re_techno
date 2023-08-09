@@ -6,7 +6,7 @@
 	"Version"
 	{
 		"label"										"m0re_techno 6.5-alpha"
-		"command"									"engine showconsole; echo m0rehud by Hypnotize comfig.app/huds/page/m0rehud all credits to m0re"
+		"command"									"engine showconsole; clear; echo m0re_techno v1.4-alpha; echo by techno, based on a edit of m0rehud by dqz;"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"

@@ -1,4 +1,17 @@
-# m0re-techno // bleeding edge 6.5 version
+# m0re-techno // bleeding edge 6.5 m0rehud base version
+**NOTICE: RENAME THE HUD FOLDER TO `m0re_techno` (All lower case) OR ELSE IT WILL *NOT* WORK!!!**
+**YOUR `custom/` FOLDER SHOULD LOOK LIKE THIS:**
+```
+custom/
+├── ...
+├── more_techno/
+│   ├── ...
+│   ├── info.vdf
+│   ├── README.MD
+│   └── ...
+├── readme.txt
+└── ...
+```
 
 # **WARNING: THIS IS VERY BROKEN, USE AT YOUR OWN RISK**
 ![screenshot](https://b.catgirlsare.sexy/i_auWpY0z58F.jpg)
