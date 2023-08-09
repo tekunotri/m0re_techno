@@ -3465,13 +3465,13 @@
 		"LoadoutItemPopupBorder"
 		{
 			"bordertype"									"scalable_image"
-			"backgroundtype"								"2"
-
-			"image"											"button_holder_central"
-			"src_corner_height"								"32"
+			"backgroundtype"								"0"
+			"color"											"DarkGrey"
+			"image"											"backpack_rect_mouseover_color"
+			"src_corner_height"								"32"			// pixels inside the image
 			"src_corner_width"								"32"
-			"draw_corner_width"								"4"
-			"draw_corner_height"							"4"
+			"draw_corner_width"								"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 							"0"
 		}
 		"BackpackItemGrayedOut"
 		{
