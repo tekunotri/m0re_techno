@@ -440,7 +440,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud Icons V4"
+				"name"										"m0rehud Icons V5"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -449,7 +449,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud Icons V4"
+				"name"										"m0rehud Icons V5"
 				"tall"										"20"
 				"antialias" 								"1"
 			}

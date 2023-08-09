@@ -440,7 +440,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud Icons V4"
+				"name"										"m0rehud Icons V5"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -449,7 +449,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud Icons V4"
+				"name"										"m0rehud Icons V5"
 				"tall"										"20"
 				"antialias" 								"1"
 			}
@@ -860,6 +860,11 @@
 		{
 			"font" 		"resource/scheme/fonts/optional_fonts/Avenir.otf"
 			"name" 		"AvenirLTStd-Black"
+		}
+		"31"
+		{
+			"font"		"resource/scheme/fonts/optional_fonts/Avenir_Numbers.ttf"
+			"name"		"AvenirLTStd-Black-Numbers"
 		}
 	}
   }
