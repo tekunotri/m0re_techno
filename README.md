@@ -4,7 +4,7 @@
 ```
 custom/
 ├── ...
-├── more_techno/
+├── m0re_techno/
 │   ├── ...
 │   ├── info.vdf
 │   ├── README.MD
