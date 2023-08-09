@@ -58,7 +58,7 @@
 		"font"										"m0refont72"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"fgcolor"									"Black"
+		"fgcolor"									"Ammo In Clip Shadow"
 
 		"pin_to_sibling"							"AmmoInClip"
 	}
@@ -102,7 +102,7 @@
 		"font"										"m0refont24"
 		"textAlignment"								"west"
 		"labelText"									"%AmmoInReserve%"
-		"fgcolor"									"Black"
+		"fgcolor"									"Ammo In Reserve Shadow"
 
 		"pin_to_sibling"							"AmmoInReserve"
 	}
@@ -146,7 +146,7 @@
 		"font"										"m0refont72"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
-		"fgcolor"									"Black"
+		"fgcolor"									"Ammo No Clip Shadow"
 
 		"pin_to_sibling"							"AmmoNoClip"
 	}
