@@ -1,0 +1,16 @@
+//=========================================================================================
+// Basefile Logging Setup
+//=========================================================================================
+
+- Add damage color presets
+- Now that it actually works redesign the customization menu, add both "apply changes" and "reset everything" button
+- Implement mat_queue_mode for the customization menu properly.
+
+//=========================================================================================
+// General Stuff
+//=========================================================================================
+- Fix TF2, TF2 Secondary, Verdana Fonts, they are horrible.
+- Implement AlertTray from master.
+- Redo Disguise and Taunt Menus, they still overlap with minmode in this version.
+- Possibly add color aliases for most colors.
+- Switch mod_textures to #base.

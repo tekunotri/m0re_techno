@@ -1,0 +1,34 @@
+"Resource/UI/HudMatchStatus_Small.res"
+{
+	"TeamStatus"
+	{
+		"playerpanels_kv"
+		{
+			"PlayerName"
+			{
+				"visible"							"0"
+			}
+			"ClassImage"
+			{
+				"zpos"								"1"
+			}
+			"ClassImageBG"
+			{
+				"zpos"								"0"
+			}
+			"HealthBar"
+			{
+				"ypos"								"rs1"
+				"zpos"								"2"
+				"tall"								"2"
+			}
+			"OverhealBar"
+			{
+				"ypos"								"rs1"
+				"zpos"								"3"
+				"wide"								"f0"
+				"tall"								"2"
+			}
+		}
+	}
+}

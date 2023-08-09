@@ -1,19 +1,18 @@
-"GameMenu"
+"Resource/GameMenu.res"
 {
 	//====================================================================================================================================================
 	// MAIN MENU BUTTONS
 	//====================================================================================================================================================
-
 	"Version"
 	{
-		"label" 									"m0rehud 6.45"
-		"command" 									"engine showconsole; clear; echo m0re_techno v1.3; echo by techno, based on a edit of m0rehud by dqz; echo with inventory bits taken from FlawHUD by CriticalFlaw"
+		"label"										"m0re_techno 6.5-alpha"
+		"command"									"engine showconsole; echo m0rehud by Hypnotize comfig.app/huds/page/m0rehud all credits to m0re"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
 	{
-		"label" 									"Servers"
-		"command" 									"OpenServerBrowser"
+		"label"										"Servers"
+		"command"									"OpenServerBrowser"
 	}
 	"Create"
 	{
@@ -40,6 +39,11 @@
 		"label"										"Advanced"
 		"command"									"opentf2options"
 	}
+	"HUDOptions"
+	{
+		"label"										"HUD Options"
+		"command"									"engine cl_mainmenu_safemode 1; mat_queue_mode 0"
+	}
 	"DemoUI"
 	{
 		"label"										"DemoUI"
@@ -48,29 +52,23 @@
 	"Friends"
 	{
 		"label"										"Friends"
-		"command"									"engine cl_mainmenu_safemode 1"
+		"command"									"motd_show"
 	}
 	"Contracker"
 	{
 		"label"										"Contracker"
 		"command"									"questlog"
 	}
-	"Streams"
-	{
-		"label"										"Streams"
-		"command"									"watch_stream"
-	}
 	"Quit"
 	{
-		"label" 									"Quit"
-		"command" 									"engine replay_confirmquit"
+		"label"										"Quit"
+		"command"									"engine replay_confirmquit"
 		"OnlyAtMenu"								"1"
 	}
 
 	//====================================================================================================================================================
 	// IN GAME BUTTONS
 	//====================================================================================================================================================
-
 	"Scoreboard"
 	{
 		"label"										"Scoreboard"
@@ -79,15 +77,15 @@
 	}
 	"Disconnect"
 	{
-		"label" 									"Disconnect"
-		"command" 									"engine disconnect;"
-		"OnlyInGame" 								"1"
+		"label"										"Disconnect"
+		"command"									"engine disconnect"
+		"OnlyInGame"								"1"
 	}
 	"QuitGame"
 	{
-		"label" 									"Quit"
-		"command" 									"engine replay_confirmquit"
-		"OnlyInGame" 								"1"
+		"label"										"Quit"
+		"command"									"engine replay_confirmquit"
+		"OnlyInGame"								"1"
 	}
 	"Vote"
 	{
@@ -121,7 +119,6 @@
 	//====================================================================================================================================================
 	// TOOLS BAR
 	//====================================================================================================================================================
-
 	"Fix Invisible Players"
 	{
 		"label"										"D"
@@ -157,17 +154,24 @@
 		"tooltip"									"Enable/Disable Contracts"
 		"OnlyInGame"								"1"
 	}
-	"Toggle Voice"
+	"Enable Captions"
 	{
-		"label"										"B"
-		"command"									"engine toggle voice_enable 0 1"
-		"tooltip"									"Enable/Disable Voice"
+		"label"										"E"
+		"command"									"engine closecaption 1;cc_subtitles 0;cc_lang english;cc_predisplay_time 0;cc_emit #subtitles0"
+		"tooltip"									"Enable CloseCaptions"
+		"OnlyInGame"								"1"
+	}
+	"Disable Captions"
+	{
+		"label"										"E"
+		"command"									"engine closecaption 0; cc_predisplay_time 0"
+		"tooltip"									"Disable CloseCaptions"
 		"OnlyInGame"								"1"
 	}
 	"Toggle Chat"
 	{
 		"label"										"A"
-		"command"									"engine toggle hud_saytext_time 0 10"
+		"command"									"engine toggle hud_saytext_time 0 12"
 		"tooltip"									"Enable/Disable Chat"
 		"OnlyInGame"								"1"
 	}

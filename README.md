@@ -1,4 +1,6 @@
-# m0re-techno
+# m0re-techno // bleeding edge 6.5 version
+
+# **WARNING: THIS IS VERY BROKEN, USE AT YOUR OWN RISK**
 ![screenshot](https://b.catgirlsare.sexy/i_auWpY0z58F.jpg)
 [there's also some fonts i like included, click here to see previews!](https://github.com/TechnoSL/m0re_techno/blob/master/customizations/Fonts/fonts.md)
 
