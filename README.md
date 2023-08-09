@@ -1,5 +1,6 @@
 # m0re-techno // bleeding edge 6.5 m0rehud base version
 **NOTICE: RENAME THE HUD FOLDER TO `m0re_techno` (All lower case) OR ELSE IT WILL *NOT* WORK!!!**
+
 **YOUR `custom/` FOLDER SHOULD LOOK LIKE THIS:**
 ```
 custom/
