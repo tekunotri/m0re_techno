@@ -132,7 +132,7 @@
 		"zpos"										"40"
 		"wide"										"f0"
 		"tall"										"480"
-
+		"visible"									"0"
 		"K/D"
 		{
 			"visible"								"0"
@@ -195,6 +195,7 @@
 			"ControlName"							"CExLabel"
 			"fieldName"								"AssistsLabel"
 			"visible"								"0"
+			"xpos"									"9999"
 		}
 		"DestructionLabel"
 		{

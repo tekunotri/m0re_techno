@@ -16,7 +16,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"DamageAccountValue"
-		"xpos"										"c-245"
+		"xpos"										"c105"
 		"xpos_minmode"								"c-140"
 		"ypos"										"r155"
 		"ypos_minmode"								"r195"
@@ -29,7 +29,7 @@
 		"enabled"									"1"
 		"labelText"									"%metal%"
 		"textAlignment"								"center"
-		"fgcolor"									"Last Damage Done"
+		"fgcolor"									"YellowDamage"
 		"font"										"m0refont24"
 		"font_minmode"								"m0refont14"
 	}

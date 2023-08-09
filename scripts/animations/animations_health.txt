@@ -7,7 +7,7 @@ event HudHealthBonusPulse
 
 	Animate	PlayerStatusHealthBonusBG				Alpha		"255"								Linear	0.0		0.0
 
-	Animate PlayerStatusHealthValue					FgColor		"128 255 0 255"						Linear	0.0		0.0
+	Animate PlayerStatusHealthValue					FgColor		"Health Shadow Buff"						Linear	0.0		0.0
 	Animate PlayerStatusHealthValueShadow			FgColor		"Health Shadow"				Linear	0.0		0.0
 	Animate PlayerStatusHealthValueShadowExtra		Alpha		"255"								Linear	0.0		0.0
 

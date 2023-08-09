@@ -29,6 +29,22 @@
 	{
 		"font"										"m0refont48"
 	}
+	"PlayerStatusHealthValueShadow1"
+	{
+		"font"                   				 	"m0refont48"
+	}
+    "PlayerStatusHealthValueShadow2"
+	{
+		"font"                   				 	"m0refont48"
+	}
+    "PlayerStatusHealthValueShadow3"
+	{
+		"font"                   				 	"m0refont48"
+	}
+    "PlayerStatusHealthValueShadow4"
+	{
+		"font"                   				 	"m0refont48"
+	}
 	"PlayerStatusHealthValueShadowExtra"
 	{
 		"font"										"m0refont48"

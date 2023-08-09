@@ -8,6 +8,22 @@
 	{
 		"visible"									"0"
 	}
+	"ChargeLabelBigShadow1"
+	{
+		"visible"									"0"
+	}
+    "ChargeLabelBigShadow2"
+	{
+		"visible"									"0"
+	}
+    "ChargeLabelBigShadow3"
+	{
+		"visible"									"0"
+	}
+    "ChargeLabelBigShadow4"
+	{
+		"visible"									"0"
+	}
 	"ChargeLabelBigShadowExtra"
 	{
 		"visible"									"0"
