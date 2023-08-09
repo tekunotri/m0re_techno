@@ -6317,5 +6317,11 @@
 				"range" "0x021 0xFFFF"
 			}
 		}
+		"103"
+		{
+			"font"		"resource/scheme/fonts/FlawHUDIcons.otf"
+			"name"		"FlawHUDIcons"
+		}
+
 	}
 }
