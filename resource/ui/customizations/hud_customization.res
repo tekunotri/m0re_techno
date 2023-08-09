@@ -4460,7 +4460,7 @@
 					"enabled"							"1"
 					"proportionaltoparent"				"1"
 					"actionsignallevel"					"4"
-					"labelText"							"Foster(Broken)"
+					"labelText"							"Foster Style"
 					"font"								"ItemFontAttribSmallest"
 					"textAlignment"						"center"
 					"Command"							"engine scoreboard_foster"

@@ -6,7 +6,7 @@
 	"Version"
 	{
 		"label"										"m0re_techno 6.5-alpha"
-		"command"									"engine showconsole; clear; echo m0re_techno v1.4-alpha; echo by techno, based on a edit of m0rehud by dqz;"
+		"command"									"engine showconsole; clear; echo m0re_techno v2.0-ALPHA; echo by techno, based on a edit of m0rehud by dqz; echo using m0rehud 6.5 development branch as base, things might and will be broken"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"

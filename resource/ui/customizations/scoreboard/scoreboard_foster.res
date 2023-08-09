@@ -89,7 +89,7 @@
 	{
 		"xpos"										"c-75"
 		"ypos"										"110"
-		"wide"										"150"
+		"wide"										"300"
 		"tall"										"12"
 		"font"										"m0refont12Shadow"
 		"fgcolor"									"34 202 66 255"

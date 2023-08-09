@@ -92,7 +92,7 @@
 		"labelText"	  	         				 	"%Health%"
 		"textAlignment"	         				 	"center"
 		"font"                   				 	"m0refont72"
-		"fgcolor"	     	         				"Black"
+		"fgcolor"	     	         				"Extra Shadow"
 
 		"pin_to_sibling"							"PlayerStatusHealthValue"
 	}
@@ -110,7 +110,7 @@
 		"labelText"	  	         				 	"%Health%"
 		"textAlignment"	         				 	"center"
 		"font"                   				 	"m0refont72"
-		"fgcolor"	     	         				"Black"
+		"fgcolor"	     	         				"Extra Shadow"
 
 		"pin_to_sibling"							"PlayerStatusHealthValue"
 	}
@@ -128,7 +128,7 @@
 		"labelText"	  	         				 	"%Health%"
 		"textAlignment"	         				 	"center"
 		"font"                   				 	"m0refont72"
-		"fgcolor"	     	         				"Black"
+		"fgcolor"	     	         				"Extra Shadow"
 
 		"pin_to_sibling"							"PlayerStatusHealthValue"
 	}
@@ -146,7 +146,7 @@
 		"labelText"	  	         				 	"%Health%"
 		"textAlignment"	         				 	"center"
 		"font"                   				 	"m0refont72"
-		"fgcolor"	     	         				"Black"
+		"fgcolor"	     	         				"Extra Shadow"
 
 		"pin_to_sibling"							"PlayerStatusHealthValue"
 	}
@@ -164,7 +164,7 @@
 		"labelText"	  	         				 	"%Health%"
 		"textAlignment"	         				 	"center"
 		"font"                   				 	"m0refont72"
-		"fgcolor"	     	         				"Black"
+		"fgcolor"	     	         				"Extra Shadow"
 
 		"pin_to_sibling"							"PlayerStatusHealthValue"
 	}
