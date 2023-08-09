@@ -1,5 +1,0 @@
-#base "../../../../cfg/mt_speedometer.txt"
-#base "../../../../cfg/mt_spy_disguise.txt"
-#base "../../scripts/crosshairs/hudcrosshairs.res"
-#base "customizations/uber/ubercounter.res"
-#base "hudplayerclass_base.res"
