@@ -13,7 +13,8 @@ custom/
 ├── readme.txt
 └── ...
 ```
-
+### mostly made to test and see how feasible it is to update the hud to a modern 6.5 base (current version uses 6.2 with handpicked fixes from 6.3-6.4)
+### as it seems doable, when m0rehud 6.5 releases there will be a port soon, from scratch.
 # **WARNING: THIS IS VERY BROKEN, USE AT YOUR OWN RISK**
 ![screenshot](https://b.catgirlsare.sexy/i_auWpY0z58F.jpg)
 [there's also some fonts i like included, click here to see previews!](https://github.com/TechnoSL/m0re_techno/blob/master/customizations/Fonts/fonts.md)
