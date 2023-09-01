@@ -189,7 +189,6 @@
 			"1"
 			{
 				"name"										"IBM Plex Sans SemiBold"
-				"tall"										"34"
 			}
 		}
 		"m0refont48"
@@ -197,7 +196,6 @@
 			"1"
 			{
 				"name"										"IBM Plex Sans SemiBold"
-				"tall"										"46"
 			}
 		}
 		"m0refont72"
@@ -205,7 +203,6 @@
 			"1"
 			{
 				"name"										"IBM Plex Sans SemiBold"
-				"tall"										"50"
 			}
 		}
 		"Default"
@@ -229,7 +226,6 @@
 			"5"
 			{
 				"name"										"IBM Plex Sans SemiBold"
-				"tall"										"24"
 			}
 		}
 		"CloseCaption_Normal"

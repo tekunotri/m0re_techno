@@ -119,7 +119,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"22"
 			}
 		}
 		"m0refont24Shadow"
@@ -127,7 +126,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"22"
 			}
 		}
 		"m0refont24Outline"
@@ -135,7 +133,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"22"
 			}
 		}
 		"m0refont24Numbers"
@@ -143,7 +140,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"22"
 			}
 		}
 		"m0refont26"
@@ -151,7 +147,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"24"
 			}
 		}
 		"m0refont30"
@@ -159,7 +154,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"28"
 			}
 		}
 		"m0refont30Outline"
@@ -167,7 +161,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"28"
 			}
 		}
 		"m0refont30Numbers"
@@ -175,7 +168,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"28"
 			}
 		}
 		"m0refont32"
@@ -183,7 +175,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"30"
 			}
 		}
 		"m0refont32Shadow"
@@ -191,7 +182,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"30"
 			}
 		}
 		"m0refont36"
@@ -199,7 +189,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"32"
 			}
 		}
 		"m0refont48"
@@ -207,7 +196,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"42"
 			}
 		}
 		"m0refont72"
@@ -215,7 +203,6 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"50"
 			}
 		}
 		"Default"
