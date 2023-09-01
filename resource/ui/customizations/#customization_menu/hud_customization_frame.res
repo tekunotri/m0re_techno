@@ -30,7 +30,7 @@
 			"enabled"									"1"
 			"proportionaltoparent"						"1"
 			"use_proportional_insets"					"1"
-			"labelText"									"m0reHUD Customization"
+			"labelText"									"m0re_techno Customization"
 			"font"										"HudFontSmallBold"
 			"textAlignment"								"west"
 			"textinsetx"								"5"

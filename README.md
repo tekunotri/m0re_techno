@@ -1,4 +1,4 @@
-# m0re-techno (7.0 base attempt 2)
+# m0re-techno (7.0 base preview)
 ![screenshot](https://b.catgirlsare.sexy/i_auWpY0z58F.jpg)
 [there's also some fonts i like included, click here to see previews!](https://github.com/TechnoSL/m0re_techno/blob/master/customizations/Fonts/fonts.md)
 
@@ -6,7 +6,7 @@ This version is entirely based on [dqz's edit](https://github.com/irodionr/dqz_h
 
 Download: <a href=https://github.com/TechnoSL/m0re_techno/archive/refs/heads/7.0.zip>"bleeding-edge" version (latest commit)</a> //  <a href=https://comfig.app/huds/page/m0re-techno>also available on comfig huds! (more stable version, will update less often)</a>
 # Credits
-Hypnotize - maintaining m0rehud
+Hypnotize - maintaining m0rehud + this sexy customization menu
 
 dqz - original m0rehud edit this is based off of
 
