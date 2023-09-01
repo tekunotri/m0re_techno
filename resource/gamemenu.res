@@ -5,8 +5,8 @@
 	//====================================================================================================================================================
 	"Version"
 	{
-		"label"										"m0rehud 7.0"
-		"command"									"engine showconsole; echo m0rehud by Hypnotize github.com/Hypnootize/m0rehud all credits to m0re"
+		"label"										"m0re_techno 7.0-alpha"
+		"command"									"engine showconsole; clear; echo m0re_techno v2.0-ALPHA; echo by techno, based on a edit of m0rehud by dqz; echo using m0rehud 7 as base, things might and will be broken/edits unfinished"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
