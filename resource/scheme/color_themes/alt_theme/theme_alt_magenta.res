@@ -2,22 +2,32 @@
 {
 	"Colors"
 	{
-		"Health Buff"										"255 0 127 255"
+		//=========================================================================================================================
+		// TF2 COLORS
+		//=========================================================================================================================
+		"Health Shadow Buff"								"255 0 127 255"
 		"Health Buff BG"									"255 0 127 255"
-		"Health Shadow Buff"								"0 0 0 255"
-		"Health Hurt"										"255 0 0 255"
-		"Health Shadow Hurt"								"0 0 0 255"
+		"Health Buff Target"								"255 0 127 255"
+		"Health Buff Spec"									"255 0 127 255"
+		"Health Buff Killer"								"255 0 127 255"
 
-		"Extra Shadow"										"0 0 0 0"
+		"Ubercharge Shadow Full"							"255 0 127 255"
+		"Ubercharge Meter Full"								"255 0 127 255"
 
-		"Ammo In Clip Low"									"255 0 0 255"
-		"Ammo In Clip Shadow Low"							"0 0 0 255"
-		"Ammo In Reserve Low"								"255 0 0 255"
-		"Ammo In Reserve Shadow Low"						"0 0 0 255"
-		"Ammo No Clip Low"									"255 0 0 255"
-		"Ammo No Clip Shadow Low"							"0 0 0 255"
+		"Menu Labels"										"255 0 127 255"
+		"Class Selection"									"255 0 127 255"
 
-		"Ubercharge Full"									"255 0 127 255"
-		"Ubercharge Shadow Full"							"0 0 0 255"
+		//=========================================================================================================================
+		// SOURCE COLORS
+		//=========================================================================================================================
+		"SS_List_Button_Armed"								"255 0 127 255"
+		"SS_Button_BG_Armed"								"255 0 127 255"
+		"SS_RightClick_Menu_BG_Armed"						"255 0 127 255"
+		"SS_CheckButton_Text_Armed"							"255 0 127 255"
+		"SS_ToolTip_BG"										"255 0 127 255"
+		"SS_ScrollBar_Button_BG_Armed"						"255 0 127 255"
+		"SS_Text_Entry_BG_Selected"							"255 0 127 255"
+		"SS_Console_Text_BG_Selected"						"255 0 127 255"
+		"SS_Console_User_Input"								"255 0 127 255"
 	}
 }
