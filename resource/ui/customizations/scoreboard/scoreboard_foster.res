@@ -7,7 +7,8 @@
 		"spacer"									"1"
 		"nemesis_width"								"14"
 		"class_width"								"14"
-		"ping_width"								"25"
+		"ping_width"								"30"
+		"killstreak_width"							"24"
 	}
 	"BluePlayerList"
 	{

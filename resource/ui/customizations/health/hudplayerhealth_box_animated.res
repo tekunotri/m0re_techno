@@ -4,7 +4,7 @@
 	{
 		"xpos"										"c-207"
 		"xpos_minmode"								"c-108"
-		"ypos"										"c106"
+		"ypos"										"c100"
 		"ypos_minmode"								"c53"
 		"wide"										"68"
 		"wide_minmode"								"30"
