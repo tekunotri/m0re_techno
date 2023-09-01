@@ -232,7 +232,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"15"
-		"wide"										"150"
+		"wide"										"250"
 		"tall"										"14"
 		"visible"									"0"
 
