@@ -4,7 +4,7 @@
 	{
 		"200"
 		{
-			"font"		"resource/scheme/fonts/fonts_optional/cinceaption226.ttf"
+			"font"		"resource/scheme/fonts/fonts_optional/cinecaption226.ttf"
 			"name"		"cinecaption"
 		}
 		"201"

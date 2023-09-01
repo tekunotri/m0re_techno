@@ -2,254 +2,137 @@
 {
 	"Fonts"
 	{
-		"Showcase_Alternate_Gothic"
+		"Showcase_Cinecaption"
 		{
 			"1"
 			{
-				"name"										"AlternateGothicEF-NoThree"
+				"name"										"cinecaption"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Archive"
+		"Showcase_DFP"
 		{
 			"1"
 			{
-				"name"										"Archive"
+				"name"										"DFPPOPCorn-W12"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Avenir"
+		"Showcase_Din"
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"DIN2014TFRegular"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Cafe_Nero"
+		"Showcase_Genshin"
 		{
 			"1"
 			{
-				"name"										"Cafe Nero M54"
-				"tall"										"8"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_Catamaran"
-		{
-			"1"
-			{
-				"name"										"Catamaran SemiBold"
-				"tall"										"14"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_Cerbetica"
-		{
-			"1"
-			{
-				"name"										"Cerbetica Bold"
+				"name"										"SDK_JP_Web 85W"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Code_Pro"
+		"Showcase_Gyate"
 		{
 			"1"
 			{
-				"name"										"Code-Pro-LC"
+				"name"										"Gyate-Luminescence"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Days"
+		"Showcase_Gyeonggi"
 		{
 			"1"
 			{
-				"name"										"Days"
-				"tall"										"10"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_Futura"
-		{
-			"1"
-			{
-				"name"										"FuturaSTD-Heavy"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Handel_Gothic"
+		"Showcase_HNLT"
 		{
 			"1"
 			{
-				"name"										"Handel Gothic BT"
-				"tall"										"10"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_Lato"
-		{
-			"1"
-			{
-				"name"										"Lato Bold"
+				"name"										"Helvetica Neue LT"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_MavenPro"
+		"Showcase_HSR"
 		{
 			"1"
 			{
-				"name"										"Maven Pro Black"
+				"name"										"SDK_JP_Web Regular"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Neutra"
+		"Showcase_HSR"
 		{
 			"1"
 			{
-				"name"										"NeutraText-Bold"
+				"name"										"SDK_JP_Web Regular"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Nexa"
+		"Showcase_IBMPlex"
 		{
 			"1"
 			{
-				"name"										"NexaBold"
+				"name"										"IBM Plex Sans SemiBold"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Noto"
+		"Showcase_Imopara"
 		{
 			"1"
 			{
-				"name"										"Noto Sans Bold"
+				"name"										"ImoparaCustom"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Product"
+		"Showcase_JF"
 		{
 			"1"
 			{
-				"name"										"Product Sans"
+				"name"										"jf-openhuninn-1.1"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Product_Bold"
+		"Showcase_Shin"
 		{
 			"1"
 			{
-				"name"										"Product Sans Bold"
+				"name"										"ShinMGoUpr-Medium"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Renogare"
+		"Showcase_Utsukushi"
 		{
 			"1"
 			{
-				"name"										"RenogareSoft-Regular"
+				"name"										"02UtsukushiMincho"
 				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
-		"Showcase_Roboto"
+		"Showcase_VLGothic"
 		{
 			"1"
 			{
-				"name"										"Roboto Bold"
-				"tall"										"11"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_Rubik"
-		{
-			"1"
-			{
-				"name"										"Rubik SemiBold"
-				"tall"										"11"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_Sansation"
-		{
-			"1"
-			{
-				"name"										"Sansation Bold"
-				"tall"										"11"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_Solomon"
-		{
-			"1"
-			{
-				"name"										"Solomon Heavy"
-				"tall"										"10"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_Surface"
-		{
-			"1"
-			{
-				"name"										"Surface-Medium"
-				"tall"										"11"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_Surface_Bold"
-		{
-			"1"
-			{
-				"name"										"Surface-Bold"
-				"tall"										"11"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_Surface_Sharpened"
-		{
-			"1"
-			{
-				"name"										"SurfaceSharpened-Medium"
-				"tall"										"11"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_TF2"
-		{
-			"1"
-			{
-				"name"										"TF2 Secondary"
-				"tall"										"11"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_TF2_Bold"
-		{
-			"1"
-			{
-				"name"										"TF2 Build"
-				"tall"										"9"
-				"antialias"									"1"
-			}
-		}
-		"Showcase_Ubuntu"
-		{
-			"1"
-			{
-				"name"										"Ubuntu Bold"
+				"name"										"VL Gothic Regular"
 				"tall"										"11"
 				"antialias"									"1"
 			}

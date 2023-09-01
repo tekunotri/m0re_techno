@@ -195,14 +195,14 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"NameLabel"
-			"xpos"									"9999"		//0
+			"xpos"									"0"		//0
 			"ypos"									"0"
 			"wide"									"f0"
 			"zpos"									"100"
 			"tall"									"14"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"Coolvetica15"
+			"font"									"m0refont14"
 			"fgcolor"								"White"
 			"textAlignment"							"west"
 			"labelText"								"%name%"
@@ -218,14 +218,14 @@
 		{
 			"ControlName"							"CAutoFittingLabel"
 			"fieldName"								"Desc1MainMenu"
-			"xpos"									"0"
+			"xpos"									"9999"
 			"ypos"									"0"
 			"wide"									"f0"
 			"zpos"									"100"
 			"tall"									"14"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"Coolvetica15"
+			"font"									"m0refont14"
 			"fgcolor_override"						"White"
 			"textAlignment"							"west"
 			"labelText"								"%desc1%"
@@ -238,7 +238,7 @@
 			}
 			"fonts"
 			{
-				"0"									"Coolvetica15"
+				"0"									"m0refont14"
 				"1"									"Coolvetica13"
 				"2"									"Coolvetica11"
 			}
@@ -254,7 +254,7 @@
 			"tall"									"14"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"Coolvetica15"
+			"font"									"m0refont14"
 			"fgcolor_override"						"White"
 			"textAlignment"							"north-west"
 			"labelText"								"%desc2%"
@@ -267,7 +267,7 @@
 			}
 			"fonts"
 			{
-				"0"									"Coolvetica15"
+				"0"									"m0refont14"
 				"1"									"Coolvetica13"
 				"2"									"Coolvetica11"
 			}
