@@ -37,7 +37,7 @@
 			"zpos"									"-1"
 			"wide"									"p1.1"
 			"tall"									"f4"
-			"visible"								"1"
+			"visible"								"0"
 			"PaintBackground"						"0"
 			"border"								"ReplayDefaultBorder"
 			"proportionaltoparent"					"1"
@@ -222,7 +222,7 @@
 				"zpos"								"0"
 				"wide"								"f0"
 				"tall"								"f-1"
-				"visible"							"1"
+				"visible"							"0"
 				"proportionaltoparent"				"1"
 				"border"							"ReplayDefaultBorder"
 			}
@@ -409,7 +409,7 @@
 				"zpos"								"0"
 				"wide"								"f0"
 				"tall"								"f-1"
-				"visible"							"1"
+				"visible"							"0"
 				"proportionaltoparent"				"1"
 				"border"							"ReplayDefaultBorder"
 			}
@@ -446,7 +446,7 @@
 					"xpos"							"cs-0.5"
 					"wide"							"150"
 				}
-				
+
 				"visible"							"1"
 				"enabled"							"1"
 				"font"								"HudFontSmallestBold"
