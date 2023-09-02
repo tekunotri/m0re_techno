@@ -157,6 +157,16 @@
 				"antialias"									"1"
 			}
 		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"AvenirLTStd-Black"
+				"tall"										"20"
+				"antialias"									"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont24"
 		{
 			"1"
@@ -279,6 +289,16 @@
 				"name"										"AvenirLTStd-Black"
 				"tall"										"48"
 				"antialias"									"1"
+			}
+		}
+		"m0refont48Outline"
+		{
+			"1"
+			{
+				"name"										"AvenirLTStd-Black"
+				"tall"										"48"
+				"antialias"									"1"
+				"outline"									"1"
 			}
 		}
 		"m0refont72"

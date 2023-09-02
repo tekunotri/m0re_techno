@@ -116,6 +116,15 @@
 				"name"										"Gyate-Luminescence"
 			}
 		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"Gyate-Luminescence"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont24"
 		{
 			"1"

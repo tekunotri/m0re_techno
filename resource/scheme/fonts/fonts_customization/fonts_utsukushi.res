@@ -116,6 +116,15 @@
 				"name"										"02UtsukushiMincho"
 			}
 		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"02UtsukushiMincho"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont24"
 		{
 			"1"

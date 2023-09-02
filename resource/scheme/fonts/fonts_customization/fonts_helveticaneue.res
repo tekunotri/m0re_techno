@@ -116,6 +116,15 @@
 				"name"										"Helvetica Neue LT"
 			}
 		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"Helvetica Neue LT"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont24"
 		{
 			"1"

@@ -116,6 +116,15 @@
 				"name"										"VL Gothic Regular"
 			}
 		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"VL Gothic Regular"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont24"
 		{
 			"1"
@@ -221,6 +230,16 @@
 				"tall"										"50"
 				"antialias" 								"1"
 				"dropshadow"								"1"
+			}
+		}
+		"m0refont48Outline"
+		{
+			"1"
+			{
+				"name"										"VL Gothic Regular"
+				"tall"										"50"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"m0refont72"

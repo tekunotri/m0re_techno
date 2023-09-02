@@ -105,7 +105,7 @@
 		{
 			"1"
 			{
-				"name"										"Catamaran-SemiBold"
+				"name"										"DFPPOPCorn-W12"
 			}
 		}
 		"m0refont20"
@@ -113,6 +113,15 @@
 			"1"
 			{
 				"name"										"DFPPOPCorn-W12"
+			}
+		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"DFPPOPCorn-W12"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"m0refont24"
@@ -221,6 +230,16 @@
 				"tall"										"42"
 				"antialias" 								"1"
 				"dropshadow"								"1"
+			}
+		}
+		"m0refont48Outline"
+		{
+			"1"
+			{
+				"name"										"DFPPOPcorn-W12"
+				"tall"										"42"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"m0refont72"

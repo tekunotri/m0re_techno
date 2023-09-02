@@ -116,6 +116,15 @@
 				"name"										"cinecaption"
 			}
 		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"cinecaption"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont24"
 		{
 			"1"
@@ -222,6 +231,16 @@
 				"tall"										"42"
 				"antialias" 								"1"
 				"dropshadow"								"1"
+			}
+		}
+		"m0refont48Outline"
+		{
+			"1"
+			{
+				"name"										"cinecaption"
+				"tall"										"42"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"m0refont72"

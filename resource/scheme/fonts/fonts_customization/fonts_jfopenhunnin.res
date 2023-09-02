@@ -116,6 +116,15 @@
 				"name"										"jf-openhuninn-1.1"
 			}
 		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"jf-openhuninn-1.1"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont24"
 		{
 			"1"

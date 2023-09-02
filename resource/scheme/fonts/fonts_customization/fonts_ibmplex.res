@@ -116,6 +116,15 @@
 				"name"										"IBM Plex Sans SemiBold"
 			}
 		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"IBM Plex Sans SemiBold"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont24"
 		{
 			"1"

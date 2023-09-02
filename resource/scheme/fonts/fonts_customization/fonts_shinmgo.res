@@ -116,6 +116,15 @@
 				"name"										"ShinMGoUpr-Medium"
 			}
 		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"ShinMGoUpr-Medium"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont24"
 		{
 			"1"

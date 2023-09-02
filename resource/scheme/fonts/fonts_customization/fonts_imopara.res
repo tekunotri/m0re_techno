@@ -147,6 +147,15 @@
 
 			}
 		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont26"
 		{
 			"1"
