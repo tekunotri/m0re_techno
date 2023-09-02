@@ -151,6 +151,9 @@
 		"HudWhite"											"255 255 255 255"
 		"HudOffWhite"										"255 255 255 255"
 		"HudBlack"											"65 65 65 255"
+
+		"HudBlackFH"										"0 0 0 230"
+
 		"ProgressBarBlue"									"90 122 143 255"
 
 		"CreditsGreen"										"94 150 49 255"

@@ -36,7 +36,7 @@
 		"enabled"									"1"
 		"linespacing"								"18"
 		"linegap"									"0"
-		"fgcolor"									"blue"
+		"fgcolor"									"m0reBlue"
 	}
 	"RedPlayerList"
 	{
@@ -51,7 +51,7 @@
 		"enabled"									"1"
 		"linespacing"								"18"
 		"linegap"									"0"
-		"textcolor"									"red"
+		"textcolor"									"m0reRed"
 	}
 
 	//==================================================================================================================================================
@@ -111,7 +111,7 @@
 		"proportionaltoparent"						"1"
 		"PaintBackground"							"1"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"Blue"
+		"bgcolor_override"							"m0reBlue"
 
 		"pin_to_sibling"							"WhiteBG"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -214,7 +214,7 @@
 		"proportionaltoparent"						"1"
 		"PaintBackground"							"1"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"Red"
+		"bgcolor_override"							"m0reRed"
 
 		"pin_to_sibling"							"WhiteBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"

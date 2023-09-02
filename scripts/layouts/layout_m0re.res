@@ -197,11 +197,11 @@
 	}
 	"WinPanel"
 	{
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"c-100"
+		"ypos"										"r145"
 		"zpos"										"10"
-		"wide"										"f0"
-		"tall"										"f0"
+		"wide"										"200"
+		"tall"										"152"
 	}
 	"ArenaWinPanel"
 	{
