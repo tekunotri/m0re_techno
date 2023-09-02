@@ -232,6 +232,16 @@
 				"dropshadow"								"1"
 			}
 		}
+		"m0refont48Outline"
+		{
+			"1"
+			{
+				"name"										"ShinMGoUpr-Medium"
+				"tall"										"50"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont72"
 		{
 			"1"

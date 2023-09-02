@@ -232,6 +232,16 @@
 				"dropshadow"								"1"
 			}
 		}
+		"m0refont48Outline"
+		{
+			"1"
+			{
+				"name"										"Helvetica Neue LT"
+				"tall"										"42"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont72"
 		{
 			"1"
