@@ -11,11 +11,11 @@
 		"Health Shadow"										"0 0 0 255"
 
 		"Health Buff"										"255 255 255 255"
-		"Health Shadow Buff"								"0 185 0 255"
-		"Health Buff BG"									"0 185 0 255"
-		"Health Buff Target"								"0 215 0 255"
-		"Health Buff Spec"									"0 215 0 255"
-		"Health Buff Killer"								"0 215 0 255"
+		"Health Shadow Buff"								"128 255 0 255"
+		"Health Buff BG"									"128 255 0 255"
+		"Health Buff Target"								"128 255 0 255"
+		"Health Buff Spec"									"128 255 0 255"
+		"Health Buff Killer"								"128 255 0 255"
 
 		"Health Hurt"										"255 255 255 255"
 		"Health Shadow Hurt"								"255 0 0 255"
@@ -49,8 +49,8 @@
 		"Ubercharge"										"255 255 255 255"
 		"Ubercharge Shadow"									"0 0 0 255"
 		"Ubercharge Full"									"255 255 255 255"
-		"Ubercharge Shadow Full"							"255 0 127 255"
-		"Ubercharge Meter Full"								"255 0 127 255"
+		"Ubercharge Shadow Full"							"255 0 63 255"
+		"Ubercharge Meter Full"								"255 0 63 255"
 
 		//----------------------------------------------------------------------------------
 		// +HEALTH AND DAMAGE
@@ -64,7 +64,7 @@
 		//----------------------------------------------------------------------------------
 		// MENUS
 		//----------------------------------------------------------------------------------
-		"Menu Labels"										"255 0 127 255"
+		"Menu Labels"										"255 0 63 255"
 		"Class Selection"									"0 215 0 255"
 
 		//----------------------------------------------------------------------------------
