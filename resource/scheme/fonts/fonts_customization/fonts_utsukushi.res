@@ -98,6 +98,8 @@
 			"1"
 			{
 				"name"										"02UtsukushiMincho"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"m0refont18Numbers"
@@ -133,6 +135,8 @@
 			"1"
 			{
 				"name"										"02UtsukushiMincho"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"m0refont24Numbers"
@@ -184,6 +188,15 @@
 				"name"										"02UtsukushiMincho"
 			}
 		}
+		"m0refont32Outline"
+		{
+			"1"
+			{
+				"name"										"02UtsukushiMincho"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont36"
 		{
 			"1"
@@ -196,6 +209,18 @@
 			"1"
 			{
 				"name"										"02UtsukushiMincho"
+				"tall"										"50"
+				"antialias" 								"1"
+			}
+		}
+		"m0refont48Shadow"
+		{
+			"1"
+			{
+				"name"										"02UtsukushiMincho"
+				"tall"										"50"
+				"antialias" 								"1"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont72"
@@ -203,6 +228,18 @@
 			"1"
 			{
 				"name"										"02UtsukushiMincho"
+				"tall"										"72"
+				"antialias" 								"1"
+			}
+		}
+		"m0refont72Outline"
+		{
+			"1"
+			{
+				"name"										"02UtsukushiMincho"
+				"tall"										"72"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"Default"

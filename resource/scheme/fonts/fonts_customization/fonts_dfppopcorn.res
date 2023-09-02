@@ -98,7 +98,8 @@
 			"1"
 			{
 				"name"										"DFPPOPCorn-W12"
-			}
+				"antialias" 								"1"
+				"outline"									"1"			}
 		}
 		"m0refont18Numbers"
 		{
@@ -133,13 +134,15 @@
 			"1"
 			{
 				"name"										"DFPPOPCorn-W12"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"m0refont24Numbers"
 		{
 			"1"
 			{
-				"name"										"Catamaran-SemiBold"
+				"name"										"DFPPOPCorn-W12"
 			}
 		}
 		"m0refont26"
@@ -167,7 +170,7 @@
 		{
 			"1"
 			{
-				"name"										"Catamaran-SemiBold"
+				"name"										"DFPPOPCorn-W12"
 			}
 		}
 		"m0refont32"
@@ -175,6 +178,16 @@
 			"1"
 			{
 				"name"										"DFPPOPCorn-W12"
+			}
+		}
+		"m0refont32Outline"
+		{
+			"1"
+			{
+				"name"										"DFPPOPCorn-W12"
+				"antialias" 								"1"
+				"outline"									"1"
+
 			}
 		}
 		"m0refont32Shadow"
@@ -195,7 +208,19 @@
 		{
 			"1"
 			{
-				"name"										"DFPPOPCorn-W12"
+				"name"										"DFPPOPcorn-W12"
+				"tall"										"42"
+				"antialias" 								"1"
+			}
+		}
+		"m0refont48Shadow"
+		{
+			"1"
+			{
+				"name"										"DFPPOPcorn-W12"
+				"tall"										"42"
+				"antialias" 								"1"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont72"
@@ -203,6 +228,18 @@
 			"1"
 			{
 				"name"										"DFPPOPCorn-W12"
+				"tall"										"50"
+				"antialias" 								"1"
+			}
+		}
+		"m0refont72Outline"
+		{
+			"1"
+			{
+				"name"										"DFPPOPcorn-W12"
+				"tall"										"50"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"Default"

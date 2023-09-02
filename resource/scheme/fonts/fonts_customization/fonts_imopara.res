@@ -98,6 +98,8 @@
 			"1"
 			{
 				"name"										"ImoparaCustom"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"m0refont18Numbers"
@@ -133,6 +135,8 @@
 			"1"
 			{
 				"name"										"ImoparaCustom"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"m0refont24Numbers"
@@ -140,6 +144,7 @@
 			"1"
 			{
 				"name"										"ImoparaCustom"
+
 			}
 		}
 		"m0refont26"
@@ -184,6 +189,15 @@
 				"name"										"ImoparaCustom"
 			}
 		}
+		"m0refont32Outline"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont36"
 		{
 			"1"
@@ -196,6 +210,18 @@
 			"1"
 			{
 				"name"										"ImoparaCustom"
+				"tall"										"50"
+				"antialias" 								"1"
+			}
+		}
+		"m0refont48Shadow"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom"
+				"tall"										"50"
+				"antialias" 								"1"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont72"
@@ -203,6 +229,18 @@
 			"1"
 			{
 				"name"										"ImoparaCustom"
+				"tall"										"72"
+				"antialias" 								"1"
+			}
+		}
+		"m0refont72Outline"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom"
+				"tall"										"72"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"Default"
