@@ -322,5 +322,63 @@
 				"name"										"DIN2014TFRegular"
 			}
 		}
+		// loadout stuff
+		"ItemFontNameSmall"
+		{
+			"1"
+			{
+				"name"										"DIN2014TFRegular"
+
+			}
+		}
+		"ItemFontNameLarge"
+		{
+			"1"
+			{
+				"name"										"DIN2014TFRegular"
+			}
+		}
+		"ItemFontNameLarger"
+		{
+			"1"
+			{
+				"name"										"DIN2014TFRegular"
+			}
+		}
+		"ItemFontAttribSmallest"
+		{
+			"1"
+			{
+				"name"										"DIN2014TFRegular"
+			}
+		}
+		"ItemFontAttribSmallv2"
+		{
+			"1"
+			{
+				"name"										"DIN2014TFRegular"
+			}
+		}
+		"ItemFontAttribSmall"
+		{
+			"1"
+			{
+				"name"										"DIN2014TFRegular"
+			}
+		}
+		"ItemFontAttribLarge"
+		{
+			"1"
+			{
+				"name"										"DIN2014TFRegular"
+			}
+		}
+		"ItemFontAttribLarger"
+		{
+			"1"
+			{
+				"name"										"DIN2014TFRegular"
+			}
+		}
 	}
 }

@@ -320,5 +320,63 @@
 				"name"										"GyeonggiTitle Medium"
 			}
 		}
+		// loadout stuff
+		"ItemFontNameSmall"
+		{
+			"1"
+			{
+				"name"										"GyeonggiTitle Medium"
+
+			}
+		}
+		"ItemFontNameLarge"
+		{
+			"1"
+			{
+				"name"										"GyeonggiTitle Medium"
+			}
+		}
+		"ItemFontNameLarger"
+		{
+			"1"
+			{
+				"name"										"GyeonggiTitle Medium"
+			}
+		}
+		"ItemFontAttribSmallest"
+		{
+			"1"
+			{
+				"name"										"GyeonggiTitle Medium"
+			}
+		}
+		"ItemFontAttribSmallv2"
+		{
+			"1"
+			{
+				"name"										"GyeonggiTitle Medium"
+			}
+		}
+		"ItemFontAttribSmall"
+		{
+			"1"
+			{
+				"name"										"GyeonggiTitle Medium"
+			}
+		}
+		"ItemFontAttribLarge"
+		{
+			"1"
+			{
+				"name"										"GyeonggiTitle Medium"
+			}
+		}
+		"ItemFontAttribLarger"
+		{
+			"1"
+			{
+				"name"										"GyeonggiTitle Medium"
+			}
+		}
 	}
 }

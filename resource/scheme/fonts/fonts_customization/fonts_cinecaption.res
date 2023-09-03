@@ -320,5 +320,63 @@
 				"name"										"cinecaption"
 			}
 		}
+		// loadout stuff
+		"ItemFontNameSmall"
+		{
+			"1"
+			{
+				"name"										"cinecaption"
+
+			}
+		}
+		"ItemFontNameLarge"
+		{
+			"1"
+			{
+				"name"										"cinecaption"
+			}
+		}
+		"ItemFontNameLarger"
+		{
+			"1"
+			{
+				"name"										"cinecaption"
+			}
+		}
+		"ItemFontAttribSmallest"
+		{
+			"1"
+			{
+				"name"										"cinecaption"
+			}
+		}
+		"ItemFontAttribSmallv2"
+		{
+			"1"
+			{
+				"name"										"cinecaption"
+			}
+		}
+		"ItemFontAttribSmall"
+		{
+			"1"
+			{
+				"name"										"cinecaption"
+			}
+		}
+		"ItemFontAttribLarge"
+		{
+			"1"
+			{
+				"name"										"cinecaption"
+			}
+		}
+		"ItemFontAttribLarger"
+		{
+			"1"
+			{
+				"name"										"cinecaption"
+			}
+		}
 	}
 }

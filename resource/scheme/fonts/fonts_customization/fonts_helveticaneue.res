@@ -319,5 +319,63 @@
 				"name"										"Helvetica Neue LT"
 			}
 		}
+		// loadout stuff
+		"ItemFontNameSmall"
+		{
+			"1"
+			{
+				"name"										"Helvetica Neue LT"
+
+			}
+		}
+		"ItemFontNameLarge"
+		{
+			"1"
+			{
+				"name"										"Helvetica Neue LT"
+			}
+		}
+		"ItemFontNameLarger"
+		{
+			"1"
+			{
+				"name"										"Helvetica Neue LT"
+			}
+		}
+		"ItemFontAttribSmallest"
+		{
+			"1"
+			{
+				"name"										"Helvetica Neue LT"
+			}
+		}
+		"ItemFontAttribSmallv2"
+		{
+			"1"
+			{
+				"name"										"Helvetica Neue LT"
+			}
+		}
+		"ItemFontAttribSmall"
+		{
+			"1"
+			{
+				"name"										"Helvetica Neue LT"
+			}
+		}
+		"ItemFontAttribLarge"
+		{
+			"1"
+			{
+				"name"										"Helvetica Neue LT"
+			}
+		}
+		"ItemFontAttribLarger"
+		{
+			"1"
+			{
+				"name"										"Helvetica Neue LT"
+			}
+		}
 	}
 }

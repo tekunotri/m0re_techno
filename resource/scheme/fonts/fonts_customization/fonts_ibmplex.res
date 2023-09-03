@@ -319,5 +319,63 @@
 				"name"										"IBM Plex Sans SemiBold"
 			}
 		}
+		// loadout stuff
+		"ItemFontNameSmall"
+		{
+			"1"
+			{
+				"name"										"IBM Plex Sans SemiBold"
+
+			}
+		}
+		"ItemFontNameLarge"
+		{
+			"1"
+			{
+				"name"										"IBM Plex Sans SemiBold"
+			}
+		}
+		"ItemFontNameLarger"
+		{
+			"1"
+			{
+				"name"										"IBM Plex Sans SemiBold"
+			}
+		}
+		"ItemFontAttribSmallest"
+		{
+			"1"
+			{
+				"name"										"IBM Plex Sans SemiBold"
+			}
+		}
+		"ItemFontAttribSmallv2"
+		{
+			"1"
+			{
+				"name"										"IBM Plex Sans SemiBold"
+			}
+		}
+		"ItemFontAttribSmall"
+		{
+			"1"
+			{
+				"name"										"IBM Plex Sans SemiBold"
+			}
+		}
+		"ItemFontAttribLarge"
+		{
+			"1"
+			{
+				"name"										"IBM Plex Sans SemiBold"
+			}
+		}
+		"ItemFontAttribLarger"
+		{
+			"1"
+			{
+				"name"										"IBM Plex Sans SemiBold"
+			}
+		}
 	}
 }

@@ -292,6 +292,26 @@
 		"UpgradeSelectedBg"									"249 138 83 255"
 		"UpgradeDisabledFg"									"64 59 52 255"
 		"UpgradeDisabledBg"									"79 77 68 255"
+
+		//==================================================================================
+		// FLAWHUD COLORS (for inventory/loadout)
+		//==================================================================================
+
+		"DarkGrey"			"27 27 27 255"
+		"Transparent"		"0 0 0 0"
+		"TextColor"			"117 107 94 255"
+		"NeutralWhite"		"235 226 202 255"
+		"DarkerGrey"		"22 22 22 255"
+		"LOGScout"			"75 112 130 255"
+		"LOGSoldier"		"80 105 120 255"
+		"LOGPyro"			"95 100 110 255"
+		"LOGDemoman"		"100 95 100 255"
+		"LOGHeavy"			"110 90 90 255"
+		"LOGEngineer"		"120 80 80 255"
+		"LOGMedic"			"130 75 75 255"
+		"LOGSniper"			"140 70 70 255"
+		"LOGSpy"			"158 65 65 255"
+		"MenuShader"		"0 0 0 100"
 	}
 	"BaseSettings"
 	{

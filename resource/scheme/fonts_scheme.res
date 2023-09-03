@@ -2141,7 +2141,7 @@
 			"1"
 			{
 				"name"										"TF2 Build"
-				"tall"										"9"
+				"tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2152,7 +2152,7 @@
 			"1"
 			{
 				"name"										"TF2 Build"
-				"tall"										"12"
+				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2864,6 +2864,17 @@
 				"antialias"									"1"
 			}
 		}
+		"ClassIcons" // only used in loadout
+		{
+			"1"
+			{
+				"name"			"FlawHUDIcons"
+				"tall"			"62"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 	}
 	"BitmapFontFiles"
 	{
@@ -3163,6 +3174,11 @@
 			{
 				"range" "0x0000 0xFFFF"
 			}
+		}
+		"218"
+		{
+			"font"		"resource/scheme/fonts/FHIcons.otf"
+			"name"		"FlawHUDIcons"
 		}
 	}
 }

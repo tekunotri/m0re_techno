@@ -320,5 +320,70 @@
 				"name"										"ImoparaCustom Edit"
 			}
 		}
+		"ItemFontNameSmallest"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom Edit"
+			}
+		}
+		// loadout stuff
+		"ItemFontNameSmall"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom Edit"
+
+			}
+		}
+		"ItemFontNameLarge"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom Edit"
+			}
+		}
+		"ItemFontNameLarger"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom Edit"
+			}
+		}
+		"ItemFontAttribSmallest"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom Edit"
+			}
+		}
+		"ItemFontAttribSmallv2"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom Edit"
+			}
+		}
+		"ItemFontAttribSmall"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom Edit"
+			}
+		}
+		"ItemFontAttribLarge"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom Edit"
+			}
+		}
+		"ItemFontAttribLarger"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom Edit"
+			}
+		}
 	}
 }

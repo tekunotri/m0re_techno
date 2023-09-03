@@ -319,5 +319,63 @@
 				"name"										"02UtsukushiMincho"
 			}
 		}
+	// loadout stuff
+		"ItemFontNameSmall"
+		{
+			"1"
+			{
+				"name"										"02UtsukushiMincho"
+
+			}
+		}
+		"ItemFontNameLarge"
+		{
+			"1"
+			{
+				"name"										"02UtsukushiMincho"
+			}
+		}
+		"ItemFontNameLarger"
+		{
+			"1"
+			{
+				"name"										"02UtsukushiMincho"
+			}
+		}
+		"ItemFontAttribSmallest"
+		{
+			"1"
+			{
+				"name"										"02UtsukushiMincho"
+			}
+		}
+		"ItemFontAttribSmallv2"
+		{
+			"1"
+			{
+				"name"										"02UtsukushiMincho"
+			}
+		}
+		"ItemFontAttribSmall"
+		{
+			"1"
+			{
+				"name"										"02UtsukushiMincho"
+			}
+		}
+		"ItemFontAttribLarge"
+		{
+			"1"
+			{
+				"name"										"02UtsukushiMincho"
+			}
+		}
+		"ItemFontAttribLarger"
+		{
+			"1"
+			{
+				"name"										"02UtsukushiMincho"
+			}
+		}
 	}
 }
