@@ -324,7 +324,7 @@
 		{
 			"1"
 			{
-				"name"										"02UtsukushiMincho"
+				"name"										"VL Gothic Regular"
 
 			}
 		}
@@ -332,49 +332,49 @@
 		{
 			"1"
 			{
-				"name"										"02UtsukushiMincho"
+				"name"										"VL Gothic Regular"
 			}
 		}
 		"ItemFontNameLarger"
 		{
 			"1"
 			{
-				"name"										"02UtsukushiMincho"
+				"name"										"VL Gothic Regular"
 			}
 		}
 		"ItemFontAttribSmallest"
 		{
 			"1"
 			{
-				"name"										"02UtsukushiMincho"
+				"name"										"VL Gothic Regular"
 			}
 		}
 		"ItemFontAttribSmallv2"
 		{
 			"1"
 			{
-				"name"										"02UtsukushiMincho"
+				"name"										"VL Gothic Regular"
 			}
 		}
 		"ItemFontAttribSmall"
 		{
 			"1"
 			{
-				"name"										"02UtsukushiMincho"
+				"name"										"VL Gothic Regular"
 			}
 		}
 		"ItemFontAttribLarge"
 		{
 			"1"
 			{
-				"name"										"02UtsukushiMincho"
+				"name"										"VL Gothic Regular"
 			}
 		}
 		"ItemFontAttribLarger"
 		{
 			"1"
 			{
-				"name"										"02UtsukushiMincho"
+				"name"										"VL Gothic Regular"
 			}
 		}
 	}
