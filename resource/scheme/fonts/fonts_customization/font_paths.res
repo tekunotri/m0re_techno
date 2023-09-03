@@ -70,7 +70,7 @@
 		"213"
 		{
 			"font"		"resource/scheme/fonts/fonts_optional/imoparacustom.ttf"
-			"name"		"ImoparaCustom"
+			"name"		"ImoparaCustom Edit"
 		}
 		"214"
 		{

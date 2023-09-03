@@ -912,7 +912,7 @@
 						}
 					}
 //=================================================================================================================================
-// ImoparaCustom (hi MOONSTONE lawyers!)
+// ImoparaCustom (hi MOONSTONE lawyers!) (this is just M+ Rounded but i cba to change the fontname declaration live with it -techno)
 //=================================================================================================================================
 					"Font_Imopara"
 					{
@@ -944,7 +944,7 @@
 							"mouseinputenabled"			"0"
 							"proportionaltoparent"		"1"
 							"font"						"Showcase_Imopara"
-							"labeltext"					"ImoparaCustom"
+							"labeltext"					"ImoparaCustom Edit"
 							"textAlignment"				"center"
 							"fgcolor"					"White"
 							"paintbackground"			"1"

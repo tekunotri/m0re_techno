@@ -96,7 +96,7 @@
 		{
 			"1"
 			{
-				"name"										"ImoparaCustom"
+				"name"										"ImoparaCustom Edit"
 				"tall"										"11"
 				"antialias"									"1"
 			}
