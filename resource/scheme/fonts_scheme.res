@@ -2141,7 +2141,7 @@
 			"1"
 			{
 				"name"										"TF2 Build"
-				"tall"										"12"
+				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2152,7 +2152,7 @@
 			"1"
 			{
 				"name"										"TF2 Build"
-				"tall"										"14"
+				"tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"

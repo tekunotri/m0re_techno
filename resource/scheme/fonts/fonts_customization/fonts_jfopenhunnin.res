@@ -326,7 +326,7 @@
 			"1"
 			{
 				"name"										"jf-openhuninn-1.1"
-
+				"tall"										"12"
 			}
 		}
 		"ItemFontNameLarge"

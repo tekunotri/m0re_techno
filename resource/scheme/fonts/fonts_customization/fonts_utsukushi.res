@@ -325,7 +325,7 @@
 			"1"
 			{
 				"name"										"02UtsukushiMincho"
-
+				"tall"										"12"
 			}
 		}
 		"ItemFontNameLarge"

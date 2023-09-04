@@ -328,7 +328,7 @@
 			"1"
 			{
 				"name"										"DIN2014TFRegular"
-
+				"tall"										"12"
 			}
 		}
 		"ItemFontNameLarge"

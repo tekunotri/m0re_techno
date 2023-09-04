@@ -325,7 +325,7 @@
 			"1"
 			{
 				"name"										"ShinMGoUpr-Medium"
-
+				"tall"										"12"
 			}
 		}
 		"ItemFontNameLarge"

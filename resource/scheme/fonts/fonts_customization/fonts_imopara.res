@@ -333,7 +333,7 @@
 			"1"
 			{
 				"name"										"ImoparaCustom Edit"
-
+				"tall"										"12"
 			}
 		}
 		"ItemFontNameLarge"

@@ -325,7 +325,7 @@
 			"1"
 			{
 				"name"										"IBM Plex Sans SemiBold"
-
+				"tall"										"12"
 			}
 		}
 		"ItemFontNameLarge"

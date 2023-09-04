@@ -325,7 +325,7 @@
 			"1"
 			{
 				"name"										"VL Gothic Regular"
-
+				"tall"										"12"
 			}
 		}
 		"ItemFontNameLarge"
