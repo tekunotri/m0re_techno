@@ -1727,7 +1727,7 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"Surface-Medium"
 				"tall"										"11"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -1737,7 +1737,7 @@
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"Surface-Medium"
 				"tall"										"10"
 				"antialias"									"1"
 				"dropshadow"								"1"

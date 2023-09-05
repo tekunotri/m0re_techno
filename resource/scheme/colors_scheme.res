@@ -17,10 +17,10 @@
 		"Health Buff Spec"									"128 255 0 255"
 		"Health Buff Killer"								"128 255 0 255"
 
-		"Health Hurt"										"255 255 255 255"
+		"Health Hurt"										"255 0 0 255"
 		"Health Shadow Hurt"								"255 0 0 255"
 		"Health Hurt BG"									"255 0 0 255"
-		"Health Hurt Target"								"255 255 255 255"
+		"Health Hurt Target"								"255 0 0 255"
 		"Health Hurt Spec"									"255 0 0 255"
 		"Health Hurt Killer"								"255 0 0 255"
 
@@ -65,7 +65,7 @@
 		// MENUS
 		//----------------------------------------------------------------------------------
 		"Menu Labels"										"255 0 63 255"
-		"Class Selection"									"0 215 0 255"
+		"Class Selection"									"128 255 0 255"
 
 		//----------------------------------------------------------------------------------
 		// CROSSHAIRS
