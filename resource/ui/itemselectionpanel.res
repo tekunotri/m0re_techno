@@ -382,6 +382,15 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+	"NextShortKey"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"NextShortKey"
+		"xpos"										"9999"
+		"labelText"									"&D"
+		"Command"									"nextpage"
+		"visible"									"1"
+	}
 
 	"mouseoveritempanel"
 	{
