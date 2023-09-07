@@ -176,5 +176,14 @@
 				"antialias"									"1"
 			}
 		}
+		"Showcase_Stratum"
+		{
+			"1"
+			{
+				"name"										"Stratum2 Bd Bold"
+				"tall"										"10"
+				"antialias"									"1"
+			}
+		}
 	}
 }

@@ -92,5 +92,10 @@
 			"font"		"resource/scheme/fonts/fonts_optional/VL-Gothic-Regular.ttf"
 			"name"		"VL Gothic Regular"
 		}
+		"218"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/stratum2-bold.ttf"
+			"name"		"Stratum2 Bd Bold"
+		}
 	}
 }
