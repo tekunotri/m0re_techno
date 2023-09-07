@@ -5,8 +5,8 @@
 	//====================================================================================================================================================
 	"Version"
 	{
-		"label"										"m0re_techno 7.0-alpha"
-		"command"									"engine showconsole; clear; echo m0re_techno v2.0-ALPHA; echo by techno, based on a edit of m0rehud by dqz; echo using m0rehud 7 as base, things might and will be broken/edits unfinished"
+		"label"										"m0re_techno 7.0"
+		"command"									"engine showconsole; clear; echo m0re_techno v2.0 [brand new!!!]; echo by techno, based on a edit of m0rehud by dqz; echo now using m0rehud 7 as base!!!"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
@@ -16,7 +16,7 @@
 	}
 	"Create"
 	{
-		"label"										"+"
+		"label"										""
 		"command"									"OpenCreateMultiplayerGameDialog"
 	}
 	"Items"
