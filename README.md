@@ -3,7 +3,9 @@
 
 This version is entirely based on [dqz's edit](https://github.com/irodionr/dqz_hud/tree/m0re) of [m0rehud](https://github.com/Hypnootize/m0rehud) while retaining mostly the same parts (except mostly menus)
 
-Download: <a href=https://github.com/TechnoSL/m0re_techno/archive/refs/heads/master.zip>"bleeding-edge" version (latest commit)</a> //  <a href=https://comfig.app/huds/page/m0re-techno>also available on comfig huds! (more stable version, will update less often)</a>
+Download: <a href=https://github.com/TechnoSL/m0re_techno/archive/refs/heads/master.zip>"bleeding-edge" version (latest commit)</a> //  <a href=https://comfig.app/huds/page/m0re-techno>also available on comfig huds! (more stable version, will update less often)</a> // <a href=https://github.com/TechnoSL/m0re_techno/archive/refs/heads/legacy.zip>Legacy Edition (pre-m0rehud 7 makeover)</a>
+
+
 # Credits
 Hypnotize - maintaining m0rehud + this sexy customization menu
 
