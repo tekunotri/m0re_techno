@@ -1,7 +1,7 @@
 # m0re-techno - legacy edition
 This is a version of the hud before i remade it in m0rehud 7, it is kept here for the people who prefer it i guess
 
-[there's also some fonts i like included, click here to see previews!](https://github.com/TechnoSL/m0re_techno/blob/master/customizations/Fonts/fonts.md)
+[alternative fonts showcase](https://github.com/TechnoSL/m0re_techno/blob/legacy/customizations/Fonts/fonts.md)
 
 This version is entirely based on [dqz's edit](https://github.com/irodionr/dqz_hud/tree/m0re) of [m0rehud](https://github.com/Hypnootize/m0rehud) while retaining mostly the same parts (except mostly menus)
 
@@ -24,5 +24,3 @@ and many more i don't recall, very appreciated
 # Special Thanks
 
 everyone in huds.tf discord for helping me with any issues i had while editing the hud
-
-ps: i might be forgetful to update on comfig, so be sure to check out the actual repo to get the most up-to-date version
