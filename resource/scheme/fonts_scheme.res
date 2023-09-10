@@ -2129,7 +2129,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2 Build"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"8"
 				"weight"									"500"
 				"additive"									"0"
@@ -2140,7 +2140,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2 Build"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -2151,7 +2151,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2 Build"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
@@ -2162,7 +2162,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2 Build"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2173,7 +2173,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2 Secondary"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"8"
 				"weight"									"500"
 				"additive"									"0"
@@ -2194,7 +2194,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2 Secondary"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"9"
 				"weight"									"500"
 				"additive"									"0"
@@ -2205,7 +2205,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2 Secondary"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
@@ -2216,7 +2216,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2 Secondary"
+				"name"										"AvenirLTStd-Black"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"

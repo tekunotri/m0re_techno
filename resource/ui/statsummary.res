@@ -222,7 +222,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"StatData"
 		"xpos"										"0"
-		"ypos"										"105"
+		"ypos"										"90"
 		"zpos"										"1"
 		"wide"										"f0"
 		"tall"										"f0"
