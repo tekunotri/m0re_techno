@@ -65,8 +65,8 @@
 		"tall"										"12"
 		"visible"									"1"
 		"enabled"									"0"
-		"font"										"m0refont11"
-		"font_minmode"								"m0refont10"
+		"font"										"m0refont11Shadow"
+		"font_minmode"								"m0refont10Shadow"
 		"labelText"									"%targetname%"
 		"textAlignment"								"west"
 		"disabledfgcolor2_override"					"White"
@@ -108,7 +108,35 @@
 		"HealthDeathWarningColor"					"HUDDeathWarning"
 		"TextColor"									"HudOffWhite"
 	}
+	"KillStreakAnchor"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"KillStreakAnchor"
+		"xpos"										"102"
+		"xpos_minmode"								"92"
+		"ypos"										"1"
+		"ypos_minmode"								"0"
+		"wide"										"8"
+		"tall"										"8"
+		"visible"									"1"
+		"enabled"									"1"
+	}
+	"KillStreakIcon"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"KillStreakIcon"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"12"
+		"wide"										"11"
+		"tall"										"11"
+		"visible"									"0"
+		"enabled"									"1"
+		"image"										"logos/killstreaks/streak_white"
+		"scaleImage"								"1"
 
+		"pin_to_sibling" 							"KillStreakAnchor"
+	}
 
 
 	//==================================================================================================================================================

@@ -97,5 +97,15 @@
 			"font"		"resource/scheme/fonts/fonts_optional/stratum2-bold.ttf"
 			"name"		"Stratum2 Bd Bold"
 		}
+		"219"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/FOT-SkipStd-B.otf"
+			"name"		"SkipStd-B"
+		}
+		"220"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/OCRAStd.ttf"
+			"name"		"OCR A Std"
+		}
 	}
 }
