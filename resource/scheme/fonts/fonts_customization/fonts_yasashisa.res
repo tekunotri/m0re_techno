@@ -317,7 +317,8 @@
 		{
 			"1"
 			{
-				"name"										"YasashisaGothicBoldV2 bold"
+				"name"										"YasashisaGothicBoldV2
+				bold"
 			}
 		}
 		// loadout stuff
