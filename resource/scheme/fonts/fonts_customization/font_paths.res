@@ -107,5 +107,10 @@
 			"font"		"resource/scheme/fonts/fonts_optional/OCRAStd.ttf"
 			"name"		"OCR A Std"
 		}
+		"221"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/YasashisaGothicBold-V2.ttf"
+			"name"		"YasashisaGothicBoldV2 bold"
+		}
 	}
 }

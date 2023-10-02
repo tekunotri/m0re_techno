@@ -194,14 +194,15 @@
 				"antialias"									"1"
 			}
 		}
-		"Showcase_OCR"
+		"Showcase_Yasashisa"
 		{
 			"1"
 			{
-				"name"										"OCR A Std"
+				"name"										"YasashisaGothicBoldV2 bold"
 				"tall"										"10"
 				"antialias"									"1"
 			}
 		}
+
 	}
 }
