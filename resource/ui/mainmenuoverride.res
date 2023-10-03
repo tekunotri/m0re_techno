@@ -1,6 +1,8 @@
 #base "customizations/#customization_menu/hud_resolution_menu_read.res"
 #base "customizations/#customization_menu/hud_resolution_menu.res"
 #base "customizations/#customization_menu/hud_customization.res"
+#base "../dev/preload.res"
+#base "../dev/reloadmenu.res"
 
 "Resource/UI/MainMenuOverride.res"
 {
@@ -1642,28 +1644,5 @@
 			"fgcolor"								"White"
 			"centerwrap"							"1"
 		}
-	}
-
-	//==================================================================================================================================================
-	// PRELOADING
-	//==================================================================================================================================================
-
-	"MenuThumbMissingFix"
-	{
-		"ControlName"								"ImagePanel"
-		"fieldName"									"MenuThumbMissingFix"
-		"xpos"										"9999"
-		"visible"									"1"
-		"enabled"									"1"
-		"image"										"maps/menu_thumb_missing"
-	}
-	"CPHighlight"
-	{
-		"ControlName"								"ImagePanel"
-		"fieldName"									"CPHighlight"
-		"xpos"										"9999"
-		"visible"									"1"
-		"enabled"									"1"
-		"image"										"../sprites/obj_icons/capture_highlight"
 	}
 }
