@@ -194,6 +194,15 @@
 				"antialias"									"1"
 			}
 		}
+		"Showcase_OCR"
+		{
+			"1"
+			{
+				"name"										"OCR A Std"
+				"tall"										"10"
+				"antialias"									"1"
+			}
+		}
 		"Showcase_Yasashisa"
 		{
 			"1"
