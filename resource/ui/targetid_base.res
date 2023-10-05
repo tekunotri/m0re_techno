@@ -113,7 +113,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"KillStreakAnchor"
 		"xpos"										"97"
-		"xpos_minmode"								"92"
+		"xpos_minmode"								"87"
 		"ypos"										"1"
 		"ypos_minmode"								"0"
 		"wide"										"8"
