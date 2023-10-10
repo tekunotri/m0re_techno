@@ -326,7 +326,7 @@
 			"1"
 			{
 				"name"										"cinecaption"
-				"tall"										"11"
+				"tall"										"10"
 			}
 		}
 		"ItemFontNameLarge"
