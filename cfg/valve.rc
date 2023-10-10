@@ -19,3 +19,7 @@ stuffcmds
 startupmenu
 
 sv_unlockedchapters 99
+
+// custom hud stuff
+cl_hud_minmode 0
+vgui_cache_res_files 0
