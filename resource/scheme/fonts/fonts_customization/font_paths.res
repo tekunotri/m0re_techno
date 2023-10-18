@@ -117,5 +117,10 @@
 			"font"		"resource/scheme/fonts/fonts_optional/grisaia.ttf"
 			"name"		"Grisaia Custom SP Medium"
 		}
+		"223"
+		{
+			"font"		"resource/scheme/fonts/surface_medium.otf"
+			"name"		"Surface-Medium"
+		}
 	}
 }

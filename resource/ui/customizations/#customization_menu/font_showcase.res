@@ -217,7 +217,16 @@
 			"1"
 			{
 				"name"										"Grisaia Custom SP Medium"
-				"tall"										"11"
+				"tall"										"10"
+				"antialias"									"1"
+			}
+		}
+		"Showcase_Surface"
+		{
+			"1"
+			{
+				"name"										"Surface-Medium"
+				"tall"										"10"
 				"antialias"									"1"
 			}
 		}
