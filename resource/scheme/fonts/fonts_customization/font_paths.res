@@ -112,5 +112,10 @@
 			"font"		"resource/scheme/fonts/fonts_optional/YasashisaGothicBold-V2.ttf"
 			"name"		"YasashisaGothicBoldV2 bold"
 		}
+		"222"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/grisaia.ttf"
+			"name"		"Grisaia Custom SP Medium"
+		}
 	}
 }

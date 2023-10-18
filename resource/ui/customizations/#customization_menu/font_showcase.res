@@ -212,6 +212,14 @@
 				"antialias"									"1"
 			}
 		}
-
+		"Showcase_Grisaia"
+		{
+			"1"
+			{
+				"name"										"Grisaia Custom SP Medium"
+				"tall"										"11"
+				"antialias"									"1"
+			}
+		}
 	}
 }
