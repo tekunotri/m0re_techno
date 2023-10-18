@@ -228,7 +228,7 @@
 			"1"
 			{
 				"name"										"Grisaia Custom SP Medium"
-				"tall"										"42"
+				"tall"										"50"
 				"antialias" 								"1"
 				"dropshadow"								"1"
 			}
@@ -238,7 +238,7 @@
 			"1"
 			{
 				"name"										"Grisaia Custom SP Medium"
-				"tall"										"42"
+				"tall"										"50"
 				"antialias" 								"1"
 				"outline"									"1"
 			}
@@ -248,7 +248,7 @@
 			"1"
 			{
 				"name"										"Grisaia Custom SP Medium"
-				"tall"										"50"
+				"tall"										"72"
 				"antialias" 								"1"
 			}
 		}
@@ -257,7 +257,7 @@
 			"1"
 			{
 				"name"										"Grisaia Custom SP Medium"
-				"tall"										"50"
+				"tall"										"72"
 				"antialias" 								"1"
 				"outline"									"1"
 			}
