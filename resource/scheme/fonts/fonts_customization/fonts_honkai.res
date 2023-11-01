@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"SDK_JP_Web Regular"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

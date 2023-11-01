@@ -62,7 +62,7 @@
 			"xpos"									"0"
 			"ypos"									"cs-0.5"
 			"zpos"									"1"
-			"wide"									"50"
+			"wide"									"40"
 			"tall"									"f0"
 			"visible"								"1"
 			"enabled"								"1"
@@ -154,7 +154,7 @@
 	}
 	"itempanel"
 	{
-		"xpos"										"r200"		// r200 To Re-Enable
-		"ypos"										"0"		// 0 To Re-Enable
+		"xpos"										"9999"		// r200 To Re-Enable
+		"ypos"										"9999"		// 0 To Re-Enable
 	}
 }

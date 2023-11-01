@@ -2,7 +2,7 @@
 {
 	"AmmoInClip"
 	{
-		"font"										"m0refont72Outline"
+		"font"										"m0refont72"
 	}
 	"AmmoInClipShadow"
 	{
@@ -11,7 +11,7 @@
 	"AmmoInReserve"
 	{
 		"ypos"										"-4"
-		"font"										"m0refont24Outline"
+		"font"										"m0refont24"
 	}
 	"AmmoInReserveShadow"
 	{
@@ -19,7 +19,7 @@
 	}
 	"AmmoNoClip"
 	{
-		"font"										"m0refont72Outline"
+		"font"										"m0refont72"
 	}
 	"AmmoNoClipShadow"
 	{

@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"ImoparaCustom Edit"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

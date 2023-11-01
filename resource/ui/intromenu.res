@@ -80,13 +80,13 @@
 		"labelText"									"CONTINUE (&E) "
 		"textAlignment"								"center"
 		"command"									"skip"
-		"font"										"Coolvetica15"
+		"font"										"m0refont16Shadow"
 
 		"paintbackground"							"0"
 		"paintborder"								"0"
 
 		"defaultFgColor_override"					"White"
-		"armedFgColor_override"						"Menu Labels"
+		"armedFgColor_override"						"Menu_Accent"
 		"depressedFgColor_override"					"White"
 
 		"pin_to_sibling"							"VideoCaption"
@@ -107,13 +107,13 @@
 		"labelText"									"BACK (&Q) "
 		"textAlignment"								"center"
 		"command"									"back"
-		"font"										"Coolvetica15"
+		"font"										"m0refont16Shadow"
 
 		"paintbackground"							"0"
 		"paintborder"								"0"
 
 		"defaultFgColor_override"					"White"
-		"armedFgColor_override"						"Menu Labels"
+		"armedFgColor_override"						"Menu_Accent"
 		"depressedFgColor_override"					"White"
 
 		"pin_to_sibling"							"Skip"

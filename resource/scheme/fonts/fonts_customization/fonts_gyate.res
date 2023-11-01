@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"Gyate-Luminescence"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

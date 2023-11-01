@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"Surface-Medium"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

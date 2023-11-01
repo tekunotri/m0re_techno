@@ -5,8 +5,8 @@
 	//====================================================================================================================================================
 	"Version"
 	{
-		"label"										"m0re_techno 7.1"
-		"command"									"engine showconsole; clear; echo m0re_techno v2.1; echo by techno, based on a edit of m0rehud by dqz; echo using some bits from various other huds, check github for full credits.; echo powered by m0rehud 7.1"
+		"label"										"m0rehud 7.1"
+		"command"									"engine showconsole; echo m0rehud by Hypnotize, created by m0re. Download new versions @ github.com/Hypnootize/m0rehud"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
@@ -16,7 +16,7 @@
 	}
 	"Create"
 	{
-		"label"										""
+		"label"										"+"
 		"command"									"OpenCreateMultiplayerGameDialog"
 	}
 	"Items"
@@ -54,7 +54,6 @@
 	{
 		"label"										"Workshop"
 		"command"									"engine OpenSteamWorkshopDialog"
-		"OnlyAtMenu"								"1"
 	}
 	"DemoUI"
 	{
@@ -76,12 +75,6 @@
 	//====================================================================================================================================================
 	// IN GAME BUTTONS
 	//====================================================================================================================================================
-	"Minmode"
-	{
-		"label"										"Toggle Minmode"
-		"command"									"engine toggle cl_hud_minmode"
-		"OnlyInGame"								"1"
-	}
 	"Disconnect"
 	{
 		"label"										"Disconnect"

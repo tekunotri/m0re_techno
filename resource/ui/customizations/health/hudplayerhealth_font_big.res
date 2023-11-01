@@ -30,6 +30,22 @@
 	{
 		"font"										"m0refont72"
 	}
+	"HealthValue_Shadow1"
+	{
+		"font"										"m0refont72"
+	}
+	"HealthValue_Shadow2"
+	{
+		"font"										"m0refont72"
+	}
+	"HealthValue_Shadow3"
+	{
+		"font"										"m0refont72"
+	}
+	"HealthValue_Shadow4"
+	{
+		"font"										"m0refont72"
+	}
 	"HealthValue_Shadow_Extra"
 	{
 		"font"										"m0refont72"

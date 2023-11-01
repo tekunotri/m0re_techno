@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"jf-openhuninn-1.1"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

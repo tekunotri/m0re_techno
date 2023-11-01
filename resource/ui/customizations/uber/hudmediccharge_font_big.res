@@ -2,7 +2,7 @@
 {
 	"ChargeLabelBig"
 	{
-		"font"										"m0refont72Outline"
+		"font"										"m0refont72"
 	}
 	"ChargeLabelBigShadow"
 	{

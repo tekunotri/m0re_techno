@@ -1,35 +1,5 @@
-"Resource/UI/HudKillStreakNotice.res"
-{
-	"Background"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"Background"
-		"xpos"			"c-250"
-		"ypos"			"110"
-		"ypos_minmode"	"9999"
-		"zpos"			"0"
-		"wide"			"500"
-		"tall"			"50"
-		"autoResize"	"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"PaintBackgroundType"	"0"
-		"bgcolor_override"		"TransparentMediumBlack"
-	}
-	"SplashLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"SplashLabel"
-		"font_override"	"m0refont10"
-		"labelText"		""
-		"textAlignment" "center"
-		"xpos"			"c-250"
-		"ypos"			"70"
-		"ypos_minmode"	"9999"
-		"zpos"			"2"
-		"wide"			"500"
-		"tall"			"50"
-		"autoResize"	"0"
-		"fgcolor"		"White"
-	}
-}
+// CUSTOMIZATIONS
+#base "../../cfg/m0re_killstreak_notice.txt"
+
+// BASE CONTENT
+#base "hudkillstreaknotice_base.res"

@@ -37,7 +37,7 @@
 			"zpos"									"-1"
 			"wide"									"p1.1"
 			"tall"									"f8"
-			"visible"								"0"
+			"visible"								"1"
 			"PaintBackground"						"0"
 			"border"								"ReplayDefaultBorder"
 			"proportionaltoparent"					"1"
@@ -72,8 +72,8 @@
 			"depressedFgColor_override"				"White"
 
 			"defaultBgColor_override"				"TransparentBlack"
-			"armedBgColor_override"					"Menu Labels"
-			"depressedBgColor_override"				"Menu Labels"
+			"armedBgColor_override"					"Menu_Accent"
+			"depressedBgColor_override"				"Menu_Accent"
 		}
 		"PartySlot0"
 		{

@@ -15,12 +15,12 @@
 		"SS_List_Text"										"255 255 255 255"
 		"SS_List_Text_Armed"								"0 0 0 255"
 		"SS_List_Button"									"26 23 20 210"
-		"SS_List_Button_Armed"								"255 0 63 255"
+		"SS_List_Button_Armed"								"255 0 127 255"
 
 		"SS_Button_Text"									"255 255 255 255"
 		"SS_Button_Text_Armed"								"255 255 255 255"
 		"SS_Button_BG"										"26 23 20 210"
-		"SS_Button_BG_Armed"								"255 0 63 255"
+		"SS_Button_BG_Armed"								"255 0 127 255"
 
 		"SS_Sheet_Text"										"255 255 255 255"
 		"SS_Sheet_Text_Selected"							"255 255 255 255"
@@ -30,11 +30,11 @@
 		"SS_RightClick_Menu_Text"							"255 255 255 255"
 		"SS_RightClick_Menu_Text_Armed"						"255 255 255 255"
 		"SS_RightClick_Menu_BG"								"26 23 20 210"
-		"SS_RightClick_Menu_BG_Armed"						"255 0 63 255"
+		"SS_RightClick_Menu_BG_Armed"						"255 0 127 255"
 		"SS_RightClick_Menu_Divider"						"255 255 255 255"
 
 		"SS_CheckButton_Text"								"255 255 255 255"
-		"SS_CheckButton_Text_Armed"							"255 0 63 255"
+		"SS_CheckButton_Text_Armed"							"255 0 127 255"
 		"SS_CheckButton_BG"									"26 23 20 210"
 		"SS_CheckButton_Armed"								"255 255 255 255"
 
@@ -60,7 +60,7 @@
 		"SS_ScrollBar_Button_Icon"							"255 255 255 255"
 		"SS_ScrollBar_Button_Icon_Armed"					"255 255 255 255"
 		"SS_ScrollBar_Button_BG"							"26 23 20 210"
-		"SS_ScrollBar_Button_BG_Armed"						"255 0 63 255"
+		"SS_ScrollBar_Button_BG_Armed"						"255 0 127 255"
 
 		"SS_Text_Entry"										"255 255 255 255"
 		"SS_Text_Entry_Selected"							"0 0 0 255"
@@ -70,7 +70,7 @@
 		"SS_Console_Text_BG"								"26 23 20 210"
 		"SS_Console_Text_Selected"							"0 0 0 255"
 		"SS_Console_Text_BG_Selected"						"150 150 150 255"
-		"SS_Console_User_Input"								"255 0 63 255"
+		"SS_Console_User_Input"								"255 0 127 255"
 	}
 	"Fonts"
 	{
@@ -92,7 +92,7 @@
 				"tall"										"10"
 				"outline"									"1"
 				"dropshadow"								"0"
-				"antialias"									"1"
+				"antialias"									"0"
 			}
 		}
 		//=========================================================================================================================
@@ -190,7 +190,7 @@
 		"Menu.FgColor"										"SS_RightClick_Menu_Text"
 		"Menu.BgColor"										"SS_RightClick_Menu_BG"
 		"Menu.ArmedFgColor"									"SS_RightClick_Menu_Text_Armed"
-		"Menu.ArmedBgColor"									"SS_RightClick_Menu_Text_Armed"
+		"Menu.ArmedBgColor"									"SS_RightClick_Menu_BG_Armed"
 		"Menu.DividerColor"									"SS_RightClick_Menu_Divider"
 
 		"PropertySheet.TextColor"							"SS_Sheet_Text"
