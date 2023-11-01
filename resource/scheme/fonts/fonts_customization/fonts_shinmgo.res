@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"ShinMGoUpr-Medium"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

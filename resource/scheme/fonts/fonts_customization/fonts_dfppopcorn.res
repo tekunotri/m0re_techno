@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"DFPPOPCorn-W12"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

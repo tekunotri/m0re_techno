@@ -330,7 +330,7 @@
 		"fgcolor"									"White"
 	}
 	"ToggleLabelBG"
-	{
+	{	
 		"ControlName"								"Panel"
 		"fieldName"									"ToggleLabelBG"
 		"xpos"										"0"
@@ -338,8 +338,8 @@
 		"zpos"										"1"
 		"wide"										"80"
 		"tall"										"8"
-		"visible"									"0"
-		"enabled"									"0"
+		"visible"									"1"
+		"enabled"									"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
 		"bgcolor_override"							"TransparentMediumBlack"
@@ -349,7 +349,7 @@
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 	"ToggleLabel"
-	{
+	{	
 		"ControlName"								"CExLabel"
 		"fieldName"									"ToggleLabel"
 		"xpos"										"0"
@@ -357,8 +357,8 @@
 		"zpos"										"2"
 		"wide"										"70"
 		"tall"										"8"
-		"visible"									"0"
-		"enabled"									"0"
+		"visible"									"1"
+		"enabled"									"1"
 		"wrap"										"1"
 		"centerwrap"								"1"
 		"labelText"									"#Hud_Menu_Spy_Minus_Toggle"

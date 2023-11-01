@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"cinecaption"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

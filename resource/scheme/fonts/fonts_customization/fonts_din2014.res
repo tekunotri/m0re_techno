@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"DIN2014TFRegular"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

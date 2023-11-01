@@ -40,7 +40,6 @@
 	"HealthValue_Shadow3"
 	{
 		"font"										"m0refont48"
-
 	}
 	"HealthValue_Shadow4"
 	{

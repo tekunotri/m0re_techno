@@ -94,9 +94,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"SpectatorGUIHealth"
 		"xpos"										"5"
+		"xpos_minmode"								"5"
 		"ypos"										"-5"
 		"ypos_minmode"								"-4"
-		"wide"										"40"
+		"wide"										"45"
 		"wide_minmode"								"35"
 		"tall"										"40"
 		"tall_minmode"								"35"
@@ -112,8 +113,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"KillStreakAnchor"
-		"xpos"										"97"
-		"xpos_minmode"								"82"
+		"xpos"										"112"
+		"xpos_minmode"								"92"
 		"ypos"										"1"
 		"ypos_minmode"								"0"
 		"wide"										"8"
@@ -137,6 +138,7 @@
 
 		"pin_to_sibling" 							"KillStreakAnchor"
 	}
+
 
 
 	//==================================================================================================================================================

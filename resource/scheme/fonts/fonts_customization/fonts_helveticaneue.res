@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"Helvetica Neue LT"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

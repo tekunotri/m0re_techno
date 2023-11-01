@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"IBM Plex Sans SemiBold"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

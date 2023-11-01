@@ -369,7 +369,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud icons V8"
+				"name"										"m0rehud icons V9"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -378,7 +378,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud icons V8"
+				"name"										"m0rehud icons V9"
 				"tall"										"12"
 				"antialias"									"1"
 			}
@@ -387,7 +387,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud icons V8"
+				"name"										"m0rehud icons V9"
 				"tall"										"14"
 				"antialias"									"1"
 			}
@@ -396,7 +396,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud icons V8"
+				"name"										"m0rehud icons V9"
 				"tall"										"16"
 				"antialias"									"1"
 			}
@@ -405,7 +405,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud icons V8"
+				"name"										"m0rehud icons V9"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -414,7 +414,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud icons V8"
+				"name"										"m0rehud icons V9"
 				"tall"										"20"
 				"antialias"									"1"
 			}
@@ -423,7 +423,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud icons V8"
+				"name"										"m0rehud icons V9"
 				"tall"										"32"
 				"antialias"									"1"
 			}
@@ -3035,7 +3035,7 @@
 		"13"
 		{
 			"font"		"resource/scheme/fonts/m0rehud_icons.ttf"
-			"name"		"m0rehud icons V8"
+			"name"		"m0rehud icons V9"
 		}
 		"14"
 		{
@@ -3179,6 +3179,17 @@
 		{
 			"font"		"resource/scheme/fonts/FHIcons.otf"
 			"name"		"FlawHUDIcons"
+		}
+		"ClassIcons" // only used in loadout
+		{
+			"1"
+			{
+				"name"			"FlawHUDIcons"
+				"tall"			"62"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+			}
 		}
 	}
 }
