@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"YasashisaGothicBoldV2 bold"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

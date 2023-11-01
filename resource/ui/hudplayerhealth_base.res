@@ -212,7 +212,7 @@
 		"textAlignment"								"center"
 		"font"										"m0refont72"
 		"font_minmode"								"m0refont32"
-		"fgcolor"									"Health Numbers"
+		"fgcolor"									"Health_Numbers"
 
 		"pin_to_sibling"							"HealthAnchor"
 		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
@@ -342,7 +342,7 @@
 		"textAlignment"								"center"
 		"font"										"m0refont72"
 		"font_minmode"								"m0refont32"
-		"fgcolor"									"Extra Shadow"
+		"fgcolor"									"Black"
 		"alpha"										"0"
 
 		"pin_to_sibling"							"HealthValue_Shadow"

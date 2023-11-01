@@ -29,7 +29,7 @@
 			"xpos"									"0"
 			"ypos"									"190"
 			"wide"									"150"
-			"tall"									"14"
+			"tall"									"17"
 			"visible"								"1"
 
 			"SubButton"
@@ -39,10 +39,10 @@
 				"xpos"								"0"
 				"ypos"								"0"
 				"wide"								"150"
-				"tall"								"14"
+				"tall"								"17"
 				"visible"							"1"
 				"enabled"							"1"
-				"font"								"m0refont14Shadow"
+				"font"								"m0refont16Shadow"
 				"AllCaps"							"1"
 				"textAlignment"						"west"
 				"sound_depressed"					"UI/buttonclick.wav"
@@ -52,8 +52,8 @@
 				"paintborder"						"0"
 
 				"defaultFgColor_override"			"White"
-				"armedFgColor_override"				"Menu Labels"
-				"depressedFgColor_override"			"Menu Labels"
+				"armedFgColor_override"				"Menu_Accent"
+				"depressedFgColor_override"			"Menu_Accent"
 			}
 		}
 		"SaxxySettings"
@@ -105,10 +105,10 @@
 	{
 		"ControlName"								"Panel"
 		"fieldname"									"MainMenuAnchor"
-		"xpos"										"c-241"
+		"xpos"										"c-240"
 		"ypos"										"220"
-		"wide"										"10"
-		"tall"										"10"
+		"wide"										"0"
+		"tall"										"0"
 		"visible"									"0"
 		"enabled"									"0"
 	}
@@ -121,10 +121,10 @@
 		"ControlName"								"CPvPRankPanel"
 		"fieldName"									"RankPanel"
 		"xpos"										"-3"
-		"ypos"										"4"
+		"ypos"										"3"
 		"zpos"										"1"
 		"wide"										"200"
-		"tall"										"40"
+		"tall"										"43"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
 		"mouseinputenabled"							"0"
@@ -155,35 +155,58 @@
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
+	"CycleRankTypeButton"
+	{
+		"ControlName"								"CExImageButton"
+		"fieldName"									"CycleRankTypeButton"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"16"
+		"wide"										"130"
+		"tall"										"43"
+		"visible"									"1"
+		"enabled"									"1"
+		"command"									"open_rank_type_menu"
+		"actionsignallevel"							"1"
+		"proportionaltoparent"						"1"
+		"sound_depressed"							"UI/buttonclick.wav"
+
+		"paintbackground"							"0"
+		"paintborder"								"0"
+
+		"alpha"										"0"
+
+		"pin_to_sibling"							"RankPanel"
+	}
 	"NoGCMessage"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"NoGCMessage"
-		"xpos"										"0"
-		"ypos"										"17"
-		"zpos"										"-99"
+		"xpos"										"-3"	// No clue why this is offset tbh
+		"ypos"										"0"
+		"zpos"										"0"
 		"wide"										"200"
-		"tall"										"100"
+		"tall"										"17"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"mouseinputenabled"							"0"
-		"wrap"										"1"
-
 		"AllCaps"									"1"
 
-		"font"										"m0refont14Shadow"
+		"font"										"m0refont16Shadow"
 		"fgcolor"									"Red"
 		"labelText"									"No Connection To Steam"
 		"textAlignment"								"west"
 
-		"pin_to_sibling"							"RankPanel"
+		"pin_to_sibling"							"MainMenuAnchor"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 	"NoGCImage"
 	{
 		"ControlName"								"ImagePanel"
 		"fieldName"									"NoGCImage"
 		"xpos"										"0"
-		"ypos"										"-30"
+		"ypos"										"5"
 		"zpos"										"-99"
 		"wide"										"40"
 		"tall"										"40"
@@ -199,31 +222,6 @@
 		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
-	"CycleRankTypeButton"
-	{
-		"ControlName"								"CExImageButton"
-		"fieldName"									"CycleRankTypeButton"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"16"
-		"wide"										"130"
-		"tall"										"40"
-		"visible"									"1"
-		"enabled"									"1"
-		"command"									"open_rank_type_menu"
-		"actionsignallevel"							"1"
-		"proportionaltoparent"						"1"
-		"sound_depressed"							"UI/buttonclick.wav"
-		"sound_released"							"UI/buttonclickrelease.wav"
-
-		"paintbackground"							"0"
-		"paintborder"								"0"
-
-		"alpha"										"0"
-
-		"pin_to_sibling"							"RankPanel"
-	}
-
 	//==================================================================================================================================================
 	// MAIN MENU BUTTONS
 	//==================================================================================================================================================
@@ -234,8 +232,8 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"15"
-		"wide"										"250"
-		"tall"										"14"
+		"wide"										"150"
+		"tall"										"17"
 		"visible"									"0"
 
 		"pin_to_sibling"							"MainMenuAnchor"
@@ -251,7 +249,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -261,8 +259,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Servers"
@@ -270,10 +268,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Servers"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"150"
-		"tall"										"14"
+		"tall"										"17"
 
 		"pin_to_sibling"							"Version"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -290,7 +288,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -300,8 +298,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Create"
@@ -309,14 +307,14 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Create"
 		"xpos"										"-91"
-		"ypos"										"3"
+		"ypos"										"-1"
 		"zpos"										"16"
 		"wide"										"22"
-		"tall"										"14"
+		"tall"										"17"
 
 		"pin_to_sibling"							"Servers"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_corner_to_sibling"						"PIN_CENTER_LEFT"
+		"pin_to_sibling_corner"						"PIN_CENTER_RIGHT"
 
 		"SubButton"
 		{
@@ -339,8 +337,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Items"
@@ -348,10 +346,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Items"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"150"
-		"tall"										"14"
+		"tall"										"17"
 
 		"pin_to_sibling"							"Servers"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -368,7 +366,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -378,8 +376,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Store"
@@ -387,10 +385,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Store"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"150"
-		"tall"										"14"
+		"tall"										"17"
 
 		"pin_to_sibling"							"Items"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -407,7 +405,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -417,8 +415,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Settings"
@@ -426,10 +424,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Settings"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"150"
-		"tall"										"14"
+		"tall"										"17"
 
 		"pin_to_sibling"							"Store"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -446,7 +444,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -456,8 +454,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Advanced"
@@ -465,10 +463,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Advanced"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"150"
-		"tall"										"14"
+		"tall"										"17"
 
 		"pin_to_sibling"							"Settings"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -485,7 +483,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -495,8 +493,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"HUDOptions"
@@ -504,10 +502,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"HUDOptions"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"150"
-		"tall"										"14"
+		"tall"										"17"
 
 		"pin_to_sibling"							"Advanced"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -524,7 +522,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -534,8 +532,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Workshop"
@@ -543,10 +541,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Workshop"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"150"
-		"tall"										"14"
+		"tall"										"17"
 
 		"pin_to_sibling"							"HUDOptions"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -563,7 +561,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -573,8 +571,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"DemoUI"
@@ -582,10 +580,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"DemoUI"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"150"
-		"tall"										"14"
+		"tall"										"17"
 
 		"pin_to_sibling"							"Workshop"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -602,7 +600,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -612,8 +610,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Contracker"
@@ -621,10 +619,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Contracker"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"150"
-		"tall"										"14"
+		"tall"										"17"
 
 		"pin_to_sibling"							"DemoUI"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -641,7 +639,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -651,8 +649,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Quit"
@@ -660,10 +658,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Quit"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"150"
-		"tall"										"14"
+		"tall"										"17"
 
 		"pin_to_sibling"							"Contracker"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -680,7 +678,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -690,63 +688,23 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 
 	//==================================================================================================================================================
 	// INGAME BUTTONS
 	//==================================================================================================================================================
-	"Minmode"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldname"									"Minmode"
-		"xpos"										"0"
-		"ypos"										"3"
-		"zpos"										"15"
-		"wide"										"150"
-		"tall"										"14"
-		"visible"									"0"
-
-		"pin_to_sibling"							"HUDOptions"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
-
-		"SubButton"
-		{
-			"ControlName"							"CExImageButton"
-			"fieldName"								"SubButton"
-			"xpos"									"0"
-			"ypos"									"0"
-			"wide"									"f0"
-			"tall"									"f0"
-			"visible"								"1"
-			"enabled"								"1"
-			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
-			"AllCaps"								"1"
-			"textAlignment"							"west"
-			"sound_depressed"						"UI/buttonclick.wav"
-			"sound_released"						"UI/buttonclickrelease.wav"
-
-			"paintbackground"						"0"
-			"paintborder"							"0"
-
-			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
-		}
-	}
 	"Disconnect"
 	{
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Disconnect"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"150"
-		"tall"										"14"
+		"tall"										"17"
 		"visible"									"0"
 
 		"pin_to_sibling"							"Contracker"
@@ -764,7 +722,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -774,8 +732,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"QuitGame"
@@ -783,10 +741,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"QuitGame"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"150"
-		"tall"										"14"
+		"tall"										"17"
 		"visible"									"0"
 
 		"pin_to_sibling"							"Disconnect"
@@ -804,7 +762,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont14Shadow"
+			"font"									"m0refont16Shadow"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -814,8 +772,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Vote"
@@ -823,10 +781,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Vote"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"1"
 		"zpos"										"15"
 		"wide"										"20"
-		"tall"										"14"
+		"tall"										"17"
 		"visible"									"1"
 
 		"pin_to_sibling"							"MainMenuAnchor"
@@ -851,8 +809,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Mute"
@@ -863,7 +821,7 @@
 		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"20"
-		"tall"										"14"
+		"tall"										"17"
 		"visible"									"1"
 
 		"pin_to_sibling"							"Vote"
@@ -890,8 +848,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Report"
@@ -902,7 +860,7 @@
 		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"20"
-		"tall"										"14"
+		"tall"										"17"
 		"visible"									"1"
 
 		"pin_to_sibling"							"Mute"
@@ -929,8 +887,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Achievements"
@@ -941,7 +899,7 @@
 		"ypos"										"0"
 		"zpos"										"15"
 		"wide"										"20"
-		"tall"										"14"
+		"tall"										"17"
 		"visible"									"1"
 		"command"									"OpenAchievementsDialog"
 
@@ -969,8 +927,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 
@@ -982,10 +940,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Notifications_ShowButtonPanel"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"15"
-		"wide"										"150"
-		"tall"										"14"
+		"wide"										"100"
+		"tall"										"17"
 		"visible"									"1"
 
 		"pin_to_sibling"							"QuitGame"
@@ -996,30 +954,33 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"Notifications_CountLabel"
-			"font"									"m0refont14Shadow"
-			"labelText"								"%noticount%"
-			"textAlignment"							"east"
-			"xpos"									"0"
-			"ypos"									"0"
+			"xpos"									"rs1"
+			"ypos"									"cs-0.5"
 			"zpos"									"4"
-			"wide"									"95"
-			"tall"									"14"
+			"wide"									"30"
+			"tall"									"f0"
 			"visible"								"1"
 			"enabled"								"1"
+			"proportionaltoparent"					"1"
+			"mouseinputenabled"						"0"
+			"font"									"m0refont16Shadow"
+			"labelText"								"%noticount%"
+			"textAlignment"							"east"
 			"fgcolor"								"255 200 0 255"
 		}
 		"Notifications_ShowButtonPanel_SB"
 		{
 			"ControlName"							"CExImageButton"
 			"fieldName"								"Notifications_ShowButtonPanel_SB"
-			"xpos"									"0"
-			"ypos"									"0"
+			"xpos"									"cs-0.5"
+			"ypos"									"cs-0.5"
 			"zpos"									"15"
-			"wide"									"150"
-			"tall"									"14"
+			"wide"									"f0"
+			"tall"									"f0"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont14Shadow"
+			"proportionaltoparent"					"1"
+			"font"									"m0refont16Shadow"
 			"labeltext"								"Notification"
 			"AllCaps"								"1"
 			"textAlignment"							"west"
@@ -1032,8 +993,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 
@@ -1086,8 +1047,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Reload Sound"
@@ -1124,8 +1085,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Reload Hud"
@@ -1162,8 +1123,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Toggle Netgraph"
@@ -1200,8 +1161,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Toggle Contracts"
@@ -1238,8 +1199,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 	"Toggle Chat"
@@ -1276,8 +1237,8 @@
 			"paintborder"							"0"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 	}
 
@@ -1320,8 +1281,8 @@
 			"depressedFgColor_override"				"White"
 
 			"defaultBgColor_override"				"TransparentBlack"
-			"armedBgColor_override"					"Menu Labels"
-			"depressedBgColor_override"				"Menu Labels"
+			"armedBgColor_override"					"Menu_Accent"
+			"depressedBgColor_override"				"Menu_Accent"
 		}
 	}
 	"MOTD_Panel"
@@ -1363,8 +1324,8 @@
 			"depressedBgColor_override"				"TransparentLightBlack"
 
 			"defaultFgColor_override"				"White"
-			"armedFgColor_override"					"Menu Labels"
-			"depressedFgColor_override"				"Menu Labels"
+			"armedFgColor_override"					"Menu_Accent"
+			"depressedFgColor_override"				"Menu_Accent"
 		}
 		"FriendsContainer"
 		{
@@ -1393,11 +1354,10 @@
 				"enabled"							"1"
 				"proportionaltoparent"				"1"
 				"use_proportional_insets"			"1"
-				"font"								"m0refont12"
+				"font"								"Coolvetica14"
 				"labelText"							"#TF_Competitive_Friends"
 				"textAlignment"						"west"
-				"textinsetx"						"5"
-				"textinsety"						"3"
+				"textinsetx"						"3"
 				"fgcolor"							"White"
 				"paintbackground"					"1"
 				"paintbackgroundtype"				"0"
@@ -1575,9 +1535,6 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TipSubLabel"
-			"font"									"m0refont11"
-			"labelText"								"%tipsubtext%"
-			"textAlignment"							"center"
 			"xpos"									"0"
 			"ypos"									"0"
 			"zpos"									"2"
@@ -1587,15 +1544,15 @@
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
 			"AllCaps"								"1"
+			"font"									"Coolvetica12"
+			"labelText"								"%tipsubtext%"
+			"textAlignment"							"center"
 			"fgcolor"								"White"
 		}
 		"TipLabel"
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TipLabel"
-			"font"									"m0refont11"
-			"labelText"								"%tiptext%"
-			"textAlignment"							"center"
 			"xpos"									"0"
 			"ypos"									"0"
 			"zpos"									"2"
@@ -1605,6 +1562,9 @@
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
 			"AllCaps"								"1"
+			"font"									"Coolvetica12"
+			"labelText"								"%tiptext%"
+			"textAlignment"							"center"
 			"fgcolor"								"White"
 		}
 	}
@@ -1629,7 +1589,7 @@
 		"resize_to_text"							"1"
 		"padding_height"							"15"
 
-		"attriblabel"
+		"AttribLabel"
 		{
 			"font"									"ItemFontAttribLarge"
 			"xpos"									"0"

@@ -17,9 +17,9 @@
 		"name_width"								"85"
 		"nemesis_width"								"15"
 		"class_width"								"15"
-		"score_width"								"30"
-		"ping_width"								"30"
-		"killstreak_width"							"24"
+		"score_width"								"20"
+		"ping_width"								"20"
+		"killstreak_width"							"12"
 		"killstreak_image_width"					"12"
 	}
 
@@ -36,7 +36,7 @@
 		"enabled"									"1"
 		"linespacing"								"18"
 		"linegap"									"0"
-		"fgcolor"									"m0reBlue"
+		"fgcolor"									"blue"
 	}
 	"RedPlayerList"
 	{
@@ -51,7 +51,7 @@
 		"enabled"									"1"
 		"linespacing"								"18"
 		"linegap"									"0"
-		"textcolor"									"m0reRed"
+		"textcolor"									"red"
 	}
 
 	//==================================================================================================================================================
@@ -111,7 +111,7 @@
 		"proportionaltoparent"						"1"
 		"PaintBackground"							"1"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"m0reBlue"
+		"bgcolor_override"							"Blue"
 
 		"pin_to_sibling"							"WhiteBG"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -214,7 +214,7 @@
 		"proportionaltoparent"						"1"
 		"PaintBackground"							"1"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"m0reRed"
+		"bgcolor_override"							"Red"
 
 		"pin_to_sibling"							"WhiteBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"

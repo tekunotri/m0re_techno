@@ -41,7 +41,7 @@
 		//=========================================================================================
 		// REMOVES "HEALER" LABEL
 		//=========================================================================================
-		//"TF_playerid_healer"								""
+		"TF_playerid_healer"								""
 
 		//=========================================================================================
 		// REMOVES "HEALING" LABEL
@@ -92,6 +92,7 @@
 		"TF_Weapon_Medigun_ExpertMVMRareLoot"				"⁠Diamond Botkiller Medi Gun Mk.I"
 		"TF_Weapon_Medigun_AdvancedMVMLoot_Engineer"		"⁠Silver Botkiller Medi Gun Mk.II"
 		"TF_Weapon_Medigun_AdvancedMVMRareLoot_Engineer"	"⁠Gold Botkiller Medi Gun Mk.II"
+				"TF_Weapon_Medigun_AdvancedMVMRareLoot_Engineer"	"⁠Gold Botkiller Medi Gun Mk.II"
 
 		//=========================================================================================
 		// TEAM/CHAT STUFF

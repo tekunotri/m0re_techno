@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"OCR A Std"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

@@ -1,4 +1,4 @@
-"Resource/UI/HudMatchStatus.res"
+"Resource/UI/HudMatchStatus_Base.res"
 {
 	"HudMatchStatus"
 	{
@@ -141,7 +141,7 @@
 			"ControlName"							"CExLabel"
 			"fieldName"								"TimePanelValue"
 			"xpos"									"cs-0.5"
-			"ypos"									"-2"
+			"ypos"									"0"
 			"zpos"									"3"
 			"wide"									"f0"
 			"tall"									"15"

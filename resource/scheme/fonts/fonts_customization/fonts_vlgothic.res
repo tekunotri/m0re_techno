@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"VL Gothic Regular"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

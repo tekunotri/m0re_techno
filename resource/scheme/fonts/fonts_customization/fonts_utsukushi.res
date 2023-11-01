@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"02UtsukushiMincho"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

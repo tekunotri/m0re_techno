@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"Stratum2 Bd Bold"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"

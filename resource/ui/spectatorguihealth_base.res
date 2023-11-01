@@ -33,8 +33,8 @@
 	{
 		"ControlName"								"ImagePanel"
 		"fieldName"									"PlayerStatusHealthBonusImage"
-		"xpos"										"13"
-		"xpos_minmode"								"11"
+		"xpos"										"15"
+		"xpos_minmode"								"12"
 		"ypos"										"14"
 		"ypos_minmode"								"13"
 		"zpos"										"-1"
@@ -52,11 +52,12 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"HealthValue_Target"
-		"xpos"										"-6"
+		"xpos"										"-5"	// I hate this but it's better than having a huge gap between health and name
+		"xpos_minmode"								"-2"
 		"ypos"										"0"
 		"zpos"										"20"
-		"wide"										"50"
-		"wide_minmode"								"45"
+		"wide"										"55"	// Made this larger so it can fit MvM bosses with 4 digit health,
+		"wide_minmode"								"40"	// make sure it uses the same inside HealthIconPanel.res
 		"tall"										"40"
 		"tall_minmode"								"35"
 		"visible"									"1"
@@ -66,7 +67,7 @@
 		"labeltext"									"%Health%"
 		"font"										"m0refont24"
 		"font_minmode"								"m0refont18"
-		"fgcolor"									"Health Numbers"
+		"fgcolor"									"Health_Numbers"
 	}
 	"HealthValue_Target_Shadow"
 	{
@@ -75,8 +76,8 @@
 		"xpos"										"-1"
 		"ypos"										"-1"
 		"zpos"										"19"
-		"wide"										"50"
-		"wide_minmode"								"45"
+		"wide"										"55"
+		"wide_minmode"								"40"
 		"tall"										"40"
 		"tall_minmode"								"35"
 		"visible"									"1"

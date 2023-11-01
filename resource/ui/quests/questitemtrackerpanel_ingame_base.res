@@ -120,7 +120,7 @@
 					"textinsety"					"-1"
 					"TextAlignment"					"center"
 					"proportionaltoparent"			"1"
-					"fgcolor_override"		"Black"
+					"fgcolor_override"				"Black"
 				}
 			}
 			"ProgressBarJustEarned"					// current completed
