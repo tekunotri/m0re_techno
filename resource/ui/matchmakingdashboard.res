@@ -37,7 +37,7 @@
 			"zpos"									"-1"
 			"wide"									"p1.1"
 			"tall"									"f8"
-			"visible"								"1"
+			"visible"								"0"
 			"PaintBackground"						"0"
 			"border"								"ReplayDefaultBorder"
 			"proportionaltoparent"					"1"
@@ -400,7 +400,7 @@
 					"xpos"							"cs-0.5"
 					"wide"							"150"
 				}
-				
+
 				"visible"							"1"
 				"enabled"							"1"
 				"font"								"HudFontSmallestBold"
