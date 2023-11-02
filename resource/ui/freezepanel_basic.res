@@ -154,7 +154,7 @@
 	}
 	"itempanel"
 	{
-		"xpos"										"9999"		// r200 To Re-Enable
-		"ypos"										"9999"		// 0 To Re-Enable
+		"xpos"										"r200"		// r200 To Re-Enable
+		"ypos"										"0"		// 0 To Re-Enable
 	}
 }

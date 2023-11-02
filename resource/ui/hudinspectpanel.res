@@ -13,7 +13,7 @@
 		"paintborder"								"0"
 		"paintBackground"							"1"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"TransparentLightBlack"
+		"bgcolor_override"							"TransparentBlack"
 
 		"model_ypos"								"10"
 		"model_center_x"							"1"
