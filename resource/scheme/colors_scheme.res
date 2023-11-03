@@ -301,6 +301,8 @@
 		"LOGSniper"			"140 70 70 255"
 		"LOGSpy"			"158 65 65 255"
 		"MenuShader"		"0 0 0 100"
+		"HudBlackFH"		"0 0 0 230"
+
 	}
 	"BaseSettings"
 	{
