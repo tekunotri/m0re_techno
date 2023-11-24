@@ -572,8 +572,9 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"					"QualityColorNormal"
 
-			"image"											"loadout_rect"
+			"image"											"backpack_rect_color"
 			"src_corner_height"								"24"
 			"src_corner_width"								"24"
 			"draw_corner_width"								"5"
@@ -591,79 +592,14 @@
 		}
 		"LoadoutItemMouseOverBorder"
 		{
-			"inset" "0 0 0 0"
-			Left
-			{
-				"1"
-				{
-					"color" "0 0 0 0"
-					"offset" "1 1"
-				}
-				"2"
-				{
-					"color" "60 54 53 255"
-					"offset" "1 1"
-				}
-				"3"
-				{
-					"color" "60 54 53 255"
-					"offset" "1 1"
-				}
-			}
-			Right
-			{
-				"1"
-				{
-					"color" "0 0 0 0"
-					"offset" "1 1"
-				}
-				"2"
-				{
-					"color" "60 54 53 255"
-					"offset" "1 1"
-				}
-				"3"
-				{
-					"color" "60 54 53 255"
-					"offset" "1 1"
-				}
-			}
-			Top
-			{
-				"1"
-				{
-					"color" "0 0 0 0"
-					"offset" "1 1"
-				}
-				"2"
-				{
-					"color" "60 54 53 255"
-					"offset" "1 1"
-				}
-				"3"
-				{
-					"color" "60 54 53 255"
-					"offset" "1 1"
-				}
-			}
-			Bottom
-			{
-				"1"
-				{
-					"color" "0 0 0 0"
-					"offset" "1 1"
-				}
-				"2"
-				{
-					"color" "60 54 53 255"
-					"offset" "1 1"
-				}
-				"3"
-				{
-					"color" "60 54 53 255"
-					"offset" "1 1"
-				}
-			}
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+
+			"image"					"loadout_rect_mouseover"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"
 		}
 		"LoadoutItemPopupBorder"
 		{

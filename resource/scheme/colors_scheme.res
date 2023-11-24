@@ -57,7 +57,7 @@
 		// MENUS
 		//----------------------------------------------------------------------------------
 		"Menu_Accent"										"255 0 63 255"
-		"Class_Selection"									"0 215 0 255"
+		"Class_Selection"									"128 255 0 255"
 
 		//----------------------------------------------------------------------------------
 		// CROSSHAIRS
@@ -201,7 +201,7 @@
 
 		"HTMLBackground"									"95 92 101 255"
 
-		"ItemAttribLevel"									"117 107 94 255"
+		"ItemAttribLevel"									"185 170 92 255"
 		"ItemAttribNeutral"									"255 255 255 255"
 		"ItemAttribPositive"								"153 204 255 255"
 		"ItemAttribNegative"								"255 64 64 255"
