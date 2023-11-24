@@ -111,7 +111,7 @@
 		"proportionaltoparent"						"1"
 		"PaintBackground"							"1"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"Blue"
+		"bgcolor_override"							"m0reBlue"
 
 		"pin_to_sibling"							"WhiteBG"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -214,7 +214,7 @@
 		"proportionaltoparent"						"1"
 		"PaintBackground"							"1"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"Red"
+		"bgcolor_override"							"m0reRed"
 
 		"pin_to_sibling"							"WhiteBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -431,7 +431,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"fgcolor"									"White"
-		"font"										"m0refont11Shadow"
+		"font"										"m0refont18Shadow"
 		"labelText"									"%mapname%"
 		"textAlignment"								"east"
 
@@ -480,7 +480,7 @@
 			"visible"								"1"
 			"enabled"								"0"
 			"font"									"m0refont48"
-			"disabledfgcolor2_override"				"White"
+			"disabledfgcolor2_override"				"m0reGreen"
 			"labelText"								"%kills%"
 			"textAlignment"							"east"
 
@@ -500,7 +500,7 @@
 			"visible"								"1"
 			"enabled"								"0"
 			"font"									"m0refont48"
-			"disabledfgcolor2_override"				"White"
+			"disabledfgcolor2_override"				"m0reRed"
 			"labelText"								"%deaths%"
 			"textAlignment"							"west"
 
