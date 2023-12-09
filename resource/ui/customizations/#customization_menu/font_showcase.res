@@ -230,6 +230,25 @@
 				"antialias"									"1"
 			}
 		}
+		"Showcase_Android"
+		{
+			"1"
+			{
+				"name"										"Android Insomnia Regular"
+				"tall"										"10"
+				"antialias"									"1"
+			}
+		}
+		"Showcase_Frak"
+		{
+			"1"
+			{
+				"name"										"Frak-Regular"
+				"tall"										"10"
+				"antialias"									"1"
+			}
+		}
+
 		"Crosshair_Showcase"
 		{
 			"1"

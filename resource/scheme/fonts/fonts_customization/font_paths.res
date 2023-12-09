@@ -122,5 +122,15 @@
 			"font"		"resource/scheme/fonts/surface_medium.otf"
 			"name"		"Surface-Medium"
 		}
+		"224"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/frak.ttf"
+			"name"		"Frak-Regular"
+		}
+		"225"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/AndroidInsomnia.ttf"
+			"name"		"Android Insomnia Regular"
+		}
 	}
 }
