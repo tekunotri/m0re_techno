@@ -1,5 +1,8 @@
 # m0re-techno
 
+![logo](https://b.catgirlsare.sexy/QvwTobyznZYz.png)
+
+yes. that is a sbubby.
 ![screenshot](https://b.catgirlsare.sexy/itxoWZzeuyH7.jpg)
 
 This version is entirely based on [dqz's edit](https://github.com/irodionr/dqz_hud/tree/m0re) of [m0rehud](https://github.com/Hypnootize/m0rehud) while retaining mostly the same parts (except mostly menus)
