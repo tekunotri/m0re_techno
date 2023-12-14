@@ -60,6 +60,22 @@
 		"xpos"										"9999"
 		"xpos_minmode"								"9999"
 	}
+	"HealthValue_Shadow1"
+	{
+		"visible"									"0"
+	}
+	"HealthValue_Shadow2"
+	{
+		"visible"									"0"
+	}
+	"HealthValue_Shadow3"
+	{
+		"visible"									"0"
+	}
+	"HealthValue_Shadow4"
+	{
+		"visible"									"0"
+	}
 	"HealthValue_Shadow_Extra"
 	{
 		"visible"									"0"
