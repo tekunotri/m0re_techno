@@ -132,5 +132,10 @@
 			"font"		"resource/scheme/fonts/fonts_optional/AndroidInsomnia.ttf"
 			"name"		"Android Insomnia Regular"
 		}
+		"226"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/Cerbetica.ttf"
+			"name"		"Cerbetica Bold"
+		}
 	}
 }

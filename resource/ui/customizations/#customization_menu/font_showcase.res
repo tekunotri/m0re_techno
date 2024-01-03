@@ -248,7 +248,15 @@
 				"antialias"									"1"
 			}
 		}
-
+		"Showcase_Cerbetica"
+		{
+			"1"
+			{
+				"name"										"Cerbetica Bold"
+				"tall"										"11"
+				"antialias"									"1"
+			}
+		}
 		"Crosshair_Showcase"
 		{
 			"1"
@@ -258,5 +266,6 @@
 				"antialias"									"1"
 			}
 		}
+
 	}
 }
