@@ -47,7 +47,23 @@
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 	}
-
+	"mod"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"mod"
+		"xpos"										"cs-0.5"
+		"ypos"										"0"
+		"zpos"										"4"
+		"wide"										"f0"
+		"tall"										"2"
+		"tall_minmode"								"1"
+		"visible"									"1"
+		"enabled"									"1"
+		"proportionaltoparent"						"1"
+		"image" "replay/thumbnails/mod"
+		"scaleImage" "1"
+		"drawcolor" "Crimson"
+	}
 
 
 	//==================================================================================================================================================
