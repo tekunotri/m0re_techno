@@ -103,6 +103,7 @@
 		"if_hybrid_single"
 		{
 			"xpos"									"cs-0.5"
+			"ypos"									"r65"
 		}
 		"if_no_flags"
 		{
