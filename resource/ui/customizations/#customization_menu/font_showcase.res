@@ -257,6 +257,24 @@
 				"antialias"									"1"
 			}
 		}
+		"Showcase_Mikachan"
+		{
+			"1"
+			{
+				"name"										"mikachan"
+				"tall"										"11"
+				"antialias"									"1"
+			}
+		}
+		"Showcase_Enigma"
+		{
+			"1"
+			{
+				"name"										"Enigmatic Regular"
+				"tall"										"11"
+				"antialias"									"1"
+			}
+		}
 		"Crosshair_Showcase"
 		{
 			"1"

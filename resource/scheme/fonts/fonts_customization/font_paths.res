@@ -137,5 +137,15 @@
 			"font"		"resource/scheme/fonts/fonts_optional/Cerbetica.ttf"
 			"name"		"Cerbetica Bold"
 		}
+		"227"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/mikachan.ttf"
+			"name"		"mikachan"
+		}
+		"228"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/Enigma.ttf"
+			"name"		"Enigmatic Regular"
+		}
 	}
 }
