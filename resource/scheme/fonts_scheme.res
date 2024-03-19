@@ -3180,16 +3180,5 @@
 			"font"		"resource/scheme/fonts/FHIcons.otf"
 			"name"		"FlawHUDIcons"
 		}
-		"ClassIcons" // only used in loadout
-		{
-			"1"
-			{
-				"name"			"FlawHUDIcons"
-				"tall"			"62"
-				"weight"		"0"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
 	}
 }

@@ -147,5 +147,10 @@
 			"font"		"resource/scheme/fonts/fonts_optional/Enigma.ttf"
 			"name"		"Enigmatic Regular"
 		}
+		"229"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/azuki.ttf"
+			"name"		"azuki_font"
+		}
 	}
 }

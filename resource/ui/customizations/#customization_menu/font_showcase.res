@@ -275,6 +275,15 @@
 				"antialias"									"1"
 			}
 		}
+		"Showcase_Azuki"
+		{
+			"1"
+			{
+				"name"										"azuki_font"
+				"tall"										"11"
+				"antialias"									"1"
+			}
+		}
 		"Crosshair_Showcase"
 		{
 			"1"
