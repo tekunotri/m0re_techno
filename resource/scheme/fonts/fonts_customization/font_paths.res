@@ -115,7 +115,7 @@
 		"222"
 		{
 			"font"		"resource/scheme/fonts/fonts_optional/grisaia.ttf"
-			"name"		"Grisaia Custom SP Medium"
+			"name"		"GrisaiaEdit"
 		}
 		"223"
 		{
