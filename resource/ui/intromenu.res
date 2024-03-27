@@ -46,7 +46,7 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"VideoCaption"
 		"xpos"										"0"
-		"ypos"										"-2"
+		"ypos"										"0"
 		"zpos"										"5"
 		"wide"										"299"
 		"tall"										"40"

@@ -171,7 +171,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2Crosshairs_m0re_V2"
+				"name"										"TF2Crosshairs_m0re_V3"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -288,7 +288,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2Crosshairs_m0re_V2"
+				"name"										"TF2Crosshairs_m0re_V3"
 				"tall"										"10"
 				"antialias"									"1"
 			}
