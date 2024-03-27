@@ -216,7 +216,7 @@
 		{
 			"1"
 			{
-				"name"										"Grisaia Custom SP Medium"
+				"name"										"GrisaiaEdit"
 				"tall"										"10"
 				"antialias"									"1"
 			}

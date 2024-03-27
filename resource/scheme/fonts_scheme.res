@@ -3175,7 +3175,7 @@
 				"range" "0x0000 0xFFFF"
 			}
 		}
-		"218"
+		"999"
 		{
 			"font"		"resource/scheme/fonts/FHIcons.otf"
 			"name"		"FlawHUDIcons"
