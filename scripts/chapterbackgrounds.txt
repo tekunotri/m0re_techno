@@ -3,10 +3,12 @@
 	1	"background_upward"
 	2	"background_gravelpit"
 	3	"serenity"
+	4	"background01"
 }
 "BackgroundMaps"
 {
 	1	"background_upward"
 	2	"background_gravelpit"
 	3	"serenity"
+	4	"background01"
 }
