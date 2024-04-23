@@ -2,8 +2,8 @@
 {
 	"Colors"
 	{
-		"Main_Shadow"										"0 170 255 255"
-		//"Extra_Health_Shadow"								"0 170 255 255"
-		//"Extra_Uber_Shadow"								"0 170 255 255"
+		"Main_Shadow"										"112 191 251 255"
+		//"Extra_Health_Shadow"								"112 191 251 255"
+		//"Extra_Uber_Shadow"								"112 191 251 255"
 	}
 }

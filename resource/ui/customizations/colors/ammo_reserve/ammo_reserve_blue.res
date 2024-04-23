@@ -2,6 +2,6 @@
 {
 	"Colors"
 	{
-		"Ammo_In_Reserve"									"0 170 255 255"
+		"Ammo_In_Reserve"									"112 191 251 255"
 	}
 }

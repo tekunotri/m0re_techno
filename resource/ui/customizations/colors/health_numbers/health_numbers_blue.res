@@ -2,6 +2,6 @@
 {
 	"Colors"
 	{
-		"Health_Numbers"									"0 170 255 255"
+		"Health_Numbers"									"112 191 251 255"
 	}
 }

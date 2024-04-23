@@ -82,7 +82,7 @@
 		"m0reForest"										"0 135 55 255"
 		"m0reTeal"											"100 180 170 255"
 		"m0reCyan"											"0 195 200 255"
-		"m0reBlue"											"0 170 255 255"
+		"m0reBlue"											"112 191 251 255"
 		"m0reNavy"											"90 120 200 255"
 		"m0rePurple"										"150 50 235 255"
 		"m0reViolet"										"190 150 210 255"

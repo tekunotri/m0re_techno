@@ -2,6 +2,6 @@
 {
 	"Colors"
 	{
-		"Ubercharge"										"0 170 255 255"
+		"Ubercharge"										"112 191 251 255"
 	}
 }

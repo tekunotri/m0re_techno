@@ -2,6 +2,6 @@
 {
 	"Colors"
 	{
-		"Ammo_In_Clip"										"0 170 255 255"
+		"Ammo_In_Clip"										"112 191 251 255"
 	}
 }
