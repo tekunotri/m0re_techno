@@ -77,6 +77,7 @@
 			"1"
 			{
 				"name"										"Product Sans"
+				"dropshadow"								"1"
 			}
 		}
 		"m0refont18"
@@ -104,7 +105,7 @@
 		{
 			"1"
 			{
-				"name"										"Product Sans Numbers"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont20"
@@ -114,6 +115,16 @@
 				"name"										"Product Sans"
 			}
 		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
+
 		"m0refont24"
 		{
 			"1"
@@ -184,6 +195,15 @@
 				"name"										"Product Sans"
 			}
 		}
+		"m0refont32Outline"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont36"
 		{
 			"1"
@@ -198,11 +218,88 @@
 				"name"										"Product Sans"
 			}
 		}
+		"m0refont48Shadow"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"antialias" 								"1"
+				"dropshadow"								"1"
+			}
+		}
+		"m0refont48Outline"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		"m0refont72"
 		{
 			"1"
 			{
 				"name"										"Product Sans"
+				"tall"										"72"
+				"yres"										"400 500"
+				"antialias"									"1"
+			}
+			"2"
+			{
+				"name"										"Product Sans"
+				"tall"										"88"
+				"yres"										"501 600"
+				"antialias"									"1"
+			}
+			"3"
+			{
+				"name"										"Product Sans"
+				"tall"										"95"
+				"yres"										"601 679"
+				"antialias"									"1"
+			}
+			"4"
+			{
+				"name"										"Product Sans"
+				"tall"										"103"
+				"yres"										"680 720"
+				"antialias"									"1"
+			}
+			"5"
+			{
+				"name"										"Product Sans"
+				"tall"										"110"
+				"yres"										"721 799"
+				"antialias"									"1"
+			}
+			"6"
+			{
+				"name"										"Product Sans"
+				"tall"										"117"
+				"yres"										"800 899"
+				"antialias"									"1"
+			}
+			"7"
+			{
+				"name"										"Product Sans"
+				"tall"										"123"
+				"yres"										"900 1030"
+				"antialias"									"1"
+			}
+			"8"
+			{
+				"name"										"Product Sans"
+				"tall"										"130"
+				"yres"										"1031 1199"
+				"antialias"									"1"
+			}
+			"9"
+			{
+				"name"										"Surface-Numbers-XL"
+				"tall"										"999"
+				"yres"										"1200 6000"
+				"antialias"									"1"
 			}
 		}
 		"Default"
@@ -226,6 +323,16 @@
 			"5"
 			{
 				"name"										"Product Sans"
+			}
+		}
+		"m0refont72Outline"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"72"
+				"antialias" 								"1"
+				"outline"									"1"
 			}
 		}
 		"CloseCaption_Normal"
@@ -263,19 +370,12 @@
 				"name"										"Product Sans"
 			}
 		}
-		"ItemFontNameSmallest"
-		{
-			"1"
-			{
-				"name"										"Product Sans"
-			}
-		}
+		// loadout stuff
 		"ItemFontNameSmall"
 		{
 			"1"
 			{
 				"name"										"Product Sans"
-
 			}
 		}
 		"ItemFontNameLarge"
