@@ -152,5 +152,15 @@
 			"font"		"resource/scheme/fonts/fonts_optional/azuki.ttf"
 			"name"		"azuki_font"
 		}
+		"230"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/Product.ttf"
+			"name"		"Product Sans"
+		}
+		"231"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/Product_Numbers.ttf"
+			"name"		"Product Sans Numbers"
+		}
 	}
 }

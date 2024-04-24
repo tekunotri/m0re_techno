@@ -2439,6 +2439,96 @@
 							"depressedFgColor_override"	"White"
 						}
 					}
+//=================================================================================================================================
+// PRODUCT
+//=================================================================================================================================
+					"Font_Product"
+					{
+						"ControlName"					"EditablePanel"
+						"fieldName"						"Font_Product"
+						"xpos"							"1+116"
+						"ypos"							"0+26+26+26+26+26"
+						"zpos"							"20"
+						"wide"							"114"
+						"tall"							"24"
+						"visible"						"1"
+						"enabled"						"1"
+						"proportionaltoparent"			"1"
+						"paintbackground"				"1"
+						"paintbackgroundtype"			"0"
+						"bgcolor_override"				"120 120 120 255"
+
+						"Font_Name"
+						{
+							"ControlName"				"CExLabel"
+							"fieldName"					"Font_Name"
+							"xpos"						"cs-0.5"
+							"ypos"						"0"
+							"zpos"						"1"
+							"wide"						"f0"
+							"tall"						"p0.5"
+							"visible"					"1"
+							"enabled"					"1"
+							"mouseinputenabled"			"0"
+							"proportionaltoparent"		"1"
+							"font"						"Showcase_Product"
+							"labeltext"					"Product"
+							"textAlignment"				"center"
+							"fgcolor"					"White"
+							"paintbackground"			"1"
+							"paintbackgroundtype"		"0"
+							"bgcolor_override"			"80 74 74 255"
+						}
+						"Font_Showcase"
+						{
+							"ControlName"				"CExLabel"
+							"fieldName"					"Font_Showcase"
+							"xpos"						"cs-0.5"
+							"ypos"						"rs1"
+							"zpos"						"1"
+							"wide"						"f0"
+							"tall"						"p0.5"
+							"visible"					"1"
+							"enabled"					"1"
+							"mouseinputenabled"			"0"
+							"proportionaltoparent"		"1"
+							"font"						"Showcase_Product"
+							"labeltext"					"0123456789"
+							"textAlignment"				"center"
+							"fgcolor"					"White"
+							"paintbackground"			"0"
+							"paintbackgroundtype"		"0"
+							"bgcolor_override"			"Black"
+						}
+						"Font_Button"
+						{
+							"ControlName"				"CExButton"
+							"fieldName"					"Font_Button"
+							"xpos"						"0"
+							"ypos"						"0"
+							"zpos"						"5"
+							"wide"						"f0"
+							"tall"						"f0"
+							"visible"					"1"
+							"enabled"					"1"
+							"font"						""
+							"command"					"engine m0_font_product"
+							"labeltext"					""
+							"sound_depressed"			"UI/buttonclick.wav"
+							"proportionaltoparent"		"1"
+							"actionsignallevel"			"6"
+
+							"paintbackground"			"0"
+							"paintborder"				"1"
+
+							"border_default"			"NoBorder"
+							"border_armed"				"BorderSelectionWhite"
+
+							"defaultFgColor_override"	"White"
+							"armedFgColor_override"		"White"
+							"depressedFgColor_override"	"White"
+						}
+					}
 				}
 			}
 		}

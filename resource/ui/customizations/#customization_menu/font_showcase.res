@@ -284,6 +284,15 @@
 				"antialias"									"1"
 			}
 		}
+		"Showcase_Product"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"11"
+				"antialias"									"1"
+			}
+		}
 		"Crosshair_Showcase"
 		{
 			"1"
