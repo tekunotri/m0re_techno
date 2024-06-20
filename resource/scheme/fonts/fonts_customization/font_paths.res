@@ -162,5 +162,10 @@
 			"font"		"resource/scheme/fonts/fonts_optional/Product_Numbers.ttf"
 			"name"		"Product Sans Numbers"
 		}
+		"232"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/Raleway-Medium.ttf"
+			"name"		"Raleway Medium"
+		}
 	}
 }

@@ -293,6 +293,15 @@
 				"antialias"									"1"
 			}
 		}
+		"Showcase_Raleway"
+		{
+			"1"
+			{
+				"name"										"Raleway Medium"
+				"tall"										"11"
+				"antialias"									"1"
+			}
+		}
 		"Crosshair_Showcase"
 		{
 			"1"
