@@ -60,9 +60,9 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"image" "replay/thumbnails/mod"
-		"scaleImage" "1"
-		"drawcolor" "Crimson"
+		"image" 									"replay/thumbnails/mod"
+		"scaleImage" 								"1"
+		"drawcolor" 								"Menu_Accent"
 	}
 
 
