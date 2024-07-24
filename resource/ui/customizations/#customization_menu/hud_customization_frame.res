@@ -55,13 +55,13 @@
 			"labelText"									"X"
 			"font"										"Symbols18"
 			"textAlignment"								"center"
-			"Command"									"engine cl_mainmenu_safemode 0; mat_queue_mode -1"
+			"Command"									"engine cl_mainmenu_safemode 0; mat_queue_mode -1; gameui_preventescape"
 			"actionsignallevel"							"2"
 			"sound_depressed"							"UI/buttonclick.wav"
 		}
 		"GitHubWiki"
 		{
-			"ControlName"								"URLLabel"
+			"ControlName"								"CExButton"
 			"fieldname"									"GitHubWiki"
 			"xpos"										"2"
 			"ypos"										"0"
@@ -74,11 +74,9 @@
 			"labelText"									"HUD WIKI"
 			"font"										"FontStorePrice"
 			"textAlignment"								"center"
-			"urlText"									"https://github.com/Hypnootize/m0rehud/wiki/CUSTOMIZATIONS"
-			"FgColor_override"							"White"
+			"command"									"url https://github.com/Hypnootize/m0rehud/wiki/CUSTOMIZATIONS"
 			"paintbackground"							"1"
-			"paintbackgroundtype"						"2"
-			"bgcolor_override"							"TanDark"
+
 
 			"pin_to_sibling"							"CloseButton"
 			"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -86,7 +84,7 @@
 		}
 		"TroubleShooting"
 		{
-			"ControlName"								"URLLabel"
+			"ControlName"								"CExButton"
 			"fieldname"									"TroubleShooting"
 			"xpos"										"2"
 			"ypos"										"0"
@@ -99,11 +97,8 @@
 			"labelText"									"TROUBLESHOOTING"
 			"font"										"FontStorePrice"
 			"textAlignment"								"center"
-			"urlText"									"https://github.com/Hypnootize/m0rehud/wiki/TROUBLESHOOTING#customizations-and-resolution-menu"
-			"FgColor_override"							"White"
+			"urlText"									"url https://github.com/Hypnootize/m0rehud/wiki/TROUBLESHOOTING#customizations-and-resolution-menu"
 			"paintbackground"							"1"
-			"paintbackgroundtype"						"2"
-			"bgcolor_override"							"Blue"
 
 			"pin_to_sibling"							"GitHubWiki"
 			"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -155,7 +150,7 @@
 			"labelText"									"Restart TF2"
 			"font"										"FontStorePrice"
 			"textAlignment"								"center"
-			"Command"									"engine gamemenucommand RestartWithNewLanguage; mat_queue_mode -1"
+			"Command"									"engine gameui_allowescape; mat_queue_mode -1; gamemenucommand RestartWithNewLanguage"
 			"actionsignallevel"							"2"
 			"sound_depressed"							"UI/buttonclick.wav"
 
@@ -222,7 +217,7 @@
 			"labelText"									"Reload to Apply Changes"
 			"font"										"HudFontSmallBold"
 			"textAlignment"								"center"
-			"Command"									"engine cl_mainmenu_safemode 0; mat_queue_mode -1; hud_reloadscheme"
+			"Command"									"engine cl_mainmenu_safemode 0; gameui_allowescape; mat_queue_mode -1; hud_reloadscheme"
 			"actionsignallevel"							"2"
 			"sound_depressed"							"UI/buttonclick.wav"
 

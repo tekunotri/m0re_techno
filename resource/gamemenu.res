@@ -5,8 +5,8 @@
 	//====================================================================================================================================================
 	"Version"
 	{
-		"label"										"m0re_techno 2.31"
-		"command"									"engine showconsole; echo m0re_techno v2.31; echo by techno, based on a edit of m0rehud by dqz; echo using some bits from various other huds, check github for full credits.; echo powered by m0rehud 7.2"
+		"label"										"m0re_techno 2.35"
+		"command"									"engine showconsole; echo m0re_techno v2.35; echo by techno, based on a edit of m0rehud by dqz; echo using some bits from various other huds, check github for full credits.; echo powered by m0rehud 7.25"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
@@ -42,13 +42,18 @@
 	"HUDOptions"
 	{
 		"label"										"HUD Options"
-		"command"									"engine cl_mainmenu_safemode 1; mat_queue_mode 0"
+		"command"									"engine cl_mainmenu_safemode 1; mat_queue_mode 0; gameui_preventescape"
 	}
 	"Friends"
 	{
 		"label"										"k"
 		"command"									"motd_show"
 		"tooltip"									"Friends List"
+	}
+	"Quickplay"
+	{
+		"label"										"n"
+		"command"									"engine replay_reloadbrowser"
 	}
 	"Workshop"
 	{
