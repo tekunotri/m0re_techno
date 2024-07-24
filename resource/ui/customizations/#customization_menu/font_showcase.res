@@ -302,6 +302,15 @@
 				"antialias"									"1"
 			}
 		}
+		"Showcase_Zenless"
+		{
+			"1"
+			{
+				"name"										"ZenuZero Regular"
+				"tall"										"11"
+				"antialias"									"1"
+			}
+		}
 		"Crosshair_Showcase"
 		{
 			"1"

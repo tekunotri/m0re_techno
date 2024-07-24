@@ -167,5 +167,10 @@
 			"font"		"resource/scheme/fonts/fonts_optional/Raleway-Medium.ttf"
 			"name"		"Raleway Medium"
 		}
+		"233"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/ZenuZero-Regular.ttf"
+			"name"		"ZenuZero Regular"
+		}
 	}
 }
