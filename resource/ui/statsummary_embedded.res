@@ -12,7 +12,7 @@
 		"tall"										"f0"
 		"visible"									"0"
 		"enabled"									"1"
-		"bgcolor_override"							"TanDarker"
+		"bgcolor_override"							"DarkGrey"
 	}
 	"StatData"
 	{
