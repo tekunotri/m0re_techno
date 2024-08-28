@@ -5,8 +5,8 @@
 	//====================================================================================================================================================
 	"Version"
 	{
-		"label"										"m0re_techno 2.35"
-		"command"									"engine showconsole; echo m0re_techno v2.35; echo by techno, based on a edit of m0rehud by dqz; echo using some bits from various other huds, check github for full credits.; echo powered by m0rehud 7.25"
+		"label"										"m0re_techno 2.37"
+		"command"									"engine showconsole; echo m0re_techno v2.37; echo by techno, based on a edit of m0rehud by dqz; echo using some bits from various other huds, check github for full credits.; echo powered by m0rehud 7.25"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"

@@ -311,6 +311,15 @@
 				"antialias"									"1"
 			}
 		}
+		"Showcase_ZenlessJP"
+		{
+			"1"
+			{
+				"name"										"ZenuZero-JP"
+				"tall"										"11"
+				"antialias"									"1"
+			}
+		}
 		"Crosshair_Showcase"
 		{
 			"1"

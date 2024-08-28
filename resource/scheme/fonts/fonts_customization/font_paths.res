@@ -172,5 +172,10 @@
 			"font"		"resource/scheme/fonts/fonts_optional/ZenuZero-Regular.ttf"
 			"name"		"ZenuZero Regular"
 		}
+		"234"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/ZenuZero-JP.ttf"
+			"name"		"ZenuZero-JP"
+		}
 	}
 }

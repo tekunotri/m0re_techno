@@ -9,11 +9,11 @@ event HudHealthBonusPulseShadow
 	// NORMAL HEALTH --------------------------------------------------------------------------------------------------------
 	Animate	PlayerStatusHealthBonusBG				Alpha		"255"								Linear	0.0		0.0
 	Animate HealthValue								FgColor		"Health_Numbers"					Linear	0.0		0.0
-	Animate HealthValue_Shadow						FgColor		"Black"				Linear	0.0		0.0
-	Animate HealthValue_Shadow1						FgColor		"Main_Shadow"						Linear	0.0		0.0
-	Animate HealthValue_Shadow2						FgColor		"Main_Shadow"						Linear	0.0		0.0
-	Animate HealthValue_Shadow3						FgColor		"Main_Shadow"						Linear	0.0		0.0
-	Animate HealthValue_Shadow4						FgColor		"Main_Shadow"						Linear	0.0		0.0
+	Animate HealthValue_Shadow						FgColor		"Health_Shadow_Buff"				Linear	0.0		0.0
+	Animate HealthValue_Shadow1						FgColor		"Health_Shadow_Buff"				Linear	0.0		0.0
+	Animate HealthValue_Shadow2						FgColor		"Health_Shadow_Buff"				Linear	0.0		0.0
+	Animate HealthValue_Shadow3						FgColor		"Health_Shadow_Buff"				Linear	0.0		0.0
+	Animate HealthValue_Shadow4						FgColor		"Health_Shadow_Buff"				Linear	0.0		0.0
 	Animate HealthValue_Shadow_Extra				Alpha		"255"								Linear	0.0		0.0
 
 	// TARGET HEALTH --------------------------------------------------------------------------------------------------------
@@ -70,11 +70,11 @@ event HudHealthDyingPulseShadow
 	// NORMAL HEALTH --------------------------------------------------------------------------------------------------------
 	Animate	PlayerStatusHealthDyingBG				Alpha		"255"								Linear	0.0		0.0
 	Animate HealthValue								FgColor		"Health_Numbers"					Linear	0.0		0.0
-	Animate HealthValue_Shadow						FgColor		"Black"				Linear	0.0		0.0
-	Animate HealthValue_Shadow1						FgColor		"Main_Shadow"						Linear	0.0		0.0
-	Animate HealthValue_Shadow2						FgColor		"Main_Shadow"						Linear	0.0		0.0
-	Animate HealthValue_Shadow3						FgColor		"Main_Shadow"						Linear	0.0		0.0
-	Animate HealthValue_Shadow4						FgColor		"Main_Shadow"						Linear	0.0		0.0
+	Animate HealthValue_Shadow						FgColor		"Health_Shadow_Hurt"				Linear	0.0		0.0
+	Animate HealthValue_Shadow1						FgColor		"Health_Shadow_Hurt"				Linear	0.0		0.0
+	Animate HealthValue_Shadow2						FgColor		"Health_Shadow_Hurt"				Linear	0.0		0.0
+	Animate HealthValue_Shadow3						FgColor		"Health_Shadow_Hurt"				Linear	0.0		0.0
+	Animate HealthValue_Shadow4						FgColor		"Health_Shadow_Hurt"				Linear	0.0		0.0
 	Animate HealthValue_Shadow_Extra				Alpha		"255"								Linear	0.0		0.0
 
 	// TARGET HEALTH --------------------------------------------------------------------------------------------------------
