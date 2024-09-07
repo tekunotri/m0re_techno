@@ -7,3 +7,5 @@ exec m0re_customization.cfg
 stuffcmds
 startupmenu
 sv_unlockedchapters 99
+
+m0_animated_numbers // gg animations still break... but hey i fixed the shadows this time
