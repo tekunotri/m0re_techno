@@ -485,9 +485,8 @@
 			"5"
 			{
 				"name"										"AvenirLTStd-Black"
-				"tall"										"32"
+				"tall"										"9"
 				"range"										"0x0000 0x017F"
-				"yres"										"1200 6000"
 				"antialias"									"1"
 			}
 			"6"
@@ -562,10 +561,9 @@
 			"5"
 			{
 				"name"										"Verdana"
-				"tall"										"22"
+				"tall"										"9"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
-				"yres"										"1200 6000"
 				"antialias"									"1"
 			}
 			"6"
@@ -615,10 +613,9 @@
 			"5"
 			{
 				"name"										"Verdana"
-				"tall"										"16"
+				"tall"										"9"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
-				"yres"										"1200 6000"
 				"antialias"									"1"
 			}
 		}
@@ -661,10 +658,9 @@
 			"5"
 			{
 				"name"										"Verdana"
-				"tall"										"30"
+				"tall"										"18"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
-				"yres"										"1200 6000"
 				"antialias"									"1"
 			}
 			"6"
@@ -713,6 +709,7 @@
 				"tall"										"12"
 				"weight"									"700"
 				"yres"										"480 599"
+				"antialias"									"1"
 			}
 			"2"
 			{
@@ -720,6 +717,7 @@
 				"tall"										"13"
 				"weight"									"700"
 				"yres"										"600 767"
+				"antialias"									"1"
 			}
 			"3"
 			{
@@ -727,6 +725,7 @@
 				"tall"										"14"
 				"weight"									"700"
 				"yres"										"768 1023"
+				"antialias"									"1"
 			}
 			"4"
 			{
@@ -734,13 +733,14 @@
 				"tall"										"20"
 				"weight"									"700"
 				"yres"										"1024 1199"
+				"antialias"									"1"
 			}
 			"5"
 			{
 				"name"										"Verdana"
-				"tall"										"24"
+				"tall"										"12"
 				"weight"									"700"
-				"yres"										"1200 10000"
+				"antialias"									"1"
 			}
 		}
 		"HudFontGiant"
@@ -784,11 +784,10 @@
 			"5"
 			{
 				"name"										"TF2"
-				"tall"										"52"
+				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
-				"yres"										"1200 10000"
 			}
 		}
 		"HudFontGiantBold"
@@ -863,6 +862,15 @@
 			{
 				"name"										"TF2 Secondary"
 				"tall"										"24"
+				"weight"									"500"
+				"yres"										"1 1199"
+				"additive"									"0"
+				"antialias"									"1"
+			}
+			"1"
+			{
+				"name"										"TF2 Secondary"
+				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2518,7 +2526,7 @@
 			"1"
 			{
 				"name"										"TF2 Secondary"
-				"tall"										"10"
+				"tall"										"12"
 				"weight"									"400"
 				"additive"									"0"
 				"antialias"									"1"
@@ -3031,7 +3039,7 @@
 			"font"		"resource/scheme/fonts/surface_numbers_xl.otf"
 			"name"		"Surface-Numbers-XL"
 		}
-		"11"
+		"11"	
 		{
 			"font"		"resource/scheme/fonts/coolvetica.ttf"
 			"name"		"Coolvetica"
