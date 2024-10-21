@@ -105,9 +105,7 @@
 		{
 			"1"
 			{
-				"name"										"Stratum2 Bd Bold"
-				"antialias" 								"1"
-				"outline"									"1"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont20"
@@ -126,6 +124,7 @@
 				"outline"									"1"
 			}
 		}
+
 		"m0refont24"
 		{
 			"1"
@@ -151,9 +150,7 @@
 		{
 			"1"
 			{
-				"name"										"Stratum2 Bd Bold"
-				"antialias" 								"1"
-				"outline"									"1"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont26"
@@ -181,7 +178,7 @@
 		{
 			"1"
 			{
-				"name"										"Stratum2 Bd Bold"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont32"
@@ -219,8 +216,6 @@
 			"1"
 			{
 				"name"										"Stratum2 Bd Bold"
-				"tall"										"50"
-				"antialias" 								"1"
 			}
 		}
 		"m0refont48Shadow"
@@ -228,7 +223,6 @@
 			"1"
 			{
 				"name"										"Stratum2 Bd Bold"
-				"tall"										"50"
 				"antialias" 								"1"
 				"dropshadow"								"1"
 			}
@@ -238,7 +232,6 @@
 			"1"
 			{
 				"name"										"Stratum2 Bd Bold"
-				"tall"										"50"
 				"antialias" 								"1"
 				"outline"									"1"
 			}
@@ -248,18 +241,22 @@
 			"1"
 			{
 				"name"										"Stratum2 Bd Bold"
-				"tall"										"72"
-				"antialias" 								"1"
 			}
-		}
-		"m0refont72Outline"
-		{
-			"1"
+			"2"
 			{
 				"name"										"Stratum2 Bd Bold"
-				"tall"										"72"
-				"antialias" 								"1"
-				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"Stratum2 Bd Bold"
+			}
+			"4"
+			{
+				"name"										"Stratum2 Bd Bold"
+			}
+			"5"
+			{
+				"name"										"Stratum2 Bd Bold"
 			}
 		}
 		"Default"
@@ -283,6 +280,34 @@
 			"5"
 			{
 				"name"										"Stratum2 Bd Bold"
+			}
+		}
+		"m0refont72Outline"
+		{
+			"1"
+			{
+				"name"										"Stratum2 Bd Bold"
+				"outline"									"1"
+			}
+			"2"
+			{
+				"name"										"Stratum2 Bd Bold"
+				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"Stratum2 Bd Bold"
+				"outline"									"1"
+			}
+			"4"
+			{
+				"name"										"Stratum2 Bd Bold"
+				"outline"									"1"
+			}
+			"5"
+			{
+				"name"										"Stratum2 Bd Bold"
+				"outline"									"1"
 			}
 		}
 		"CloseCaption_Normal"
@@ -326,7 +351,7 @@
 			"1"
 			{
 				"name"										"Stratum2 Bd Bold"
-				"tall"										"12"
+				"tall"										"10"
 			}
 		}
 		"ItemFontNameLarge"

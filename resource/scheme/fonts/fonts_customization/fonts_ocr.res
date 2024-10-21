@@ -105,9 +105,7 @@
 		{
 			"1"
 			{
-				"name"										"OCR A Std"
-				"antialias" 								"1"
-				"outline"									"1"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont20"
@@ -126,6 +124,7 @@
 				"outline"									"1"
 			}
 		}
+
 		"m0refont24"
 		{
 			"1"
@@ -151,9 +150,7 @@
 		{
 			"1"
 			{
-				"name"										"OCR A Std"
-				"antialias" 								"1"
-				"outline"									"1"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont26"
@@ -181,7 +178,7 @@
 		{
 			"1"
 			{
-				"name"										"OCR A Std"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont32"
@@ -219,8 +216,6 @@
 			"1"
 			{
 				"name"										"OCR A Std"
-				"tall"										"42"
-				"antialias" 								"1"
 			}
 		}
 		"m0refont48Shadow"
@@ -228,7 +223,6 @@
 			"1"
 			{
 				"name"										"OCR A Std"
-				"tall"										"42"
 				"antialias" 								"1"
 				"dropshadow"								"1"
 			}
@@ -238,7 +232,6 @@
 			"1"
 			{
 				"name"										"OCR A Std"
-				"tall"										"42"
 				"antialias" 								"1"
 				"outline"									"1"
 			}
@@ -248,18 +241,22 @@
 			"1"
 			{
 				"name"										"OCR A Std"
-				"tall"										"50"
-				"antialias" 								"1"
 			}
-		}
-		"m0refont72Outline"
-		{
-			"1"
+			"2"
 			{
 				"name"										"OCR A Std"
-				"tall"										"50"
-				"antialias" 								"1"
-				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"OCR A Std"
+			}
+			"4"
+			{
+				"name"										"OCR A Std"
+			}
+			"5"
+			{
+				"name"										"OCR A Std"
 			}
 		}
 		"Default"
@@ -283,6 +280,34 @@
 			"5"
 			{
 				"name"										"OCR A Std"
+			}
+		}
+		"m0refont72Outline"
+		{
+			"1"
+			{
+				"name"										"OCR A Std"
+				"outline"									"1"
+			}
+			"2"
+			{
+				"name"										"OCR A Std"
+				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"OCR A Std"
+				"outline"									"1"
+			}
+			"4"
+			{
+				"name"										"OCR A Std"
+				"outline"									"1"
+			}
+			"5"
+			{
+				"name"										"OCR A Std"
+				"outline"									"1"
 			}
 		}
 		"CloseCaption_Normal"
@@ -326,7 +351,7 @@
 			"1"
 			{
 				"name"										"OCR A Std"
-				"tall"										"8"
+				"tall"										"10"
 			}
 		}
 		"ItemFontNameLarge"
@@ -334,7 +359,6 @@
 			"1"
 			{
 				"name"										"OCR A Std"
-				"tall"										"8"
 			}
 		}
 		"ItemFontNameLarger"
@@ -342,7 +366,6 @@
 			"1"
 			{
 				"name"										"OCR A Std"
-				"tall"										"8"
 			}
 		}
 		"ItemFontAttribSmallest"
@@ -350,7 +373,6 @@
 			"1"
 			{
 				"name"										"OCR A Std"
-				"tall"										"8"
 			}
 		}
 		"ItemFontAttribSmallv2"
@@ -358,7 +380,6 @@
 			"1"
 			{
 				"name"										"OCR A Std"
-				"tall"										"8"
 			}
 		}
 		"ItemFontAttribSmall"
@@ -366,7 +387,6 @@
 			"1"
 			{
 				"name"										"OCR A Std"
-				"tall"										"8"
 			}
 		}
 		"ItemFontAttribLarge"
@@ -374,7 +394,6 @@
 			"1"
 			{
 				"name"										"OCR A Std"
-				"tall"										"8"
 			}
 		}
 		"ItemFontAttribLarger"
@@ -382,7 +401,6 @@
 			"1"
 			{
 				"name"										"OCR A Std"
-				"tall"										"8"
 			}
 		}
 	}

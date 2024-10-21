@@ -99,15 +99,13 @@
 			"1"
 			{
 				"name"										"ImoparaCustom Edit"
-				"antialias" 								"1"
-				"outline"									"1"
 			}
 		}
 		"m0refont18Numbers"
 		{
 			"1"
 			{
-				"name"										"ImoparaCustom Edit"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont20"
@@ -117,6 +115,16 @@
 				"name"										"ImoparaCustom Edit"
 			}
 		}
+		"m0refont20Outline"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom Edit"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
+
 		"m0refont24"
 		{
 			"1"
@@ -136,25 +144,13 @@
 			"1"
 			{
 				"name"										"ImoparaCustom Edit"
-				"antialias" 								"1"
-				"outline"									"1"
 			}
 		}
 		"m0refont24Numbers"
 		{
 			"1"
 			{
-				"name"										"ImoparaCustom Edit"
-
-			}
-		}
-		"m0refont20Outline"
-		{
-			"1"
-			{
-				"name"										"ImoparaCustom Edit"
-				"antialias" 								"1"
-				"outline"									"1"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont26"
@@ -182,7 +178,7 @@
 		{
 			"1"
 			{
-				"name"										"ImoparaCustom Edit"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont32"
@@ -220,8 +216,6 @@
 			"1"
 			{
 				"name"										"ImoparaCustom Edit"
-				"tall"										"50"
-				"antialias" 								"1"
 			}
 		}
 		"m0refont48Shadow"
@@ -229,7 +223,6 @@
 			"1"
 			{
 				"name"										"ImoparaCustom Edit"
-				"tall"										"50"
 				"antialias" 								"1"
 				"dropshadow"								"1"
 			}
@@ -239,7 +232,6 @@
 			"1"
 			{
 				"name"										"ImoparaCustom Edit"
-				"tall"										"50"
 				"antialias" 								"1"
 				"outline"									"1"
 			}
@@ -249,18 +241,22 @@
 			"1"
 			{
 				"name"										"ImoparaCustom Edit"
-				"tall"										"72"
-				"antialias" 								"1"
 			}
-		}
-		"m0refont72Outline"
-		{
-			"1"
+			"2"
 			{
 				"name"										"ImoparaCustom Edit"
-				"tall"										"72"
-				"antialias" 								"1"
-				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"ImoparaCustom Edit"
+			}
+			"4"
+			{
+				"name"										"ImoparaCustom Edit"
+			}
+			"5"
+			{
+				"name"										"ImoparaCustom Edit"
 			}
 		}
 		"Default"
@@ -284,6 +280,34 @@
 			"5"
 			{
 				"name"										"ImoparaCustom Edit"
+			}
+		}
+		"m0refont72Outline"
+		{
+			"1"
+			{
+				"name"										"ImoparaCustom Edit"
+				"outline"									"1"
+			}
+			"2"
+			{
+				"name"										"ImoparaCustom Edit"
+				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"ImoparaCustom Edit"
+				"outline"									"1"
+			}
+			"4"
+			{
+				"name"										"ImoparaCustom Edit"
+				"outline"									"1"
+			}
+			"5"
+			{
+				"name"										"ImoparaCustom Edit"
+				"outline"									"1"
 			}
 		}
 		"CloseCaption_Normal"
@@ -321,20 +345,13 @@
 				"name"										"ImoparaCustom Edit"
 			}
 		}
-		"ItemFontNameSmallest"
-		{
-			"1"
-			{
-				"name"										"ImoparaCustom Edit"
-			}
-		}
 		// loadout stuff
 		"ItemFontNameSmall"
 		{
 			"1"
 			{
 				"name"										"ImoparaCustom Edit"
-				"tall"										"12"
+				"tall"										"10"
 			}
 		}
 		"ItemFontNameLarge"

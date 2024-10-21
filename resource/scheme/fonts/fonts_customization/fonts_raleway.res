@@ -241,65 +241,22 @@
 			"1"
 			{
 				"name"										"Raleway Medium"
-				"tall"										"72"
-				"yres"										"400 500"
-				"antialias"									"1"
 			}
 			"2"
 			{
 				"name"										"Raleway Medium"
-				"tall"										"88"
-				"yres"										"501 600"
-				"antialias"									"1"
 			}
 			"3"
 			{
 				"name"										"Raleway Medium"
-				"tall"										"95"
-				"yres"										"601 679"
-				"antialias"									"1"
 			}
 			"4"
 			{
 				"name"										"Raleway Medium"
-				"tall"										"103"
-				"yres"										"680 720"
-				"antialias"									"1"
 			}
 			"5"
 			{
 				"name"										"Raleway Medium"
-				"tall"										"110"
-				"yres"										"721 799"
-				"antialias"									"1"
-			}
-			"6"
-			{
-				"name"										"Raleway Medium"
-				"tall"										"117"
-				"yres"										"800 899"
-				"antialias"									"1"
-			}
-			"7"
-			{
-				"name"										"Raleway Medium"
-				"tall"										"123"
-				"yres"										"900 1030"
-				"antialias"									"1"
-			}
-			"8"
-			{
-				"name"										"Raleway Medium"
-				"tall"										"130"
-				"yres"										"1031 1199"
-				"antialias"									"1"
-			}
-			"9"
-			{
-				"name"										"Surface-Numbers-XL"
-				"tall"										"999"
-				"yres"										"1200 6000"
-				"antialias"									"1"
 			}
 		}
 		"Default"
@@ -330,8 +287,26 @@
 			"1"
 			{
 				"name"										"Raleway Medium"
-				"tall"										"72"
-				"antialias" 								"1"
+				"outline"									"1"
+			}
+			"2"
+			{
+				"name"										"Raleway Medium"
+				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"Raleway Medium"
+				"outline"									"1"
+			}
+			"4"
+			{
+				"name"										"Raleway Medium"
+				"outline"									"1"
+			}
+			"5"
+			{
+				"name"										"Raleway Medium"
 				"outline"									"1"
 			}
 		}

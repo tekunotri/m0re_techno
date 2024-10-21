@@ -241,65 +241,22 @@
 			"1"
 			{
 				"name"										"ZenuZero-JP"
-				"tall"										"72"
-				"yres"										"400 500"
-				"antialias"									"1"
 			}
 			"2"
 			{
 				"name"										"ZenuZero-JP"
-				"tall"										"88"
-				"yres"										"501 600"
-				"antialias"									"1"
 			}
 			"3"
 			{
 				"name"										"ZenuZero-JP"
-				"tall"										"95"
-				"yres"										"601 679"
-				"antialias"									"1"
 			}
 			"4"
 			{
 				"name"										"ZenuZero-JP"
-				"tall"										"103"
-				"yres"										"680 720"
-				"antialias"									"1"
 			}
 			"5"
 			{
 				"name"										"ZenuZero-JP"
-				"tall"										"110"
-				"yres"										"721 799"
-				"antialias"									"1"
-			}
-			"6"
-			{
-				"name"										"ZenuZero-JP"
-				"tall"										"117"
-				"yres"										"800 899"
-				"antialias"									"1"
-			}
-			"7"
-			{
-				"name"										"ZenuZero-JP"
-				"tall"										"123"
-				"yres"										"900 1030"
-				"antialias"									"1"
-			}
-			"8"
-			{
-				"name"										"ZenuZero-JP"
-				"tall"										"130"
-				"yres"										"1031 1199"
-				"antialias"									"1"
-			}
-			"9"
-			{
-				"name"										"Surface-Numbers-XL"
-				"tall"										"999"
-				"yres"										"1200 6000"
-				"antialias"									"1"
 			}
 		}
 		"Default"
@@ -330,8 +287,26 @@
 			"1"
 			{
 				"name"										"ZenuZero-JP"
-				"tall"										"72"
-				"antialias" 								"1"
+				"outline"									"1"
+			}
+			"2"
+			{
+				"name"										"ZenuZero-JP"
+				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"ZenuZero-JP"
+				"outline"									"1"
+			}
+			"4"
+			{
+				"name"										"ZenuZero-JP"
+				"outline"									"1"
+			}
+			"5"
+			{
+				"name"										"ZenuZero-JP"
 				"outline"									"1"
 			}
 		}

@@ -99,15 +99,13 @@
 			"1"
 			{
 				"name"										"ShinMGoUpr-Medium"
-				"antialias" 								"1"
-				"outline"									"1"
 			}
 		}
 		"m0refont18Numbers"
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-Medium"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont20"
@@ -126,6 +124,7 @@
 				"outline"									"1"
 			}
 		}
+
 		"m0refont24"
 		{
 			"1"
@@ -145,15 +144,13 @@
 			"1"
 			{
 				"name"										"ShinMGoUpr-Medium"
-				"antialias" 								"1"
-				"outline"									"1"
 			}
 		}
 		"m0refont24Numbers"
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-Medium"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont26"
@@ -181,7 +178,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-Medium"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont32"
@@ -219,8 +216,6 @@
 			"1"
 			{
 				"name"										"ShinMGoUpr-Medium"
-				"tall"										"50"
-				"antialias" 								"1"
 			}
 		}
 		"m0refont48Shadow"
@@ -228,7 +223,6 @@
 			"1"
 			{
 				"name"										"ShinMGoUpr-Medium"
-				"tall"										"50"
 				"antialias" 								"1"
 				"dropshadow"								"1"
 			}
@@ -238,7 +232,6 @@
 			"1"
 			{
 				"name"										"ShinMGoUpr-Medium"
-				"tall"										"50"
 				"antialias" 								"1"
 				"outline"									"1"
 			}
@@ -248,18 +241,22 @@
 			"1"
 			{
 				"name"										"ShinMGoUpr-Medium"
-				"tall"										"72"
-				"antialias" 								"1"
 			}
-		}
-		"m0refont72Outline"
-		{
-			"1"
+			"2"
 			{
 				"name"										"ShinMGoUpr-Medium"
-				"tall"										"72"
-				"antialias" 								"1"
-				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"ShinMGoUpr-Medium"
+			}
+			"4"
+			{
+				"name"										"ShinMGoUpr-Medium"
+			}
+			"5"
+			{
+				"name"										"ShinMGoUpr-Medium"
 			}
 		}
 		"Default"
@@ -283,6 +280,34 @@
 			"5"
 			{
 				"name"										"ShinMGoUpr-Medium"
+			}
+		}
+		"m0refont72Outline"
+		{
+			"1"
+			{
+				"name"										"ShinMGoUpr-Medium"
+				"outline"									"1"
+			}
+			"2"
+			{
+				"name"										"ShinMGoUpr-Medium"
+				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"ShinMGoUpr-Medium"
+				"outline"									"1"
+			}
+			"4"
+			{
+				"name"										"ShinMGoUpr-Medium"
+				"outline"									"1"
+			}
+			"5"
+			{
+				"name"										"ShinMGoUpr-Medium"
+				"outline"									"1"
 			}
 		}
 		"CloseCaption_Normal"
@@ -326,7 +351,7 @@
 			"1"
 			{
 				"name"										"ShinMGoUpr-Medium"
-				"tall"										"12"
+				"tall"										"10"
 			}
 		}
 		"ItemFontNameLarge"

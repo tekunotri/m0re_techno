@@ -99,15 +99,13 @@
 			"1"
 			{
 				"name"										"DIN2014TFRegular"
-				"antialias" 								"1"
-				"outline"									"1"
 			}
 		}
 		"m0refont18Numbers"
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont20"
@@ -145,17 +143,13 @@
 			"1"
 			{
 				"name"										"DIN2014TFRegular"
-				"antialias" 								"1"
-				"outline"									"1"
 			}
 		}
 		"m0refont24Numbers"
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular"
-				"antialias" 								"1"
-				"outline"									"1"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont26"
@@ -183,7 +177,7 @@
 		{
 			"1"
 			{
-				"name"										"DIN2014TFRegular"
+				"name"										"Surface-Numbers"
 			}
 		}
 		"m0refont32"
@@ -207,7 +201,6 @@
 				"name"										"DIN2014TFRegular"
 				"antialias" 								"1"
 				"outline"									"1"
-
 			}
 		}
 		"m0refont36"
@@ -222,8 +215,6 @@
 			"1"
 			{
 				"name"										"DIN2014TFRegular"
-				"tall"										"50"
-				"antialias" 								"1"
 			}
 		}
 		"m0refont48Shadow"
@@ -231,7 +222,6 @@
 			"1"
 			{
 				"name"										"DIN2014TFRegular"
-				"tall"										"50"
 				"antialias" 								"1"
 				"dropshadow"								"1"
 			}
@@ -241,7 +231,6 @@
 			"1"
 			{
 				"name"										"DIN2014TFRegular"
-				"tall"										"50"
 				"antialias" 								"1"
 				"outline"									"1"
 			}
@@ -251,18 +240,22 @@
 			"1"
 			{
 				"name"										"DIN2014TFRegular"
-				"tall"										"72"
-				"antialias" 								"1"
 			}
-		}
-		"m0refont72Outline"
-		{
-			"1"
+			"2"
 			{
 				"name"										"DIN2014TFRegular"
-				"tall"										"72"
-				"antialias" 								"1"
-				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"DIN2014TFRegular"
+			}
+			"4"
+			{
+				"name"										"DIN2014TFRegular"
+			}
+			"5"
+			{
+				"name"										"DIN2014TFRegular"
 			}
 		}
 		"Default"
@@ -286,6 +279,34 @@
 			"5"
 			{
 				"name"										"DIN2014TFRegular"
+			}
+		}
+		"m0refont72Outline"
+		{
+			"1"
+			{
+				"name"										"DIN2014TFRegular"
+				"outline"									"1"
+			}
+			"2"
+			{
+				"name"										"DIN2014TFRegular"
+				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"DIN2014TFRegular"
+				"outline"									"1"
+			}
+			"4"
+			{
+				"name"										"DIN2014TFRegular"
+				"outline"									"1"
+			}
+			"5"
+			{
+				"name"										"DIN2014TFRegular"
+				"outline"									"1"
 			}
 		}
 		"CloseCaption_Normal"

@@ -241,65 +241,22 @@
 			"1"
 			{
 				"name"										"azuki_font"
-				"tall"										"72"
-				"yres"										"400 500"
-				"antialias"									"1"
 			}
 			"2"
 			{
 				"name"										"azuki_font"
-				"tall"										"88"
-				"yres"										"501 600"
-				"antialias"									"1"
 			}
 			"3"
 			{
 				"name"										"azuki_font"
-				"tall"										"95"
-				"yres"										"601 679"
-				"antialias"									"1"
 			}
 			"4"
 			{
 				"name"										"azuki_font"
-				"tall"										"103"
-				"yres"										"680 720"
-				"antialias"									"1"
 			}
 			"5"
 			{
 				"name"										"azuki_font"
-				"tall"										"110"
-				"yres"										"721 799"
-				"antialias"									"1"
-			}
-			"6"
-			{
-				"name"										"azuki_font"
-				"tall"										"117"
-				"yres"										"800 899"
-				"antialias"									"1"
-			}
-			"7"
-			{
-				"name"										"azuki_font"
-				"tall"										"123"
-				"yres"										"900 1030"
-				"antialias"									"1"
-			}
-			"8"
-			{
-				"name"										"azuki_font"
-				"tall"										"130"
-				"yres"										"1031 1199"
-				"antialias"									"1"
-			}
-			"9"
-			{
-				"name"										"Surface-Numbers-XL"
-				"tall"										"999"
-				"yres"										"1200 6000"
-				"antialias"									"1"
 			}
 		}
 		"Default"
@@ -330,8 +287,26 @@
 			"1"
 			{
 				"name"										"azuki_font"
-				"tall"										"72"
-				"antialias" 								"1"
+				"outline"									"1"
+			}
+			"2"
+			{
+				"name"										"azuki_font"
+				"outline"									"1"
+			}
+			"3"
+			{
+				"name"										"azuki_font"
+				"outline"									"1"
+			}
+			"4"
+			{
+				"name"										"azuki_font"
+				"outline"									"1"
+			}
+			"5"
+			{
+				"name"										"azuki_font"
 				"outline"									"1"
 			}
 		}
@@ -376,7 +351,6 @@
 			"1"
 			{
 				"name"										"azuki_font"
-				"tall"										"10"
 			}
 		}
 		"ItemFontNameLarge"
