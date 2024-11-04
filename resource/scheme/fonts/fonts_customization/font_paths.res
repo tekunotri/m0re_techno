@@ -177,5 +177,10 @@
 			"font"		"resource/scheme/fonts/fonts_optional/ZenuZero-JP.ttf"
 			"name"		"ZenuZero-JP"
 		}
+		"235"
+		{
+			"font"		"resource/scheme/fonts/fonts_optional/geist.ttf"
+			"name"		"Geist Mono Medium"
+		}
 	}
 }

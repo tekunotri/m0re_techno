@@ -320,6 +320,15 @@
 				"antialias"									"1"
 			}
 		}
+		"Showcase_Geist"
+		{
+			"1"
+			{
+				"name"										"Geist Mono Medium"
+				"tall"										"11"
+				"antialias"									"1"
+			}
+		}
 		"Crosshair_Showcase"
 		{
 			"1"
