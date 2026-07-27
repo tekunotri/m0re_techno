@@ -16,7 +16,7 @@
 // TRANSPARENT VIEWMODELS
 //=========================================================
 
-#base "../cfg/m0rehud/m0re_transparent_viewmodels.txt"
+#base "../cfg/m0re_techno/m0re_transparent_viewmodels.txt"
 
 //=========================================================
 // DEV TOOLS
